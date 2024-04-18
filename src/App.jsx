@@ -9,14 +9,12 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+        <a href="https://fantasy.espn.com/football/league?leagueId=48346" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/en/3/3b/TheLeagueintertitle.png" className="logo" alt="Vite logo" />
         </a>
       </div>
-      <h1>The League Data Visualization</h1>
+      <h1>The League</h1>
+      <p>Data Visualizaiton</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -26,7 +24,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the League logo to check out our league!
       </p>
     </>
   )
