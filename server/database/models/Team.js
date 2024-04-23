@@ -1,17 +1,17 @@
-const Sequelize = require('sequelize')
 const db = require('../database')
+const { STRING, INTEGER } = db.Sequelize
 
 const Team = db.define('teams', {
     name: {
-        type: Sequelize.STRING,
+        type: STRING,
         allowNull: false
     },
     imageUrl: {
-        type: Sequelize.STRING,
+        type: STRING,
         defaultValue: ''
     },
     seasons: {
-        type: Sequelize.INTEGER,
+        type: INTEGER,
         validate: {
             min: 1,
             max: 12

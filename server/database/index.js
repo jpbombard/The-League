@@ -1,5 +1,5 @@
 const db = require('./database')
-const { Team } = require('./models/teams')
+const { Team } = require('./models/Team')
 
 const teams = [{
     name: "Bosh",
@@ -8,6 +8,18 @@ const teams = [{
 }, {
     name: 'Kellen and Tal',
     imageUrl: 'https://a.espncdn.com/i/headshots/nfl/players/full/14874.png',
+    seasons: 12
+}, {
+    name: 'Nate and Jake',
+    imageUrl: '',
+    seasons: 12
+}, {
+    name: 'Sam',
+    imageUrl: '',
+    seasons: 12
+}, {
+    name: 'Sam',
+    imageUrl: '',
     seasons: 12
 }]
 
