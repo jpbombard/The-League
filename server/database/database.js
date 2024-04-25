@@ -1,7 +1,7 @@
-const Sequelize = require('sequelize')
+import Sequelize from 'sequelize'
 
 const db = new Sequelize(`postgres://localhost:5432/theleague`, {
     logging: false,
 })
 
-module.exports = db
+export default db

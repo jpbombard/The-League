@@ -1,5 +1,6 @@
-const db = require('./database')
-const { Team } = require('./models/Team')
+import db from './database.js'
+import obj from './models/Team.js'
+const { Team } = obj
 
 const teams = [{
     name: "Bosh",
@@ -40,8 +41,9 @@ const seed = async () => {
     }
 }
 
-module.exports = {
+export default {
     seed,
     db,
     Team
 }
+

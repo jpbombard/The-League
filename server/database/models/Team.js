@@ -1,4 +1,4 @@
-const db = require('../database')
+import db from '../database.js'
 const { STRING, INTEGER } = db.Sequelize
 
 const Team = db.define('teams', {
@@ -19,4 +19,4 @@ const Team = db.define('teams', {
     }
 })
 
-module.exports = { Team }
+export default Team 
