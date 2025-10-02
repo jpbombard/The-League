@@ -1,0 +1,205 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2021,1,8,"Russ Agholorder a Mcaffé, CHARK",7.0,Ballen On A Budget,95.64,87.4,True,True,False,False,False
+2021,1,7,Ballen On A Budget,8.0,"Russ Agholorder a Mcaffé, CHARK",87.4,95.64,False,False,False,False,False
+2021,1,2,Lower  Bottoms,12.0,Its literally  too easy,86.92,138.9,True,False,False,False,False
+2021,1,12,Its literally  too easy,2.0,Lower  Bottoms,138.9,86.92,False,True,False,False,False
+2021,1,9,Fire up the  Double Darrell,3.0,My Hardman  Hurts herButker,89.78,56.66,True,True,False,False,False
+2021,1,3,My Hardman  Hurts herButker,9.0,Fire up the  Double Darrell,56.66,89.78,False,False,False,False,False
+2021,1,5,Dallas Buyers CHLUBB,10.0,Rectum Wrecker$$$,119.56,105.44,True,True,False,False,False
+2021,1,10,Rectum Wrecker$$$,5.0,Dallas Buyers CHLUBB,105.44,119.56,False,False,False,False,False
+2021,1,4,Country Kitchen Buffet,1.0,Mr. Commish Sir,125.52,90.18,True,True,False,False,False
+2021,1,1,Mr. Commish Sir,4.0,Country Kitchen Buffet,90.18,125.52,False,False,False,False,False
+2021,1,6,Andrew Luck Memorial Squad,11.0,Gotta get Swifty,72.64,96.5,True,False,False,False,False
+2021,1,11,Gotta get Swifty,6.0,Andrew Luck Memorial Squad,96.5,72.64,False,True,False,False,False
+2021,2,7,Ballen On A Budget,12.0,Its literally  too easy,86.86,93.64,True,False,False,False,False
+2021,2,12,Its literally  too easy,7.0,Ballen On A Budget,93.64,86.86,False,True,False,False,False
+2021,2,3,My Hardman  Hurts herButker,8.0,"Russ Agholorder a Mcaffé, CHARK",119.3,106.02,True,True,False,False,False
+2021,2,8,"Russ Agholorder a Mcaffé, CHARK",3.0,My Hardman  Hurts herButker,106.02,119.3,False,False,False,False,False
+2021,2,10,Rectum Wrecker$$$,2.0,Lower  Bottoms,112.4,84.12,True,True,False,False,False
+2021,2,2,Lower  Bottoms,10.0,Rectum Wrecker$$$,84.12,112.4,False,False,False,False,False
+2021,2,1,Mr. Commish Sir,9.0,Fire up the  Double Darrell,103.32,84.58,True,True,False,False,False
+2021,2,9,Fire up the  Double Darrell,1.0,Mr. Commish Sir,84.58,103.32,False,False,False,False,False
+2021,2,11,Gotta get Swifty,5.0,Dallas Buyers CHLUBB,133.16,114.8,True,True,False,False,False
+2021,2,5,Dallas Buyers CHLUBB,11.0,Gotta get Swifty,114.8,133.16,False,False,False,False,False
+2021,2,6,Andrew Luck Memorial Squad,4.0,Country Kitchen Buffet,98.72,75.68,True,True,False,False,False
+2021,2,4,Country Kitchen Buffet,6.0,Andrew Luck Memorial Squad,75.68,98.72,False,False,False,False,False
+2021,3,3,My Hardman  Hurts herButker,7.0,Ballen On A Budget,89.54,111.82,True,False,False,False,False
+2021,3,7,Ballen On A Budget,3.0,My Hardman  Hurts herButker,111.82,89.54,False,True,False,False,False
+2021,3,12,Its literally  too easy,10.0,Rectum Wrecker$$$,90.94,99.34,True,False,False,False,False
+2021,3,10,Rectum Wrecker$$$,12.0,Its literally  too easy,99.34,90.94,False,True,False,False,False
+2021,3,8,"Russ Agholorder a Mcaffé, CHARK",1.0,Mr. Commish Sir,81.52,129.92,True,False,False,False,False
+2021,3,1,Mr. Commish Sir,8.0,"Russ Agholorder a Mcaffé, CHARK",129.92,81.52,False,True,False,False,False
+2021,3,2,Lower  Bottoms,11.0,Gotta get Swifty,116.5,124.98,True,False,False,False,False
+2021,3,11,Gotta get Swifty,2.0,Lower  Bottoms,124.98,116.5,False,True,False,False,False
+2021,3,9,Fire up the  Double Darrell,6.0,Andrew Luck Memorial Squad,80.48,97.74,True,False,False,False,False
+2021,3,6,Andrew Luck Memorial Squad,9.0,Fire up the  Double Darrell,97.74,80.48,False,True,False,False,False
+2021,3,5,Dallas Buyers CHLUBB,4.0,Country Kitchen Buffet,75.54,72.12,True,True,False,False,False
+2021,3,4,Country Kitchen Buffet,5.0,Dallas Buyers CHLUBB,72.12,75.54,False,False,False,False,False
+2021,4,7,Ballen On A Budget,10.0,Rectum Wrecker$$$,73.52,136.08,True,False,False,False,False
+2021,4,10,Rectum Wrecker$$$,7.0,Ballen On A Budget,136.08,73.52,False,True,False,False,False
+2021,4,1,Mr. Commish Sir,3.0,My Hardman  Hurts herButker,76.6,90.58,True,False,False,False,False
+2021,4,3,My Hardman  Hurts herButker,1.0,Mr. Commish Sir,90.58,76.6,False,True,False,False,False
+2021,4,11,Gotta get Swifty,12.0,Its literally  too easy,77.24,68.66,True,True,False,False,False
+2021,4,12,Its literally  too easy,11.0,Gotta get Swifty,68.66,77.24,False,False,False,False,False
+2021,4,6,Andrew Luck Memorial Squad,8.0,"Russ Agholorder a Mcaffé, CHARK",81.78,122.76,True,False,False,False,False
+2021,4,8,"Russ Agholorder a Mcaffé, CHARK",6.0,Andrew Luck Memorial Squad,122.76,81.78,False,True,False,False,False
+2021,4,4,Country Kitchen Buffet,2.0,Lower  Bottoms,158.42,109.06,True,True,False,False,False
+2021,4,2,Lower  Bottoms,4.0,Country Kitchen Buffet,109.06,158.42,False,False,False,False,False
+2021,4,5,Dallas Buyers CHLUBB,9.0,Fire up the  Double Darrell,114.12,100.84,True,True,False,False,False
+2021,4,9,Fire up the  Double Darrell,5.0,Dallas Buyers CHLUBB,100.84,114.12,False,False,False,False,False
+2021,5,1,Mr. Commish Sir,7.0,Ballen On A Budget,105.8,135.3,True,False,False,False,False
+2021,5,7,Ballen On A Budget,1.0,Mr. Commish Sir,135.3,105.8,False,True,False,False,False
+2021,5,10,Rectum Wrecker$$$,11.0,Gotta get Swifty,128.44,140.22,True,False,False,False,False
+2021,5,11,Gotta get Swifty,10.0,Rectum Wrecker$$$,140.22,128.44,False,True,False,False,False
+2021,5,3,My Hardman  Hurts herButker,6.0,Andrew Luck Memorial Squad,115.22,99.92,True,True,False,False,False
+2021,5,6,Andrew Luck Memorial Squad,3.0,My Hardman  Hurts herButker,99.92,115.22,False,False,False,False,False
+2021,5,12,Its literally  too easy,4.0,Country Kitchen Buffet,157.68,102.08,True,True,False,False,False
+2021,5,4,Country Kitchen Buffet,12.0,Its literally  too easy,102.08,157.68,False,False,False,False,False
+2021,5,8,"Russ Agholorder a Mcaffé, CHARK",5.0,Dallas Buyers CHLUBB,89.54,96.86,True,False,False,False,False
+2021,5,5,Dallas Buyers CHLUBB,8.0,"Russ Agholorder a Mcaffé, CHARK",96.86,89.54,False,True,False,False,False
+2021,5,2,Lower  Bottoms,9.0,Fire up the  Double Darrell,119.06,60.68,True,True,False,False,False
+2021,5,9,Fire up the  Double Darrell,2.0,Lower  Bottoms,60.68,119.06,False,False,False,False,False
+2021,6,7,Ballen On A Budget,11.0,Gotta get Swifty,91.12,122.94,True,False,False,False,False
+2021,6,11,Gotta get Swifty,7.0,Ballen On A Budget,122.94,91.12,False,True,False,False,False
+2021,6,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,87.06,83.42,True,True,False,False,False
+2021,6,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,83.42,87.06,False,False,False,False,False
+2021,6,4,Country Kitchen Buffet,10.0,Rectum Wrecker$$$,83.2,107.36,True,False,False,False,False
+2021,6,10,Rectum Wrecker$$$,4.0,Country Kitchen Buffet,107.36,83.2,False,True,False,False,False
+2021,6,5,Dallas Buyers CHLUBB,3.0,My Hardman  Hurts herButker,83.46,105.1,True,False,False,False,False
+2021,6,3,My Hardman  Hurts herButker,5.0,Dallas Buyers CHLUBB,105.1,83.46,False,True,False,False,False
+2021,6,9,Fire up the  Double Darrell,12.0,Its literally  too easy,108.08,144.38,True,False,False,False,False
+2021,6,12,Its literally  too easy,9.0,Fire up the  Double Darrell,144.38,108.08,False,True,False,False,False
+2021,6,2,Lower  Bottoms,8.0,"Russ Agholorder a Mcaffé, CHARK",98.1,83.04,True,True,False,False,False
+2021,6,8,"Russ Agholorder a Mcaffé, CHARK",2.0,Lower  Bottoms,83.04,98.1,False,False,False,False,False
+2021,7,6,Andrew Luck Memorial Squad,7.0,Ballen On A Budget,104.64,100.32,True,True,False,False,False
+2021,7,7,Ballen On A Budget,6.0,Andrew Luck Memorial Squad,100.32,104.64,False,False,False,False,False
+2021,7,11,Gotta get Swifty,4.0,Country Kitchen Buffet,127.48,76.44,True,True,False,False,False
+2021,7,4,Country Kitchen Buffet,11.0,Gotta get Swifty,76.44,127.48,False,False,False,False,False
+2021,7,1,Mr. Commish Sir,5.0,Dallas Buyers CHLUBB,91.8,99.04,True,False,False,False,False
+2021,7,5,Dallas Buyers CHLUBB,1.0,Mr. Commish Sir,99.04,91.8,False,True,False,False,False
+2021,7,10,Rectum Wrecker$$$,9.0,Fire up the  Double Darrell,81.44,72.3,True,True,False,False,False
+2021,7,9,Fire up the  Double Darrell,10.0,Rectum Wrecker$$$,72.3,81.44,False,False,False,False,False
+2021,7,3,My Hardman  Hurts herButker,2.0,Lower  Bottoms,69.54,108.46,True,False,False,False,False
+2021,7,2,Lower  Bottoms,3.0,My Hardman  Hurts herButker,108.46,69.54,False,True,False,False,False
+2021,7,12,Its literally  too easy,8.0,"Russ Agholorder a Mcaffé, CHARK",103.14,93.82,True,True,False,False,False
+2021,7,8,"Russ Agholorder a Mcaffé, CHARK",12.0,Its literally  too easy,93.82,103.14,False,False,False,False,False
+2021,8,7,Ballen On A Budget,4.0,Country Kitchen Buffet,90.96,97.52,True,False,False,False,False
+2021,8,4,Country Kitchen Buffet,7.0,Ballen On A Budget,97.52,90.96,False,True,False,False,False
+2021,8,5,Dallas Buyers CHLUBB,6.0,Andrew Luck Memorial Squad,62.92,98.02,True,False,False,False,False
+2021,8,6,Andrew Luck Memorial Squad,5.0,Dallas Buyers CHLUBB,98.02,62.92,False,True,False,False,False
+2021,8,9,Fire up the  Double Darrell,11.0,Gotta get Swifty,125.08,50.82,True,True,False,False,False
+2021,8,11,Gotta get Swifty,9.0,Fire up the  Double Darrell,50.82,125.08,False,False,False,False,False
+2021,8,2,Lower  Bottoms,1.0,Mr. Commish Sir,80.26,78.34,True,True,False,False,False
+2021,8,1,Mr. Commish Sir,2.0,Lower  Bottoms,78.34,80.26,False,False,False,False,False
+2021,8,8,"Russ Agholorder a Mcaffé, CHARK",10.0,Rectum Wrecker$$$,90.14,75.3,True,True,False,False,False
+2021,8,10,Rectum Wrecker$$$,8.0,"Russ Agholorder a Mcaffé, CHARK",75.3,90.14,False,False,False,False,False
+2021,8,12,Its literally  too easy,3.0,My Hardman  Hurts herButker,123.64,72.12,True,True,False,False,False
+2021,8,3,My Hardman  Hurts herButker,12.0,Its literally  too easy,72.12,123.64,False,False,False,False,False
+2021,9,5,Dallas Buyers CHLUBB,7.0,Ballen On A Budget,99.18,57.96,True,True,False,False,False
+2021,9,7,Ballen On A Budget,5.0,Dallas Buyers CHLUBB,57.96,99.18,False,False,False,False,False
+2021,9,4,Country Kitchen Buffet,9.0,Fire up the  Double Darrell,66.38,54.92,True,True,False,False,False
+2021,9,9,Fire up the  Double Darrell,4.0,Country Kitchen Buffet,54.92,66.38,False,False,False,False,False
+2021,9,6,Andrew Luck Memorial Squad,2.0,Lower  Bottoms,91.84,67.78,True,True,False,False,False
+2021,9,2,Lower  Bottoms,6.0,Andrew Luck Memorial Squad,67.78,91.84,False,False,False,False,False
+2021,9,11,Gotta get Swifty,8.0,"Russ Agholorder a Mcaffé, CHARK",95.24,75.78,True,True,False,False,False
+2021,9,8,"Russ Agholorder a Mcaffé, CHARK",11.0,Gotta get Swifty,75.78,95.24,False,False,False,False,False
+2021,9,1,Mr. Commish Sir,12.0,Its literally  too easy,67.46,117.0,True,False,False,False,False
+2021,9,12,Its literally  too easy,1.0,Mr. Commish Sir,117.0,67.46,False,True,False,False,False
+2021,9,10,Rectum Wrecker$$$,3.0,My Hardman  Hurts herButker,73.98,72.08,True,True,False,False,False
+2021,9,3,My Hardman  Hurts herButker,10.0,Rectum Wrecker$$$,72.08,73.98,False,False,False,False,False
+2021,10,7,Ballen On A Budget,9.0,Fire up the  Double Darrell,62.44,91.32,True,False,False,False,False
+2021,10,9,Fire up the  Double Darrell,7.0,Ballen On A Budget,91.32,62.44,False,True,False,False,False
+2021,10,2,Lower  Bottoms,5.0,Dallas Buyers CHLUBB,78.84,44.08,True,True,False,False,False
+2021,10,5,Dallas Buyers CHLUBB,2.0,Lower  Bottoms,44.08,78.84,False,False,False,False,False
+2021,10,8,"Russ Agholorder a Mcaffé, CHARK",4.0,Country Kitchen Buffet,91.54,107.24,True,False,False,False,False
+2021,10,4,Country Kitchen Buffet,8.0,"Russ Agholorder a Mcaffé, CHARK",107.24,91.54,False,True,False,False,False
+2021,10,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,114.68,72.3,True,True,False,False,False
+2021,10,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,72.3,114.68,False,False,False,False,False
+2021,10,3,My Hardman  Hurts herButker,11.0,Gotta get Swifty,89.52,96.02,True,False,False,False,False
+2021,10,11,Gotta get Swifty,3.0,My Hardman  Hurts herButker,96.02,89.52,False,True,False,False,False
+2021,10,10,Rectum Wrecker$$$,1.0,Mr. Commish Sir,81.76,67.72,True,True,False,False,False
+2021,10,1,Mr. Commish Sir,10.0,Rectum Wrecker$$$,67.72,81.76,False,False,False,False,False
+2021,11,2,Lower  Bottoms,7.0,Ballen On A Budget,90.6,63.44,True,True,False,False,False
+2021,11,7,Ballen On A Budget,2.0,Lower  Bottoms,63.44,90.6,False,False,False,False,False
+2021,11,9,Fire up the  Double Darrell,8.0,"Russ Agholorder a Mcaffé, CHARK",99.22,97.8,True,True,False,False,False
+2021,11,8,"Russ Agholorder a Mcaffé, CHARK",9.0,Fire up the  Double Darrell,97.8,99.22,False,False,False,False,False
+2021,11,5,Dallas Buyers CHLUBB,12.0,Its literally  too easy,68.66,151.48,True,False,False,False,False
+2021,11,12,Its literally  too easy,5.0,Dallas Buyers CHLUBB,151.48,68.66,False,True,False,False,False
+2021,11,4,Country Kitchen Buffet,3.0,My Hardman  Hurts herButker,134.44,89.28,True,True,False,False,False
+2021,11,3,My Hardman  Hurts herButker,4.0,Country Kitchen Buffet,89.28,134.44,False,False,False,False,False
+2021,11,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,76.68,41.32,True,True,False,False,False
+2021,11,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,41.32,76.68,False,False,False,False,False
+2021,11,11,Gotta get Swifty,1.0,Mr. Commish Sir,109.84,98.36,True,True,False,False,False
+2021,11,1,Mr. Commish Sir,11.0,Gotta get Swifty,98.36,109.84,False,False,False,False,False
+2021,12,7,Ballen On A Budget,8.0,"Russ Agholorder a Mcaffé, CHARK",101.68,97.18,True,True,False,False,False
+2021,12,8,"Russ Agholorder a Mcaffé, CHARK",7.0,Ballen On A Budget,97.18,101.68,False,False,False,False,False
+2021,12,12,Its literally  too easy,2.0,Lower  Bottoms,103.14,90.58,True,True,False,False,False
+2021,12,2,Lower  Bottoms,12.0,Its literally  too easy,90.58,103.14,False,False,False,False,False
+2021,12,3,My Hardman  Hurts herButker,9.0,Fire up the  Double Darrell,87.46,72.22,True,True,False,False,False
+2021,12,9,Fire up the  Double Darrell,3.0,My Hardman  Hurts herButker,72.22,87.46,False,False,False,False,False
+2021,12,10,Rectum Wrecker$$$,5.0,Dallas Buyers CHLUBB,107.36,46.2,True,True,False,False,False
+2021,12,5,Dallas Buyers CHLUBB,10.0,Rectum Wrecker$$$,46.2,107.36,False,False,False,False,False
+2021,12,1,Mr. Commish Sir,4.0,Country Kitchen Buffet,58.84,92.4,True,False,False,False,False
+2021,12,4,Country Kitchen Buffet,1.0,Mr. Commish Sir,92.4,58.84,False,True,False,False,False
+2021,12,11,Gotta get Swifty,6.0,Andrew Luck Memorial Squad,101.78,85.32,True,True,False,False,False
+2021,12,6,Andrew Luck Memorial Squad,11.0,Gotta get Swifty,85.32,101.78,False,False,False,False,False
+2021,13,12,Its literally  too easy,7.0,Ballen On A Budget,114.72,67.7,True,True,False,False,False
+2021,13,7,Ballen On A Budget,12.0,Its literally  too easy,67.7,114.72,False,False,False,False,False
+2021,13,8,"Russ Agholorder a Mcaffé, CHARK",3.0,My Hardman  Hurts herButker,66.46,114.8,True,False,False,False,False
+2021,13,3,My Hardman  Hurts herButker,8.0,"Russ Agholorder a Mcaffé, CHARK",114.8,66.46,False,True,False,False,False
+2021,13,2,Lower  Bottoms,10.0,Rectum Wrecker$$$,114.1,53.76,True,True,False,False,False
+2021,13,10,Rectum Wrecker$$$,2.0,Lower  Bottoms,53.76,114.1,False,False,False,False,False
+2021,13,9,Fire up the  Double Darrell,1.0,Mr. Commish Sir,117.46,130.54,True,False,False,False,False
+2021,13,1,Mr. Commish Sir,9.0,Fire up the  Double Darrell,130.54,117.46,False,True,False,False,False
+2021,13,5,Dallas Buyers CHLUBB,11.0,Gotta get Swifty,92.92,89.04,True,True,False,False,False
+2021,13,11,Gotta get Swifty,5.0,Dallas Buyers CHLUBB,89.04,92.92,False,False,False,False,False
+2021,13,4,Country Kitchen Buffet,6.0,Andrew Luck Memorial Squad,106.62,97.78,True,True,False,False,False
+2021,13,6,Andrew Luck Memorial Squad,4.0,Country Kitchen Buffet,97.78,106.62,False,False,False,False,False
+2021,14,7,Ballen On A Budget,3.0,My Hardman  Hurts herButker,147.54,120.34,True,True,False,False,False
+2021,14,3,My Hardman  Hurts herButker,7.0,Ballen On A Budget,120.34,147.54,False,False,False,False,False
+2021,14,10,Rectum Wrecker$$$,12.0,Its literally  too easy,89.42,82.8,True,True,False,False,False
+2021,14,12,Its literally  too easy,10.0,Rectum Wrecker$$$,82.8,89.42,False,False,False,False,False
+2021,14,1,Mr. Commish Sir,8.0,"Russ Agholorder a Mcaffé, CHARK",90.68,86.02,True,True,False,False,False
+2021,14,8,"Russ Agholorder a Mcaffé, CHARK",1.0,Mr. Commish Sir,86.02,90.68,False,False,False,False,False
+2021,14,11,Gotta get Swifty,2.0,Lower  Bottoms,115.36,110.34,True,True,False,False,False
+2021,14,2,Lower  Bottoms,11.0,Gotta get Swifty,110.34,115.36,False,False,False,False,False
+2021,14,6,Andrew Luck Memorial Squad,9.0,Fire up the  Double Darrell,142.0,109.6,True,True,False,False,False
+2021,14,9,Fire up the  Double Darrell,6.0,Andrew Luck Memorial Squad,109.6,142.0,False,False,False,False,False
+2021,14,4,Country Kitchen Buffet,5.0,Dallas Buyers CHLUBB,79.06,76.92,True,True,False,False,False
+2021,14,5,Dallas Buyers CHLUBB,4.0,Country Kitchen Buffet,76.92,79.06,False,False,False,False,False
+2021,15,11,Gotta get Swifty,,BYE,103.22,,True,,False,False,True
+2021,15,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,74.62,89.54,True,False,False,False,False
+2021,15,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,89.54,74.62,False,True,False,False,False
+2021,15,4,Country Kitchen Buffet,2.0,Lower  Bottoms,80.58,77.22,True,True,False,False,False
+2021,15,2,Lower  Bottoms,4.0,Country Kitchen Buffet,77.22,80.58,False,False,False,False,False
+2021,15,12,Its literally  too easy,,BYE,78.16,,True,,False,False,True
+2021,15,5,Dallas Buyers CHLUBB,3.0,My Hardman  Hurts herButker,79.68,62.1,True,True,False,False,False
+2021,15,3,My Hardman  Hurts herButker,5.0,Dallas Buyers CHLUBB,62.1,79.68,False,False,False,False,False
+2021,15,7,Ballen On A Budget,1.0,Mr. Commish Sir,87.82,76.84,True,True,False,False,False
+2021,15,1,Mr. Commish Sir,7.0,Ballen On A Budget,76.84,87.82,False,False,False,False,False
+2021,15,9,Fire up the  Double Darrell,8.0,"Russ Agholorder a Mcaffé, CHARK",67.06,57.94,True,True,False,False,False
+2021,15,8,"Russ Agholorder a Mcaffé, CHARK",9.0,Fire up the  Double Darrell,57.94,67.06,False,False,False,False,False
+2021,16,11,Gotta get Swifty,6.0,Andrew Luck Memorial Squad,122.1,82.14,True,True,False,False,False
+2021,16,6,Andrew Luck Memorial Squad,11.0,Gotta get Swifty,82.14,122.1,False,False,False,False,False
+2021,16,12,Its literally  too easy,4.0,Country Kitchen Buffet,103.4,93.68,True,True,False,False,False
+2021,16,4,Country Kitchen Buffet,12.0,Its literally  too easy,93.68,103.4,False,False,False,False,False
+2021,16,10,Rectum Wrecker$$$,2.0,Lower  Bottoms,66.9,124.58,True,False,False,False,False
+2021,16,2,Lower  Bottoms,10.0,Rectum Wrecker$$$,124.58,66.9,False,True,False,False,False
+2021,16,5,Dallas Buyers CHLUBB,7.0,Ballen On A Budget,86.9,114.08,True,False,False,False,False
+2021,16,7,Ballen On A Budget,5.0,Dallas Buyers CHLUBB,114.08,86.9,False,True,False,False,False
+2021,16,3,My Hardman  Hurts herButker,9.0,Fire up the  Double Darrell,92.66,55.0,True,True,False,False,False
+2021,16,9,Fire up the  Double Darrell,3.0,My Hardman  Hurts herButker,55.0,92.66,False,False,False,False,False
+2021,16,1,Mr. Commish Sir,8.0,"Russ Agholorder a Mcaffé, CHARK",61.48,55.84,True,True,False,False,False
+2021,16,8,"Russ Agholorder a Mcaffé, CHARK",1.0,Mr. Commish Sir,55.84,61.48,False,False,False,False,False
+2021,17,11,Gotta get Swifty,12.0,Its literally  too easy,125.88,126.9,True,False,False,False,False
+2021,17,12,Its literally  too easy,11.0,Gotta get Swifty,126.9,125.88,False,True,False,False,False
+2021,17,4,Country Kitchen Buffet,6.0,Andrew Luck Memorial Squad,76.74,127.18,True,False,False,False,False
+2021,17,6,Andrew Luck Memorial Squad,4.0,Country Kitchen Buffet,127.18,76.74,False,True,False,False,False
+2021,17,10,Rectum Wrecker$$$,2.0,Lower  Bottoms,81.72,73.22,True,True,False,False,False
+2021,17,2,Lower  Bottoms,10.0,Rectum Wrecker$$$,73.22,81.72,False,False,False,False,False
+2021,17,3,My Hardman  Hurts herButker,7.0,Ballen On A Budget,73.56,92.18,True,False,False,False,False
+2021,17,7,Ballen On A Budget,3.0,My Hardman  Hurts herButker,92.18,73.56,False,True,False,False,False
+2021,17,5,Dallas Buyers CHLUBB,1.0,Mr. Commish Sir,99.32,74.36,True,True,False,False,False
+2021,17,1,Mr. Commish Sir,5.0,Dallas Buyers CHLUBB,74.36,99.32,False,False,False,False,False
+2021,17,9,Fire up the  Double Darrell,8.0,"Russ Agholorder a Mcaffé, CHARK",99.86,109.44,True,False,False,False,False
+2021,17,8,"Russ Agholorder a Mcaffé, CHARK",9.0,Fire up the  Double Darrell,109.44,99.86,False,True,False,False,False

@@ -1,0 +1,193 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2019,1,8,AB For Cumback POTY,9.0,Not Enough Cooks,113.8,70.8,True,True,False,False,False
+2019,1,9,Not Enough Cooks,8.0,AB For Cumback POTY,70.8,113.8,False,False,False,False,False
+2019,1,11,Attack of Clawmar Jackson,1.0,6-7 might make the playoffs,86.34,67.86,True,True,False,False,False
+2019,1,1,6-7 might make the playoffs,11.0,Attack of Clawmar Jackson,67.86,86.34,False,False,False,False,False
+2019,1,5,"Macklin, you Son of a Bitch",6.0,Andrew Luck Memorial Squad,77.76,128.88,True,False,False,False,False
+2019,1,6,Andrew Luck Memorial Squad,5.0,"Macklin, you Son of a Bitch",128.88,77.76,False,True,False,False,False
+2019,1,12,Its literally  too easy,2.0,Clout Chasers LLC,126.72,86.02,True,True,False,False,False
+2019,1,2,Clout Chasers LLC,12.0,Its literally  too easy,86.02,126.72,False,False,False,False,False
+2019,1,4,GIANTBUCNADO !,3.0,Michael Low T-homas,87.26,86.76,True,True,False,False,False
+2019,1,3,Michael Low T-homas,4.0,GIANTBUCNADO !,86.76,87.26,False,False,False,False,False
+2019,1,7,Fuck My Life,10.0,Rectum Wrecker$$$,142.52,82.92,True,True,False,False,False
+2019,1,10,Rectum Wrecker$$$,7.0,Fuck My Life,82.92,142.52,False,False,False,False,False
+2019,2,9,Not Enough Cooks,1.0,6-7 might make the playoffs,96.6,92.72,True,True,False,False,False
+2019,2,1,6-7 might make the playoffs,9.0,Not Enough Cooks,92.72,96.6,False,False,False,False,False
+2019,2,6,Andrew Luck Memorial Squad,8.0,AB For Cumback POTY,93.14,100.76,True,False,False,False,False
+2019,2,8,AB For Cumback POTY,6.0,Andrew Luck Memorial Squad,100.76,93.14,False,True,False,False,False
+2019,2,5,"Macklin, you Son of a Bitch",11.0,Attack of Clawmar Jackson,66.26,89.58,True,False,False,False,False
+2019,2,11,Attack of Clawmar Jackson,5.0,"Macklin, you Son of a Bitch",89.58,66.26,False,True,False,False,False
+2019,2,2,Clout Chasers LLC,3.0,Michael Low T-homas,101.46,86.3,True,True,False,False,False
+2019,2,3,Michael Low T-homas,2.0,Clout Chasers LLC,86.3,101.46,False,False,False,False,False
+2019,2,10,Rectum Wrecker$$$,12.0,Its literally  too easy,130.78,78.9,True,True,False,False,False
+2019,2,12,Its literally  too easy,10.0,Rectum Wrecker$$$,78.9,130.78,False,False,False,False,False
+2019,2,7,Fuck My Life,4.0,GIANTBUCNADO !,64.56,103.86,True,False,False,False,False
+2019,2,4,GIANTBUCNADO !,7.0,Fuck My Life,103.86,64.56,False,True,False,False,False
+2019,3,6,Andrew Luck Memorial Squad,9.0,Not Enough Cooks,126.06,110.0,True,True,False,False,False
+2019,3,9,Not Enough Cooks,6.0,Andrew Luck Memorial Squad,110.0,126.06,False,False,False,False,False
+2019,3,1,6-7 might make the playoffs,5.0,"Macklin, you Son of a Bitch",79.52,165.7,True,False,False,False,False
+2019,3,5,"Macklin, you Son of a Bitch",1.0,6-7 might make the playoffs,165.7,79.52,False,True,False,False,False
+2019,3,8,AB For Cumback POTY,11.0,Attack of Clawmar Jackson,67.44,71.78,True,False,False,False,False
+2019,3,11,Attack of Clawmar Jackson,8.0,AB For Cumback POTY,71.78,67.44,False,True,False,False,False
+2019,3,10,Rectum Wrecker$$$,2.0,Clout Chasers LLC,92.36,87.9,True,True,False,False,False
+2019,3,2,Clout Chasers LLC,10.0,Rectum Wrecker$$$,87.9,92.36,False,False,False,False,False
+2019,3,3,Michael Low T-homas,7.0,Fuck My Life,120.64,128.54,True,False,False,False,False
+2019,3,7,Fuck My Life,3.0,Michael Low T-homas,128.54,120.64,False,True,False,False,False
+2019,3,12,Its literally  too easy,4.0,GIANTBUCNADO !,74.22,94.84,True,False,False,False,False
+2019,3,4,GIANTBUCNADO !,12.0,Its literally  too easy,94.84,74.22,False,True,False,False,False
+2019,4,9,Not Enough Cooks,5.0,"Macklin, you Son of a Bitch",86.74,82.14,True,True,False,False,False
+2019,4,5,"Macklin, you Son of a Bitch",9.0,Not Enough Cooks,82.14,86.74,False,False,False,False,False
+2019,4,11,Attack of Clawmar Jackson,6.0,Andrew Luck Memorial Squad,112.62,84.22,True,True,False,False,False
+2019,4,6,Andrew Luck Memorial Squad,11.0,Attack of Clawmar Jackson,84.22,112.62,False,False,False,False,False
+2019,4,8,AB For Cumback POTY,1.0,6-7 might make the playoffs,72.52,68.32,True,True,False,False,False
+2019,4,1,6-7 might make the playoffs,8.0,AB For Cumback POTY,68.32,72.52,False,False,False,False,False
+2019,4,2,Clout Chasers LLC,7.0,Fuck My Life,69.08,90.2,True,False,False,False,False
+2019,4,7,Fuck My Life,2.0,Clout Chasers LLC,90.2,69.08,False,True,False,False,False
+2019,4,4,GIANTBUCNADO !,10.0,Rectum Wrecker$$$,102.8,108.88,True,False,False,False,False
+2019,4,10,Rectum Wrecker$$$,4.0,GIANTBUCNADO !,108.88,102.8,False,True,False,False,False
+2019,4,12,Its literally  too easy,3.0,Michael Low T-homas,81.9,60.5,True,True,False,False,False
+2019,4,3,Michael Low T-homas,12.0,Its literally  too easy,60.5,81.9,False,False,False,False,False
+2019,5,11,Attack of Clawmar Jackson,9.0,Not Enough Cooks,70.64,97.66,True,False,False,False,False
+2019,5,9,Not Enough Cooks,11.0,Attack of Clawmar Jackson,97.66,70.64,False,True,False,False,False
+2019,5,5,"Macklin, you Son of a Bitch",8.0,AB For Cumback POTY,118.22,107.32,True,True,False,False,False
+2019,5,8,AB For Cumback POTY,5.0,"Macklin, you Son of a Bitch",107.32,118.22,False,False,False,False,False
+2019,5,6,Andrew Luck Memorial Squad,1.0,6-7 might make the playoffs,98.96,60.62,True,True,False,False,False
+2019,5,1,6-7 might make the playoffs,6.0,Andrew Luck Memorial Squad,60.62,98.96,False,False,False,False,False
+2019,5,4,GIANTBUCNADO !,2.0,Clout Chasers LLC,131.12,102.22,True,True,False,False,False
+2019,5,2,Clout Chasers LLC,4.0,GIANTBUCNADO !,102.22,131.12,False,False,False,False,False
+2019,5,7,Fuck My Life,12.0,Its literally  too easy,128.74,143.82,True,False,False,False,False
+2019,5,12,Its literally  too easy,7.0,Fuck My Life,143.82,128.74,False,True,False,False,False
+2019,5,10,Rectum Wrecker$$$,3.0,Michael Low T-homas,125.98,108.92,True,True,False,False,False
+2019,5,3,Michael Low T-homas,10.0,Rectum Wrecker$$$,108.92,125.98,False,False,False,False,False
+2019,6,9,Not Enough Cooks,2.0,Clout Chasers LLC,90.14,100.92,True,False,False,False,False
+2019,6,2,Clout Chasers LLC,9.0,Not Enough Cooks,100.92,90.14,False,True,False,False,False
+2019,6,8,AB For Cumback POTY,12.0,Its literally  too easy,85.12,121.7,True,False,False,False,False
+2019,6,12,Its literally  too easy,8.0,AB For Cumback POTY,121.7,85.12,False,True,False,False,False
+2019,6,1,6-7 might make the playoffs,3.0,Michael Low T-homas,70.7,79.1,True,False,False,False,False
+2019,6,3,Michael Low T-homas,1.0,6-7 might make the playoffs,79.1,70.7,False,True,False,False,False
+2019,6,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,71.94,103.62,True,False,False,False,False
+2019,6,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,103.62,71.94,False,True,False,False,False
+2019,6,5,"Macklin, you Son of a Bitch",7.0,Fuck My Life,77.74,123.4,True,False,False,False,False
+2019,6,7,Fuck My Life,5.0,"Macklin, you Son of a Bitch",123.4,77.74,False,True,False,False,False
+2019,6,11,Attack of Clawmar Jackson,4.0,GIANTBUCNADO !,114.44,67.56,True,True,False,False,False
+2019,6,4,GIANTBUCNADO !,11.0,Attack of Clawmar Jackson,67.56,114.44,False,False,False,False,False
+2019,7,2,Clout Chasers LLC,8.0,AB For Cumback POTY,103.86,85.66,True,True,False,False,False
+2019,7,8,AB For Cumback POTY,2.0,Clout Chasers LLC,85.66,103.86,False,False,False,False,False
+2019,7,12,Its literally  too easy,1.0,6-7 might make the playoffs,50.76,79.8,True,False,False,False,False
+2019,7,1,6-7 might make the playoffs,12.0,Its literally  too easy,79.8,50.76,False,True,False,False,False
+2019,7,3,Michael Low T-homas,6.0,Andrew Luck Memorial Squad,106.54,83.04,True,True,False,False,False
+2019,7,6,Andrew Luck Memorial Squad,3.0,Michael Low T-homas,83.04,106.54,False,False,False,False,False
+2019,7,10,Rectum Wrecker$$$,5.0,"Macklin, you Son of a Bitch",77.48,74.52,True,True,False,False,False
+2019,7,5,"Macklin, you Son of a Bitch",10.0,Rectum Wrecker$$$,74.52,77.48,False,False,False,False,False
+2019,7,7,Fuck My Life,11.0,Attack of Clawmar Jackson,80.12,62.1,True,True,False,False,False
+2019,7,11,Attack of Clawmar Jackson,7.0,Fuck My Life,62.1,80.12,False,False,False,False,False
+2019,7,4,GIANTBUCNADO !,9.0,Not Enough Cooks,103.86,70.46,True,True,False,False,False
+2019,7,9,Not Enough Cooks,4.0,GIANTBUCNADO !,70.46,103.86,False,False,False,False,False
+2019,8,1,6-7 might make the playoffs,2.0,Clout Chasers LLC,55.86,87.4,True,False,False,False,False
+2019,8,2,Clout Chasers LLC,1.0,6-7 might make the playoffs,87.4,55.86,False,True,False,False,False
+2019,8,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,75.98,60.8,True,True,False,False,False
+2019,8,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,60.8,75.98,False,False,False,False,False
+2019,8,5,"Macklin, you Son of a Bitch",3.0,Michael Low T-homas,116.6,99.18,True,True,False,False,False
+2019,8,3,Michael Low T-homas,5.0,"Macklin, you Son of a Bitch",99.18,116.6,False,False,False,False,False
+2019,8,11,Attack of Clawmar Jackson,10.0,Rectum Wrecker$$$,105.38,107.32,True,False,False,False,False
+2019,8,10,Rectum Wrecker$$$,11.0,Attack of Clawmar Jackson,107.32,105.38,False,True,False,False,False
+2019,8,9,Not Enough Cooks,7.0,Fuck My Life,120.02,105.7,True,True,False,False,False
+2019,8,7,Fuck My Life,9.0,Not Enough Cooks,105.7,120.02,False,False,False,False,False
+2019,8,8,AB For Cumback POTY,4.0,GIANTBUCNADO !,120.9,107.46,True,True,False,False,False
+2019,8,4,GIANTBUCNADO !,8.0,AB For Cumback POTY,107.46,120.9,False,False,False,False,False
+2019,9,2,Clout Chasers LLC,6.0,Andrew Luck Memorial Squad,73.04,108.26,True,False,False,False,False
+2019,9,6,Andrew Luck Memorial Squad,2.0,Clout Chasers LLC,108.26,73.04,False,True,False,False,False
+2019,9,12,Its literally  too easy,5.0,"Macklin, you Son of a Bitch",105.64,111.96,True,False,False,False,False
+2019,9,5,"Macklin, you Son of a Bitch",12.0,Its literally  too easy,111.96,105.64,False,True,False,False,False
+2019,9,3,Michael Low T-homas,11.0,Attack of Clawmar Jackson,133.82,103.24,True,True,False,False,False
+2019,9,11,Attack of Clawmar Jackson,3.0,Michael Low T-homas,103.24,133.82,False,False,False,False,False
+2019,9,10,Rectum Wrecker$$$,9.0,Not Enough Cooks,106.38,69.4,True,True,False,False,False
+2019,9,9,Not Enough Cooks,10.0,Rectum Wrecker$$$,69.4,106.38,False,False,False,False,False
+2019,9,7,Fuck My Life,8.0,AB For Cumback POTY,88.94,84.18,True,True,False,False,False
+2019,9,8,AB For Cumback POTY,7.0,Fuck My Life,84.18,88.94,False,False,False,False,False
+2019,9,4,GIANTBUCNADO !,1.0,6-7 might make the playoffs,96.6,72.3,True,True,False,False,False
+2019,9,1,6-7 might make the playoffs,4.0,GIANTBUCNADO !,72.3,96.6,False,False,False,False,False
+2019,10,5,"Macklin, you Son of a Bitch",2.0,Clout Chasers LLC,71.44,88.92,True,False,False,False,False
+2019,10,2,Clout Chasers LLC,5.0,"Macklin, you Son of a Bitch",88.92,71.44,False,True,False,False,False
+2019,10,11,Attack of Clawmar Jackson,12.0,Its literally  too easy,108.82,106.26,True,True,False,False,False
+2019,10,12,Its literally  too easy,11.0,Attack of Clawmar Jackson,106.26,108.82,False,False,False,False,False
+2019,10,9,Not Enough Cooks,3.0,Michael Low T-homas,84.28,86.78,True,False,False,False,False
+2019,10,3,Michael Low T-homas,9.0,Not Enough Cooks,86.78,84.28,False,True,False,False,False
+2019,10,8,AB For Cumback POTY,10.0,Rectum Wrecker$$$,78.98,106.7,True,False,False,False,False
+2019,10,10,Rectum Wrecker$$$,8.0,AB For Cumback POTY,106.7,78.98,False,True,False,False,False
+2019,10,1,6-7 might make the playoffs,7.0,Fuck My Life,96.4,94.02,True,True,False,False,False
+2019,10,7,Fuck My Life,1.0,6-7 might make the playoffs,94.02,96.4,False,False,False,False,False
+2019,10,6,Andrew Luck Memorial Squad,4.0,GIANTBUCNADO !,160.98,65.94,True,True,False,False,False
+2019,10,4,GIANTBUCNADO !,6.0,Andrew Luck Memorial Squad,65.94,160.98,False,False,False,False,False
+2019,11,2,Clout Chasers LLC,11.0,Attack of Clawmar Jackson,104.12,100.98,True,True,False,False,False
+2019,11,11,Attack of Clawmar Jackson,2.0,Clout Chasers LLC,100.98,104.12,False,False,False,False,False
+2019,11,12,Its literally  too easy,9.0,Not Enough Cooks,61.3,80.34,True,False,False,False,False
+2019,11,9,Not Enough Cooks,12.0,Its literally  too easy,80.34,61.3,False,True,False,False,False
+2019,11,3,Michael Low T-homas,8.0,AB For Cumback POTY,124.74,111.76,True,True,False,False,False
+2019,11,8,AB For Cumback POTY,3.0,Michael Low T-homas,111.76,124.74,False,False,False,False,False
+2019,11,10,Rectum Wrecker$$$,1.0,6-7 might make the playoffs,117.78,108.94,True,True,False,False,False
+2019,11,1,6-7 might make the playoffs,10.0,Rectum Wrecker$$$,108.94,117.78,False,False,False,False,False
+2019,11,7,Fuck My Life,6.0,Andrew Luck Memorial Squad,57.12,56.52,True,True,False,False,False
+2019,11,6,Andrew Luck Memorial Squad,7.0,Fuck My Life,56.52,57.12,False,False,False,False,False
+2019,11,4,GIANTBUCNADO !,5.0,"Macklin, you Son of a Bitch",78.44,95.86,True,False,False,False,False
+2019,11,5,"Macklin, you Son of a Bitch",4.0,GIANTBUCNADO !,95.86,78.44,False,True,False,False,False
+2019,12,2,Clout Chasers LLC,9.0,Not Enough Cooks,70.36,95.04,True,False,False,False,False
+2019,12,9,Not Enough Cooks,2.0,Clout Chasers LLC,95.04,70.36,False,True,False,False,False
+2019,12,12,Its literally  too easy,8.0,AB For Cumback POTY,101.88,55.18,True,True,False,False,False
+2019,12,8,AB For Cumback POTY,12.0,Its literally  too easy,55.18,101.88,False,False,False,False,False
+2019,12,3,Michael Low T-homas,1.0,6-7 might make the playoffs,77.1,81.42,True,False,False,False,False
+2019,12,1,6-7 might make the playoffs,3.0,Michael Low T-homas,81.42,77.1,False,True,False,False,False
+2019,12,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,121.62,63.34,True,True,False,False,False
+2019,12,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,63.34,121.62,False,False,False,False,False
+2019,12,7,Fuck My Life,5.0,"Macklin, you Son of a Bitch",98.92,72.0,True,True,False,False,False
+2019,12,5,"Macklin, you Son of a Bitch",7.0,Fuck My Life,72.0,98.92,False,False,False,False,False
+2019,12,4,GIANTBUCNADO !,11.0,Attack of Clawmar Jackson,97.5,131.86,True,False,False,False,False
+2019,12,11,Attack of Clawmar Jackson,4.0,GIANTBUCNADO !,131.86,97.5,False,True,False,False,False
+2019,13,8,AB For Cumback POTY,2.0,Clout Chasers LLC,69.8,95.02,True,False,False,False,False
+2019,13,2,Clout Chasers LLC,8.0,AB For Cumback POTY,95.02,69.8,False,True,False,False,False
+2019,13,1,6-7 might make the playoffs,12.0,Its literally  too easy,99.44,61.62,True,True,False,False,False
+2019,13,12,Its literally  too easy,1.0,6-7 might make the playoffs,61.62,99.44,False,False,False,False,False
+2019,13,6,Andrew Luck Memorial Squad,3.0,Michael Low T-homas,100.56,97.1,True,True,False,False,False
+2019,13,3,Michael Low T-homas,6.0,Andrew Luck Memorial Squad,97.1,100.56,False,False,False,False,False
+2019,13,5,"Macklin, you Son of a Bitch",10.0,Rectum Wrecker$$$,33.26,77.62,True,False,False,False,False
+2019,13,10,Rectum Wrecker$$$,5.0,"Macklin, you Son of a Bitch",77.62,33.26,False,True,False,False,False
+2019,13,11,Attack of Clawmar Jackson,7.0,Fuck My Life,120.4,109.66,True,True,False,False,False
+2019,13,7,Fuck My Life,11.0,Attack of Clawmar Jackson,109.66,120.4,False,False,False,False,False
+2019,13,9,Not Enough Cooks,4.0,GIANTBUCNADO !,82.46,86.04,True,False,False,False,False
+2019,13,4,GIANTBUCNADO !,9.0,Not Enough Cooks,86.04,82.46,False,True,False,False,False
+2019,14,10,Rectum Wrecker$$$,,BYE,70.82,,True,,False,False,True
+2019,14,6,Andrew Luck Memorial Squad,4.0,GIANTBUCNADO !,116.6,97.44,True,True,False,False,False
+2019,14,4,GIANTBUCNADO !,6.0,Andrew Luck Memorial Squad,97.44,116.6,False,False,False,False,False
+2019,14,11,Attack of Clawmar Jackson,2.0,Clout Chasers LLC,138.1,97.5,True,True,False,False,False
+2019,14,2,Clout Chasers LLC,11.0,Attack of Clawmar Jackson,97.5,138.1,False,False,False,False,False
+2019,14,7,Fuck My Life,,BYE,126.88,,True,,False,False,True
+2019,14,9,Not Enough Cooks,3.0,Michael Low T-homas,87.38,119.0,True,False,False,False,False
+2019,14,3,Michael Low T-homas,9.0,Not Enough Cooks,119.0,87.38,False,True,False,False,False
+2019,14,12,Its literally  too easy,5.0,"Macklin, you Son of a Bitch",66.66,89.36,True,False,False,False,False
+2019,14,5,"Macklin, you Son of a Bitch",12.0,Its literally  too easy,89.36,66.66,False,True,False,False,False
+2019,14,8,AB For Cumback POTY,1.0,6-7 might make the playoffs,58.86,32.54,True,True,False,False,False
+2019,14,1,6-7 might make the playoffs,8.0,AB For Cumback POTY,32.54,58.86,False,False,False,False,False
+2019,15,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,141.7,87.64,True,True,False,False,False
+2019,15,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,87.64,141.7,False,False,False,False,False
+2019,15,7,Fuck My Life,11.0,Attack of Clawmar Jackson,87.02,108.2,True,False,False,False,False
+2019,15,11,Attack of Clawmar Jackson,7.0,Fuck My Life,108.2,87.02,False,True,False,False,False
+2019,15,4,GIANTBUCNADO !,2.0,Clout Chasers LLC,95.66,123.82,True,False,False,False,False
+2019,15,2,Clout Chasers LLC,4.0,GIANTBUCNADO !,123.82,95.66,False,True,False,False,False
+2019,15,3,Michael Low T-homas,5.0,"Macklin, you Son of a Bitch",98.74,92.08,True,True,False,False,False
+2019,15,5,"Macklin, you Son of a Bitch",3.0,Michael Low T-homas,92.08,98.74,False,False,False,False,False
+2019,15,9,Not Enough Cooks,8.0,AB For Cumback POTY,102.78,101.08,True,True,False,False,False
+2019,15,8,AB For Cumback POTY,9.0,Not Enough Cooks,101.08,102.78,False,False,False,False,False
+2019,15,12,Its literally  too easy,1.0,6-7 might make the playoffs,109.46,109.4,True,True,False,False,False
+2019,15,1,6-7 might make the playoffs,12.0,Its literally  too easy,109.4,109.46,False,False,False,False,False
+2019,16,10,Rectum Wrecker$$$,11.0,Attack of Clawmar Jackson,130.14,123.32,True,True,False,False,False
+2019,16,11,Attack of Clawmar Jackson,10.0,Rectum Wrecker$$$,123.32,130.14,False,False,False,False,False
+2019,16,7,Fuck My Life,6.0,Andrew Luck Memorial Squad,51.26,84.06,True,False,False,False,False
+2019,16,6,Andrew Luck Memorial Squad,7.0,Fuck My Life,84.06,51.26,False,True,False,False,False
+2019,16,4,GIANTBUCNADO !,2.0,Clout Chasers LLC,103.68,68.54,True,True,False,False,False
+2019,16,2,Clout Chasers LLC,4.0,GIANTBUCNADO !,68.54,103.68,False,False,False,False,False
+2019,16,9,Not Enough Cooks,3.0,Michael Low T-homas,70.08,67.56,True,True,False,False,False
+2019,16,3,Michael Low T-homas,9.0,Not Enough Cooks,67.56,70.08,False,False,False,False,False
+2019,16,12,Its literally  too easy,5.0,"Macklin, you Son of a Bitch",78.12,74.52,True,True,False,False,False
+2019,16,5,"Macklin, you Son of a Bitch",12.0,Its literally  too easy,74.52,78.12,False,False,False,False,False
+2019,16,8,AB For Cumback POTY,1.0,6-7 might make the playoffs,75.5,82.56,True,False,False,False,False
+2019,16,1,6-7 might make the playoffs,8.0,AB For Cumback POTY,82.56,75.5,False,True,False,False,False

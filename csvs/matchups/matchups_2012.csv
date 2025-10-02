@@ -1,0 +1,151 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2012,1,1,Percy  Whipped,6,The Madd  Prater,111.9,93.88,True,True,False,False,False
+2012,1,6,The Madd  Prater,1,Percy  Whipped,93.88,111.9,False,False,False,False,False
+2012,1,5,Mister Rodgers Neighborhood,2,The Dawgs,77.32,81.6,True,False,False,False,False
+2012,1,2,The Dawgs,5,Mister Rodgers Neighborhood,81.6,77.32,False,True,False,False,False
+2012,1,10,What would Jones Drew?,7,Joe Buck Yourself,92.6,98.78,True,False,False,False,False
+2012,1,7,Joe Buck Yourself,10,What would Jones Drew?,98.78,92.6,False,True,False,False,False
+2012,1,4,Forgetting  BrandonMarshall,3,somewhere over  the Dwayne Bowe,128.06,92.56,True,True,False,False,False
+2012,1,3,somewhere over  the Dwayne Bowe,4,Forgetting  BrandonMarshall,92.56,128.06,False,False,False,False,False
+2012,1,9,Favre Dollar Footlong,8,Manning Up,79.56,129.02,True,False,False,False,False
+2012,1,8,Manning Up,9,Favre Dollar Footlong,129.02,79.56,False,True,False,False,False
+2012,2,2,The Dawgs,7,Joe Buck Yourself,110.3,83.08,True,True,False,False,False
+2012,2,7,Joe Buck Yourself,2,The Dawgs,83.08,110.3,False,False,False,False,False
+2012,2,3,somewhere over  the Dwayne Bowe,1,Percy  Whipped,104.9,98.7,True,True,False,False,False
+2012,2,1,Percy  Whipped,3,somewhere over  the Dwayne Bowe,98.7,104.9,False,False,False,False,False
+2012,2,8,Manning Up,6,The Madd  Prater,98.24,56.34,True,True,False,False,False
+2012,2,6,The Madd  Prater,8,Manning Up,56.34,98.24,False,False,False,False,False
+2012,2,4,Forgetting  BrandonMarshall,5,Mister Rodgers Neighborhood,101.56,80.16,True,True,False,False,False
+2012,2,5,Mister Rodgers Neighborhood,4,Forgetting  BrandonMarshall,80.16,101.56,False,False,False,False,False
+2012,2,9,Favre Dollar Footlong,10,What would Jones Drew?,98.6,128.02,True,False,False,False,False
+2012,2,10,What would Jones Drew?,9,Favre Dollar Footlong,128.02,98.6,False,True,False,False,False
+2012,3,3,somewhere over  the Dwayne Bowe,8,Manning Up,52.6,114.3,True,False,False,False,False
+2012,3,8,Manning Up,3,somewhere over  the Dwayne Bowe,114.3,52.6,False,True,False,False,False
+2012,3,2,The Dawgs,4,Forgetting  BrandonMarshall,100.08,104.5,True,False,False,False,False
+2012,3,4,Forgetting  BrandonMarshall,2,The Dawgs,104.5,100.08,False,True,False,False,False
+2012,3,7,Joe Buck Yourself,9,Favre Dollar Footlong,73.14,88.2,True,False,False,False,False
+2012,3,9,Favre Dollar Footlong,7,Joe Buck Yourself,88.2,73.14,False,True,False,False,False
+2012,3,1,Percy  Whipped,5,Mister Rodgers Neighborhood,81.88,101.72,True,False,False,False,False
+2012,3,5,Mister Rodgers Neighborhood,1,Percy  Whipped,101.72,81.88,False,True,False,False,False
+2012,3,6,The Madd  Prater,10,What would Jones Drew?,122.02,86.98,True,True,False,False,False
+2012,3,10,What would Jones Drew?,6,The Madd  Prater,86.98,122.02,False,False,False,False,False
+2012,4,4,Forgetting  BrandonMarshall,9,Favre Dollar Footlong,123.56,100.56,True,True,False,False,False
+2012,4,9,Favre Dollar Footlong,4,Forgetting  BrandonMarshall,100.56,123.56,False,False,False,False,False
+2012,4,5,Mister Rodgers Neighborhood,3,somewhere over  the Dwayne Bowe,121.04,128.14,True,False,False,False,False
+2012,4,3,somewhere over  the Dwayne Bowe,5,Mister Rodgers Neighborhood,128.14,121.04,False,True,False,False,False
+2012,4,10,What would Jones Drew?,8,Manning Up,95.4,83.22,True,True,False,False,False
+2012,4,8,Manning Up,10,What would Jones Drew?,83.22,95.4,False,False,False,False,False
+2012,4,1,Percy  Whipped,2,The Dawgs,130.9,105.26,True,True,False,False,False
+2012,4,2,The Dawgs,1,Percy  Whipped,105.26,130.9,False,False,False,False,False
+2012,4,6,The Madd  Prater,7,Joe Buck Yourself,67.1,109.56,True,False,False,False,False
+2012,4,7,Joe Buck Yourself,6,The Madd  Prater,109.56,67.1,False,True,False,False,False
+2012,5,5,Mister Rodgers Neighborhood,10,What would Jones Drew?,115.4,53.74,True,True,False,False,False
+2012,5,10,What would Jones Drew?,5,Mister Rodgers Neighborhood,53.74,115.4,False,False,False,False,False
+2012,5,4,Forgetting  BrandonMarshall,1,Percy  Whipped,97.6,121.92,True,False,False,False,False
+2012,5,1,Percy  Whipped,4,Forgetting  BrandonMarshall,121.92,97.6,False,True,False,False,False
+2012,5,9,Favre Dollar Footlong,6,The Madd  Prater,133.48,72.68,True,True,False,False,False
+2012,5,6,The Madd  Prater,9,Favre Dollar Footlong,72.68,133.48,False,False,False,False,False
+2012,5,3,somewhere over  the Dwayne Bowe,2,The Dawgs,77.0,132.7,True,False,False,False,False
+2012,5,2,The Dawgs,3,somewhere over  the Dwayne Bowe,132.7,77.0,False,True,False,False,False
+2012,5,8,Manning Up,7,Joe Buck Yourself,138.38,65.34,True,True,False,False,False
+2012,5,7,Joe Buck Yourself,8,Manning Up,65.34,138.38,False,False,False,False,False
+2012,6,6,The Madd  Prater,2,The Dawgs,85.7,99.44,True,False,False,False,False
+2012,6,2,The Dawgs,6,The Madd  Prater,99.44,85.7,False,True,False,False,False
+2012,6,7,Joe Buck Yourself,3,somewhere over  the Dwayne Bowe,95.02,47.74,True,True,False,False,False
+2012,6,3,somewhere over  the Dwayne Bowe,7,Joe Buck Yourself,47.74,95.02,False,False,False,False,False
+2012,6,8,Manning Up,4,Forgetting  BrandonMarshall,91.16,105.36,True,False,False,False,False
+2012,6,4,Forgetting  BrandonMarshall,8,Manning Up,105.36,91.16,False,True,False,False,False
+2012,6,9,Favre Dollar Footlong,5,Mister Rodgers Neighborhood,67.62,115.68,True,False,False,False,False
+2012,6,5,Mister Rodgers Neighborhood,9,Favre Dollar Footlong,115.68,67.62,False,True,False,False,False
+2012,6,10,What would Jones Drew?,1,Percy  Whipped,102.14,89.6,True,True,False,False,False
+2012,6,1,Percy  Whipped,10,What would Jones Drew?,89.6,102.14,False,False,False,False,False
+2012,7,3,somewhere over  the Dwayne Bowe,6,The Madd  Prater,93.78,68.74,True,True,False,False,False
+2012,7,6,The Madd  Prater,3,somewhere over  the Dwayne Bowe,68.74,93.78,False,False,False,False,False
+2012,7,4,Forgetting  BrandonMarshall,7,Joe Buck Yourself,93.0,105.62,True,False,False,False,False
+2012,7,7,Joe Buck Yourself,4,Forgetting  BrandonMarshall,105.62,93.0,False,True,False,False,False
+2012,7,5,Mister Rodgers Neighborhood,8,Manning Up,94.0,115.02,True,False,False,False,False
+2012,7,8,Manning Up,5,Mister Rodgers Neighborhood,115.02,94.0,False,True,False,False,False
+2012,7,1,Percy  Whipped,9,Favre Dollar Footlong,126.2,130.78,True,False,False,False,False
+2012,7,9,Favre Dollar Footlong,1,Percy  Whipped,130.78,126.2,False,True,False,False,False
+2012,7,2,The Dawgs,10,What would Jones Drew?,61.16,82.42,True,False,False,False,False
+2012,7,10,What would Jones Drew?,2,The Dawgs,82.42,61.16,False,True,False,False,False
+2012,8,6,The Madd  Prater,4,Forgetting  BrandonMarshall,54.48,105.38,True,False,False,False,False
+2012,8,4,Forgetting  BrandonMarshall,6,The Madd  Prater,105.38,54.48,False,True,False,False,False
+2012,8,7,Joe Buck Yourself,5,Mister Rodgers Neighborhood,124.38,69.08,True,True,False,False,False
+2012,8,5,Mister Rodgers Neighborhood,7,Joe Buck Yourself,69.08,124.38,False,False,False,False,False
+2012,8,8,Manning Up,1,Percy  Whipped,94.1,126.82,True,False,False,False,False
+2012,8,1,Percy  Whipped,8,Manning Up,126.82,94.1,False,True,False,False,False
+2012,8,9,Favre Dollar Footlong,2,The Dawgs,43.48,108.58,True,False,False,False,False
+2012,8,2,The Dawgs,9,Favre Dollar Footlong,108.58,43.48,False,True,False,False,False
+2012,8,10,What would Jones Drew?,3,somewhere over  the Dwayne Bowe,77.06,93.32,True,False,False,False,False
+2012,8,3,somewhere over  the Dwayne Bowe,10,What would Jones Drew?,93.32,77.06,False,True,False,False,False
+2012,9,6,The Madd  Prater,9,Favre Dollar Footlong,120.12,83.88,True,True,False,False,False
+2012,9,9,Favre Dollar Footlong,6,The Madd  Prater,83.88,120.12,False,False,False,False,False
+2012,9,1,Percy  Whipped,4,Forgetting  BrandonMarshall,121.94,149.68,True,False,False,False,False
+2012,9,4,Forgetting  BrandonMarshall,1,Percy  Whipped,149.68,121.94,False,True,False,False,False
+2012,9,7,Joe Buck Yourself,10,What would Jones Drew?,153.0,89.24,True,True,False,False,False
+2012,9,10,What would Jones Drew?,7,Joe Buck Yourself,89.24,153.0,False,False,False,False,False
+2012,9,2,The Dawgs,3,somewhere over  the Dwayne Bowe,92.6,75.66,True,True,False,False,False
+2012,9,3,somewhere over  the Dwayne Bowe,2,The Dawgs,75.66,92.6,False,False,False,False,False
+2012,9,8,Manning Up,5,Mister Rodgers Neighborhood,83.64,109.34,True,False,False,False,False
+2012,9,5,Mister Rodgers Neighborhood,8,Manning Up,109.34,83.64,False,True,False,False,False
+2012,10,1,Percy  Whipped,7,Joe Buck Yourself,110.08,87.6,True,True,False,False,False
+2012,10,7,Joe Buck Yourself,1,Percy  Whipped,87.6,110.08,False,False,False,False,False
+2012,10,2,The Dawgs,5,Mister Rodgers Neighborhood,86.06,93.54,True,False,False,False,False
+2012,10,5,Mister Rodgers Neighborhood,2,The Dawgs,93.54,86.06,False,True,False,False,False
+2012,10,3,somewhere over  the Dwayne Bowe,8,Manning Up,101.52,110.34,True,False,False,False,False
+2012,10,8,Manning Up,3,somewhere over  the Dwayne Bowe,110.34,101.52,False,True,False,False,False
+2012,10,6,The Madd  Prater,4,Forgetting  BrandonMarshall,107.32,100.94,True,True,False,False,False
+2012,10,4,Forgetting  BrandonMarshall,6,The Madd  Prater,100.94,107.32,False,False,False,False,False
+2012,10,10,What would Jones Drew?,9,Favre Dollar Footlong,82.24,56.0,True,True,False,False,False
+2012,10,9,Favre Dollar Footlong,10,What would Jones Drew?,56.0,82.24,False,False,False,False,False
+2012,11,2,The Dawgs,8,Manning Up,91.34,85.38,True,True,False,False,False
+2012,11,8,Manning Up,2,The Dawgs,85.38,91.34,False,False,False,False,False
+2012,11,1,Percy  Whipped,7,Joe Buck Yourself,84.34,119.3,True,False,False,False,False
+2012,11,7,Joe Buck Yourself,1,Percy  Whipped,119.3,84.34,False,True,False,False,False
+2012,11,10,What would Jones Drew?,3,somewhere over  the Dwayne Bowe,78.88,95.36,True,False,False,False,False
+2012,11,3,somewhere over  the Dwayne Bowe,10,What would Jones Drew?,95.36,78.88,False,True,False,False,False
+2012,11,9,Favre Dollar Footlong,4,Forgetting  BrandonMarshall,82.02,56.64,True,True,False,False,False
+2012,11,4,Forgetting  BrandonMarshall,9,Favre Dollar Footlong,56.64,82.02,False,False,False,False,False
+2012,11,5,Mister Rodgers Neighborhood,6,The Madd  Prater,90.96,137.06,True,False,False,False,False
+2012,11,6,The Madd  Prater,5,Mister Rodgers Neighborhood,137.06,90.96,False,True,False,False,False
+2012,12,5,Mister Rodgers Neighborhood,10,What would Jones Drew?,81.58,102.54,True,False,False,False,False
+2012,12,10,What would Jones Drew?,5,Mister Rodgers Neighborhood,102.54,81.58,False,True,False,False,False
+2012,12,2,The Dawgs,4,Forgetting  BrandonMarshall,113.44,104.72,True,True,False,False,False
+2012,12,4,Forgetting  BrandonMarshall,2,The Dawgs,104.72,113.44,False,False,False,False,False
+2012,12,8,Manning Up,3,somewhere over  the Dwayne Bowe,105.0,76.38,True,True,False,False,False
+2012,12,3,somewhere over  the Dwayne Bowe,8,Manning Up,76.38,105.0,False,False,False,False,False
+2012,12,9,Favre Dollar Footlong,1,Percy  Whipped,95.24,78.92,True,True,False,False,False
+2012,12,1,Percy  Whipped,9,Favre Dollar Footlong,78.92,95.24,False,False,False,False,False
+2012,12,7,Joe Buck Yourself,6,The Madd  Prater,97.66,124.3,True,False,False,False,False
+2012,12,6,The Madd  Prater,7,Joe Buck Yourself,124.3,97.66,False,True,False,False,False
+2012,13,4,Forgetting  BrandonMarshall,10,What would Jones Drew?,76.8,110.68,True,False,False,False,False
+2012,13,10,What would Jones Drew?,4,Forgetting  BrandonMarshall,110.68,76.8,False,True,False,False,False
+2012,13,3,somewhere over  the Dwayne Bowe,5,Mister Rodgers Neighborhood,60.34,102.42,True,False,False,False,False
+2012,13,5,Mister Rodgers Neighborhood,3,somewhere over  the Dwayne Bowe,102.42,60.34,False,True,False,False,False
+2012,13,6,The Madd  Prater,9,Favre Dollar Footlong,124.74,82.6,True,True,False,False,False
+2012,13,9,Favre Dollar Footlong,6,The Madd  Prater,82.6,124.74,False,False,False,False,False
+2012,13,2,The Dawgs,1,Percy  Whipped,81.42,117.54,True,False,False,False,False
+2012,13,1,Percy  Whipped,2,The Dawgs,117.54,81.42,False,True,False,False,False
+2012,13,7,Joe Buck Yourself,8,Manning Up,95.52,75.18,True,True,False,False,False
+2012,13,8,Manning Up,7,Joe Buck Yourself,75.18,95.52,False,False,False,False,False
+2012,14,7,Joe Buck Yourself,4,Forgetting  BrandonMarshall,173.04000000000002,243.48,True,False,False,False,False
+2012,14,4,Forgetting  BrandonMarshall,7,Joe Buck Yourself,243.48,173.04000000000002,False,True,False,False,False
+2012,14,2,The Dawgs,1,Percy  Whipped,181.12,262.74,True,False,False,False,False
+2012,14,1,Percy  Whipped,2,The Dawgs,262.74,181.12,False,True,False,False,False
+2012,14,8,Manning Up,10,What would Jones Drew?,170.86,205.92000000000002,True,False,False,False,False
+2012,14,10,What would Jones Drew?,8,Manning Up,205.92000000000002,170.86,False,True,False,False,False
+2012,14,5,Mister Rodgers Neighborhood,6,The Madd  Prater,166.24,212.89999999999998,True,False,False,False,False
+2012,14,6,The Madd  Prater,5,Mister Rodgers Neighborhood,212.89999999999998,166.24,False,True,False,False,False
+2012,14,9,Favre Dollar Footlong,3,somewhere over  the Dwayne Bowe,179.32,178.04000000000002,True,True,False,False,False
+2012,14,3,somewhere over  the Dwayne Bowe,9,Favre Dollar Footlong,178.04000000000002,179.32,False,False,False,False,False
+2012,15,1,Percy  Whipped,4,Forgetting  BrandonMarshall,196.54,193.74,True,True,False,False,False
+2012,15,4,Forgetting  BrandonMarshall,1,Percy  Whipped,193.74,196.54,False,False,False,False,False
+2012,15,7,Joe Buck Yourself,2,The Dawgs,209.12,244.5,True,False,False,False,False
+2012,15,2,The Dawgs,7,Joe Buck Yourself,244.5,209.12,False,True,False,False,False
+2012,15,10,What would Jones Drew?,6,The Madd  Prater,174.22,176.94,True,False,False,False,False
+2012,15,6,The Madd  Prater,10,What would Jones Drew?,176.94,174.22,False,True,False,False,False
+2012,15,8,Manning Up,9,Favre Dollar Footlong,184.16,225.52,True,False,False,False,False
+2012,15,9,Favre Dollar Footlong,8,Manning Up,225.52,184.16,False,True,False,False,False
+2012,15,5,Mister Rodgers Neighborhood,3,somewhere over  the Dwayne Bowe,263.42,225.38,True,True,False,False,False
+2012,15,3,somewhere over  the Dwayne Bowe,5,Mister Rodgers Neighborhood,225.38,263.42,False,False,False,False,False

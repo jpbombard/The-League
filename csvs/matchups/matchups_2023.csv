@@ -1,0 +1,205 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2023,1,3,Tank for Caleb,9.0,Meet the Robinson,76.88,95.04,True,False,False,False,False
+2023,1,9,Meet the Robinson,3.0,Tank for Caleb,95.04,76.88,False,True,False,False,False
+2023,1,6,Andrew Luck Memorial Squad,11.0,2 Coops 1 Kupp,85.92,59.06,True,True,False,False,False
+2023,1,11,2 Coops 1 Kupp,6.0,Andrew Luck Memorial Squad,59.06,85.92,False,False,False,False,False
+2023,1,7,Them Dawgs ,8.0,Most Herb Freiers,123.34,85.4,True,True,False,False,False
+2023,1,8,Most Herb Freiers,7.0,Them Dawgs ,85.4,123.34,False,False,False,False,False
+2023,1,10,Rectum Wrecker$$$,4.0,i know ball,82.04,84.56,True,False,False,False,False
+2023,1,4,i know ball,10.0,Rectum Wrecker$$$,84.56,82.04,False,True,False,False,False
+2023,1,2,The Middle Eastern Situation ,5.0,Florida Men,87.76,113.74,True,False,False,False,False
+2023,1,5,Florida Men,2.0,The Middle Eastern Situation ,113.74,87.76,False,True,False,False,False
+2023,1,1,Mr. Commish Sir,12.0,Its literally  too easy,66.02,70.94,True,False,False,False,False
+2023,1,12,Its literally  too easy,1.0,Mr. Commish Sir,70.94,66.02,False,True,False,False,False
+2023,2,9,Meet the Robinson,11.0,2 Coops 1 Kupp,72.84,51.88,True,True,False,False,False
+2023,2,11,2 Coops 1 Kupp,9.0,Meet the Robinson,51.88,72.84,False,False,False,False,False
+2023,2,8,Most Herb Freiers,3.0,Tank for Caleb,119.32,104.94,True,True,False,False,False
+2023,2,3,Tank for Caleb,8.0,Most Herb Freiers,104.94,119.32,False,False,False,False,False
+2023,2,7,Them Dawgs ,6.0,Andrew Luck Memorial Squad,82.56,151.24,True,False,False,False,False
+2023,2,6,Andrew Luck Memorial Squad,7.0,Them Dawgs ,151.24,82.56,False,True,False,False,False
+2023,2,4,i know ball,5.0,Florida Men,103.76,62.04,True,True,False,False,False
+2023,2,5,Florida Men,4.0,i know ball,62.04,103.76,False,False,False,False,False
+2023,2,12,Its literally  too easy,10.0,Rectum Wrecker$$$,109.2,109.26,True,False,False,False,False
+2023,2,10,Rectum Wrecker$$$,12.0,Its literally  too easy,109.26,109.2,False,True,False,False,False
+2023,2,1,Mr. Commish Sir,2.0,The Middle Eastern Situation ,69.72,83.7,True,False,False,False,False
+2023,2,2,The Middle Eastern Situation ,1.0,Mr. Commish Sir,83.7,69.72,False,True,False,False,False
+2023,3,8,Most Herb Freiers,9.0,Meet the Robinson,136.38,74.86,True,True,False,False,False
+2023,3,9,Meet the Robinson,8.0,Most Herb Freiers,74.86,136.38,False,False,False,False,False
+2023,3,11,2 Coops 1 Kupp,7.0,Them Dawgs ,96.28,92.76,True,True,False,False,False
+2023,3,7,Them Dawgs ,11.0,2 Coops 1 Kupp,92.76,96.28,False,False,False,False,False
+2023,3,3,Tank for Caleb,6.0,Andrew Luck Memorial Squad,73.34,101.34,True,False,False,False,False
+2023,3,6,Andrew Luck Memorial Squad,3.0,Tank for Caleb,101.34,73.34,False,True,False,False,False
+2023,3,12,Its literally  too easy,4.0,i know ball,130.98,95.68,True,True,False,False,False
+2023,3,4,i know ball,12.0,Its literally  too easy,95.68,130.98,False,False,False,False,False
+2023,3,5,Florida Men,1.0,Mr. Commish Sir,108.92,87.92,True,True,False,False,False
+2023,3,1,Mr. Commish Sir,5.0,Florida Men,87.92,108.92,False,False,False,False,False
+2023,3,10,Rectum Wrecker$$$,2.0,The Middle Eastern Situation ,97.12,72.2,True,True,False,False,False
+2023,3,2,The Middle Eastern Situation ,10.0,Rectum Wrecker$$$,72.2,97.12,False,False,False,False,False
+2023,4,9,Meet the Robinson,7.0,Them Dawgs ,115.2,121.88,True,False,False,False,False
+2023,4,7,Them Dawgs ,9.0,Meet the Robinson,121.88,115.2,False,True,False,False,False
+2023,4,6,Andrew Luck Memorial Squad,8.0,Most Herb Freiers,149.68,63.06,True,True,False,False,False
+2023,4,8,Most Herb Freiers,6.0,Andrew Luck Memorial Squad,63.06,149.68,False,False,False,False,False
+2023,4,3,Tank for Caleb,11.0,2 Coops 1 Kupp,79.64,121.04,True,False,False,False,False
+2023,4,11,2 Coops 1 Kupp,3.0,Tank for Caleb,121.04,79.64,False,True,False,False,False
+2023,4,4,i know ball,1.0,Mr. Commish Sir,64.46,107.0,True,False,False,False,False
+2023,4,1,Mr. Commish Sir,4.0,i know ball,107.0,64.46,False,True,False,False,False
+2023,4,2,The Middle Eastern Situation ,12.0,Its literally  too easy,57.88,107.42,True,False,False,False,False
+2023,4,12,Its literally  too easy,2.0,The Middle Eastern Situation ,107.42,57.88,False,True,False,False,False
+2023,4,10,Rectum Wrecker$$$,5.0,Florida Men,71.4,91.94,True,False,False,False,False
+2023,4,5,Florida Men,10.0,Rectum Wrecker$$$,91.94,71.4,False,True,False,False,False
+2023,5,6,Andrew Luck Memorial Squad,9.0,Meet the Robinson,66.82,121.22,True,False,False,False,False
+2023,5,9,Meet the Robinson,6.0,Andrew Luck Memorial Squad,121.22,66.82,False,True,False,False,False
+2023,5,7,Them Dawgs ,3.0,Tank for Caleb,120.52,78.68,True,True,False,False,False
+2023,5,3,Tank for Caleb,7.0,Them Dawgs ,78.68,120.52,False,False,False,False,False
+2023,5,8,Most Herb Freiers,11.0,2 Coops 1 Kupp,96.72,115.34,True,False,False,False,False
+2023,5,11,2 Coops 1 Kupp,8.0,Most Herb Freiers,115.34,96.72,False,True,False,False,False
+2023,5,2,The Middle Eastern Situation ,4.0,i know ball,57.12,99.06,True,False,False,False,False
+2023,5,4,i know ball,2.0,The Middle Eastern Situation ,99.06,57.12,False,True,False,False,False
+2023,5,1,Mr. Commish Sir,10.0,Rectum Wrecker$$$,83.14,71.14,True,True,False,False,False
+2023,5,10,Rectum Wrecker$$$,1.0,Mr. Commish Sir,71.14,83.14,False,False,False,False,False
+2023,5,12,Its literally  too easy,5.0,Florida Men,84.04,116.16,True,False,False,False,False
+2023,5,5,Florida Men,12.0,Its literally  too easy,116.16,84.04,False,True,False,False,False
+2023,6,9,Meet the Robinson,4.0,i know ball,77.42,63.34,True,True,False,False,False
+2023,6,4,i know ball,9.0,Meet the Robinson,63.34,77.42,False,False,False,False,False
+2023,6,3,Tank for Caleb,10.0,Rectum Wrecker$$$,78.24,75.36,True,True,False,False,False
+2023,6,10,Rectum Wrecker$$$,3.0,Tank for Caleb,75.36,78.24,False,False,False,False,False
+2023,6,11,2 Coops 1 Kupp,5.0,Florida Men,106.22,112.94,True,False,False,False,False
+2023,6,5,Florida Men,11.0,2 Coops 1 Kupp,112.94,106.22,False,True,False,False,False
+2023,6,8,Most Herb Freiers,12.0,Its literally  too easy,91.0,93.34,True,False,False,False,False
+2023,6,12,Its literally  too easy,8.0,Most Herb Freiers,93.34,91.0,False,True,False,False,False
+2023,6,7,Them Dawgs ,1.0,Mr. Commish Sir,75.38,80.82,True,False,False,False,False
+2023,6,1,Mr. Commish Sir,7.0,Them Dawgs ,80.82,75.38,False,True,False,False,False
+2023,6,6,Andrew Luck Memorial Squad,2.0,The Middle Eastern Situation ,100.38,65.68,True,True,False,False,False
+2023,6,2,The Middle Eastern Situation ,6.0,Andrew Luck Memorial Squad,65.68,100.38,False,False,False,False,False
+2023,7,4,i know ball,3.0,Tank for Caleb,57.02,87.56,True,False,False,False,False
+2023,7,3,Tank for Caleb,4.0,i know ball,87.56,57.02,False,True,False,False,False
+2023,7,10,Rectum Wrecker$$$,11.0,2 Coops 1 Kupp,121.7,100.48,True,True,False,False,False
+2023,7,11,2 Coops 1 Kupp,10.0,Rectum Wrecker$$$,100.48,121.7,False,False,False,False,False
+2023,7,5,Florida Men,8.0,Most Herb Freiers,96.76,64.36,True,True,False,False,False
+2023,7,8,Most Herb Freiers,5.0,Florida Men,64.36,96.76,False,False,False,False,False
+2023,7,12,Its literally  too easy,7.0,Them Dawgs ,111.86,59.24,True,True,False,False,False
+2023,7,7,Them Dawgs ,12.0,Its literally  too easy,59.24,111.86,False,False,False,False,False
+2023,7,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,96.76,77.86,True,True,False,False,False
+2023,7,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,77.86,96.76,False,False,False,False,False
+2023,7,2,The Middle Eastern Situation ,9.0,Meet the Robinson,121.46,58.9,True,True,False,False,False
+2023,7,9,Meet the Robinson,2.0,The Middle Eastern Situation ,58.9,121.46,False,False,False,False,False
+2023,8,11,2 Coops 1 Kupp,4.0,i know ball,84.88,73.26,True,True,False,False,False
+2023,8,4,i know ball,11.0,2 Coops 1 Kupp,73.26,84.88,False,False,False,False,False
+2023,8,8,Most Herb Freiers,10.0,Rectum Wrecker$$$,74.16,96.56,True,False,False,False,False
+2023,8,10,Rectum Wrecker$$$,8.0,Most Herb Freiers,96.56,74.16,False,True,False,False,False
+2023,8,7,Them Dawgs ,5.0,Florida Men,73.46,117.0,True,False,False,False,False
+2023,8,5,Florida Men,7.0,Them Dawgs ,117.0,73.46,False,True,False,False,False
+2023,8,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,125.02,86.4,True,True,False,False,False
+2023,8,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,86.4,125.02,False,False,False,False,False
+2023,8,9,Meet the Robinson,1.0,Mr. Commish Sir,95.52,131.58,True,False,False,False,False
+2023,8,1,Mr. Commish Sir,9.0,Meet the Robinson,131.58,95.52,False,True,False,False,False
+2023,8,3,Tank for Caleb,2.0,The Middle Eastern Situation ,103.36,120.82,True,False,False,False,False
+2023,8,2,The Middle Eastern Situation ,3.0,Tank for Caleb,120.82,103.36,False,True,False,False,False
+2023,9,4,i know ball,8.0,Most Herb Freiers,83.28,104.98,True,False,False,False,False
+2023,9,8,Most Herb Freiers,4.0,i know ball,104.98,83.28,False,True,False,False,False
+2023,9,10,Rectum Wrecker$$$,7.0,Them Dawgs ,80.52,79.12,True,True,False,False,False
+2023,9,7,Them Dawgs ,10.0,Rectum Wrecker$$$,79.12,80.52,False,False,False,False,False
+2023,9,5,Florida Men,6.0,Andrew Luck Memorial Squad,86.2,123.28,True,False,False,False,False
+2023,9,6,Andrew Luck Memorial Squad,5.0,Florida Men,123.28,86.2,False,True,False,False,False
+2023,9,12,Its literally  too easy,9.0,Meet the Robinson,83.1,92.92,True,False,False,False,False
+2023,9,9,Meet the Robinson,12.0,Its literally  too easy,92.92,83.1,False,True,False,False,False
+2023,9,1,Mr. Commish Sir,3.0,Tank for Caleb,109.12,72.74,True,True,False,False,False
+2023,9,3,Tank for Caleb,1.0,Mr. Commish Sir,72.74,109.12,False,False,False,False,False
+2023,9,2,The Middle Eastern Situation ,11.0,2 Coops 1 Kupp,75.84,99.18,True,False,False,False,False
+2023,9,11,2 Coops 1 Kupp,2.0,The Middle Eastern Situation ,99.18,75.84,False,True,False,False,False
+2023,10,7,Them Dawgs ,4.0,i know ball,83.42,71.9,True,True,False,False,False
+2023,10,4,i know ball,7.0,Them Dawgs ,71.9,83.42,False,False,False,False,False
+2023,10,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,121.96,112.64,True,True,False,False,False
+2023,10,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,112.64,121.96,False,False,False,False,False
+2023,10,9,Meet the Robinson,5.0,Florida Men,120.54,108.54,True,True,False,False,False
+2023,10,5,Florida Men,9.0,Meet the Robinson,108.54,120.54,False,False,False,False,False
+2023,10,3,Tank for Caleb,12.0,Its literally  too easy,74.82,108.92,True,False,False,False,False
+2023,10,12,Its literally  too easy,3.0,Tank for Caleb,108.92,74.82,False,True,False,False,False
+2023,10,11,2 Coops 1 Kupp,1.0,Mr. Commish Sir,90.12,77.62,True,True,False,False,False
+2023,10,1,Mr. Commish Sir,11.0,2 Coops 1 Kupp,77.62,90.12,False,False,False,False,False
+2023,10,8,Most Herb Freiers,2.0,The Middle Eastern Situation ,95.84,105.42,True,False,False,False,False
+2023,10,2,The Middle Eastern Situation ,8.0,Most Herb Freiers,105.42,95.84,False,True,False,False,False
+2023,11,4,i know ball,6.0,Andrew Luck Memorial Squad,124.9,85.86,True,True,False,False,False
+2023,11,6,Andrew Luck Memorial Squad,4.0,i know ball,85.86,124.9,False,False,False,False,False
+2023,11,10,Rectum Wrecker$$$,9.0,Meet the Robinson,117.1,78.44,True,True,False,False,False
+2023,11,9,Meet the Robinson,10.0,Rectum Wrecker$$$,78.44,117.1,False,False,False,False,False
+2023,11,5,Florida Men,3.0,Tank for Caleb,90.64,86.26,True,True,False,False,False
+2023,11,3,Tank for Caleb,5.0,Florida Men,86.26,90.64,False,False,False,False,False
+2023,11,12,Its literally  too easy,11.0,2 Coops 1 Kupp,115.48,78.56,True,True,False,False,False
+2023,11,11,2 Coops 1 Kupp,12.0,Its literally  too easy,78.56,115.48,False,False,False,False,False
+2023,11,1,Mr. Commish Sir,8.0,Most Herb Freiers,66.84,75.2,True,False,False,False,False
+2023,11,8,Most Herb Freiers,1.0,Mr. Commish Sir,75.2,66.84,False,True,False,False,False
+2023,11,2,The Middle Eastern Situation ,7.0,Them Dawgs ,74.7,112.7,True,False,False,False,False
+2023,11,7,Them Dawgs ,2.0,The Middle Eastern Situation ,112.7,74.7,False,True,False,False,False
+2023,12,4,i know ball,9.0,Meet the Robinson,74.58,84.28,True,False,False,False,False
+2023,12,9,Meet the Robinson,4.0,i know ball,84.28,74.58,False,True,False,False,False
+2023,12,10,Rectum Wrecker$$$,3.0,Tank for Caleb,113.96,97.64,True,True,False,False,False
+2023,12,3,Tank for Caleb,10.0,Rectum Wrecker$$$,97.64,113.96,False,False,False,False,False
+2023,12,5,Florida Men,11.0,2 Coops 1 Kupp,129.06,87.88,True,True,False,False,False
+2023,12,11,2 Coops 1 Kupp,5.0,Florida Men,87.88,129.06,False,False,False,False,False
+2023,12,12,Its literally  too easy,8.0,Most Herb Freiers,82.72,94.9,True,False,False,False,False
+2023,12,8,Most Herb Freiers,12.0,Its literally  too easy,94.9,82.72,False,True,False,False,False
+2023,12,1,Mr. Commish Sir,7.0,Them Dawgs ,92.68,107.62,True,False,False,False,False
+2023,12,7,Them Dawgs ,1.0,Mr. Commish Sir,107.62,92.68,False,True,False,False,False
+2023,12,2,The Middle Eastern Situation ,6.0,Andrew Luck Memorial Squad,93.56,130.14,True,False,False,False,False
+2023,12,6,Andrew Luck Memorial Squad,2.0,The Middle Eastern Situation ,130.14,93.56,False,True,False,False,False
+2023,13,3,Tank for Caleb,4.0,i know ball,79.0,36.88,True,True,False,False,False
+2023,13,4,i know ball,3.0,Tank for Caleb,36.88,79.0,False,False,False,False,False
+2023,13,11,2 Coops 1 Kupp,10.0,Rectum Wrecker$$$,111.0,80.74,True,True,False,False,False
+2023,13,10,Rectum Wrecker$$$,11.0,2 Coops 1 Kupp,80.74,111.0,False,False,False,False,False
+2023,13,8,Most Herb Freiers,5.0,Florida Men,94.92,128.06,True,False,False,False,False
+2023,13,5,Florida Men,8.0,Most Herb Freiers,128.06,94.92,False,True,False,False,False
+2023,13,7,Them Dawgs ,12.0,Its literally  too easy,86.5,97.3,True,False,False,False,False
+2023,13,12,Its literally  too easy,7.0,Them Dawgs ,97.3,86.5,False,True,False,False,False
+2023,13,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,154.26,76.52,True,True,False,False,False
+2023,13,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,76.52,154.26,False,False,False,False,False
+2023,13,9,Meet the Robinson,2.0,The Middle Eastern Situation ,101.66,66.16,True,True,False,False,False
+2023,13,2,The Middle Eastern Situation ,9.0,Meet the Robinson,66.16,101.66,False,False,False,False,False
+2023,14,4,i know ball,11.0,2 Coops 1 Kupp,72.34,108.34,True,False,False,False,False
+2023,14,11,2 Coops 1 Kupp,4.0,i know ball,108.34,72.34,False,True,False,False,False
+2023,14,10,Rectum Wrecker$$$,8.0,Most Herb Freiers,88.92,82.12,True,True,False,False,False
+2023,14,8,Most Herb Freiers,10.0,Rectum Wrecker$$$,82.12,88.92,False,False,False,False,False
+2023,14,5,Florida Men,7.0,Them Dawgs ,81.14,99.1,True,False,False,False,False
+2023,14,7,Them Dawgs ,5.0,Florida Men,99.1,81.14,False,True,False,False,False
+2023,14,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,93.44,92.64,True,True,False,False,False
+2023,14,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,92.64,93.44,False,False,False,False,False
+2023,14,1,Mr. Commish Sir,9.0,Meet the Robinson,60.14,95.42,True,False,False,False,False
+2023,14,9,Meet the Robinson,1.0,Mr. Commish Sir,95.42,60.14,False,True,False,False,False
+2023,14,2,The Middle Eastern Situation ,3.0,Tank for Caleb,87.16,83.58,True,True,False,False,False
+2023,14,3,Tank for Caleb,2.0,The Middle Eastern Situation ,83.58,87.16,False,False,False,False,False
+2023,15,6,Andrew Luck Memorial Squad,,BYE,99.52,,True,,False,False,True
+2023,15,9,Meet the Robinson,10.0,Rectum Wrecker$$$,79.74,70.66,True,True,False,False,False
+2023,15,10,Rectum Wrecker$$$,9.0,Meet the Robinson,70.66,79.74,False,False,False,False,False
+2023,15,12,Its literally  too easy,11.0,2 Coops 1 Kupp,129.9,83.74,True,True,False,False,False
+2023,15,11,2 Coops 1 Kupp,12.0,Its literally  too easy,83.74,129.9,False,False,False,False,False
+2023,15,5,Florida Men,,BYE,90.66,,True,,False,False,True
+2023,15,7,Them Dawgs ,1.0,Mr. Commish Sir,79.56,83.32,True,False,False,False,False
+2023,15,1,Mr. Commish Sir,7.0,Them Dawgs ,83.32,79.56,False,True,False,False,False
+2023,15,8,Most Herb Freiers,2.0,The Middle Eastern Situation ,124.22,99.72,True,True,False,False,False
+2023,15,2,The Middle Eastern Situation ,8.0,Most Herb Freiers,99.72,124.22,False,False,False,False,False
+2023,15,4,i know ball,3.0,Tank for Caleb,55.7,76.24,True,False,False,False,False
+2023,15,3,Tank for Caleb,4.0,i know ball,76.24,55.7,False,True,False,False,False
+2023,16,6,Andrew Luck Memorial Squad,9.0,Meet the Robinson,124.2,109.3,True,True,False,False,False
+2023,16,9,Meet the Robinson,6.0,Andrew Luck Memorial Squad,109.3,124.2,False,False,False,False,False
+2023,16,5,Florida Men,12.0,Its literally  too easy,74.54,76.8,True,False,False,False,False
+2023,16,12,Its literally  too easy,5.0,Florida Men,76.8,74.54,False,True,False,False,False
+2023,16,10,Rectum Wrecker$$$,11.0,2 Coops 1 Kupp,81.98,103.78,True,False,False,False,False
+2023,16,11,2 Coops 1 Kupp,10.0,Rectum Wrecker$$$,103.78,81.98,False,True,False,False,False
+2023,16,1,Mr. Commish Sir,8.0,Most Herb Freiers,93.28,71.88,True,True,False,False,False
+2023,16,8,Most Herb Freiers,1.0,Mr. Commish Sir,71.88,93.28,False,False,False,False,False
+2023,16,7,Them Dawgs ,3.0,Tank for Caleb,76.82,85.22,True,False,False,False,False
+2023,16,3,Tank for Caleb,7.0,Them Dawgs ,85.22,76.82,False,True,False,False,False
+2023,16,2,The Middle Eastern Situation ,4.0,i know ball,99.02,102.4,True,False,False,False,False
+2023,16,4,i know ball,2.0,The Middle Eastern Situation ,102.4,99.02,False,True,False,False,False
+2023,17,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,88.2,100.8,True,False,False,False,False
+2023,17,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,100.8,88.2,False,True,False,False,False
+2023,17,5,Florida Men,9.0,Meet the Robinson,121.82,115.62,True,True,False,False,False
+2023,17,9,Meet the Robinson,5.0,Florida Men,115.62,121.82,False,False,False,False,False
+2023,17,10,Rectum Wrecker$$$,11.0,2 Coops 1 Kupp,54.06,129.04,True,False,False,False,False
+2023,17,11,2 Coops 1 Kupp,10.0,Rectum Wrecker$$$,129.04,54.06,False,True,False,False,False
+2023,17,1,Mr. Commish Sir,3.0,Tank for Caleb,86.94,84.98,True,True,False,False,False
+2023,17,3,Tank for Caleb,1.0,Mr. Commish Sir,84.98,86.94,False,False,False,False,False
+2023,17,8,Most Herb Freiers,4.0,i know ball,112.98,53.1,True,True,False,False,False
+2023,17,4,i know ball,8.0,Most Herb Freiers,53.1,112.98,False,False,False,False,False
+2023,17,7,Them Dawgs ,2.0,The Middle Eastern Situation ,85.68,80.38,True,True,False,False,False
+2023,17,2,The Middle Eastern Situation ,7.0,Them Dawgs ,80.38,85.68,False,False,False,False,False

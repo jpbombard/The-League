@@ -1,0 +1,193 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2014,1,5,Sanders could  save the 97%,1.0,Off In Church,90.52,95.08,True,False,False,False,False
+2014,1,1,Off In Church,5.0,Sanders could  save the 97%,95.08,90.52,False,True,False,False,False
+2014,1,11,WE R MARSHALL,6.0,I hope we Win,84.46,94.9,True,False,False,False,False
+2014,1,6,I hope we Win,11.0,WE R MARSHALL,94.9,84.46,False,True,False,False,False
+2014,1,9,ODELL BECKHAM,8.0,ALL GORDON'S GO!,98.6,129.84,True,False,False,False,False
+2014,1,8,ALL GORDON'S GO!,9.0,ODELL BECKHAM,129.84,98.6,False,True,False,False,False
+2014,1,3,Fuck Salt,2.0,Tulane !,78.24,78.02,True,True,False,False,False
+2014,1,2,Tulane !,3.0,Fuck Salt,78.02,78.24,False,False,False,False,False
+2014,1,12,NCS Champion,4.0,SHOW ME THE MONEY ,111.6,87.14,True,True,False,False,False
+2014,1,4,SHOW ME THE MONEY ,12.0,NCS Champion,87.14,111.6,False,False,False,False,False
+2014,1,10,Rectum Wreckers,7.0,Last  Place,99.74,75.24,True,True,False,False,False
+2014,1,7,Last  Place,10.0,Rectum Wreckers,75.24,99.74,False,False,False,False,False
+2014,2,1,Off In Church,6.0,I hope we Win,104.08,94.18,True,True,False,False,False
+2014,2,6,I hope we Win,1.0,Off In Church,94.18,104.08,False,False,False,False,False
+2014,2,8,ALL GORDON'S GO!,5.0,Sanders could  save the 97%,86.58,81.56,True,True,False,False,False
+2014,2,5,Sanders could  save the 97%,8.0,ALL GORDON'S GO!,81.56,86.58,False,False,False,False,False
+2014,2,9,ODELL BECKHAM,11.0,WE R MARSHALL,114.62,99.28,True,True,False,False,False
+2014,2,11,WE R MARSHALL,9.0,ODELL BECKHAM,99.28,114.62,False,False,False,False,False
+2014,2,2,Tulane !,4.0,SHOW ME THE MONEY ,67.78,107.32,True,False,False,False,False
+2014,2,4,SHOW ME THE MONEY ,2.0,Tulane !,107.32,67.78,False,True,False,False,False
+2014,2,7,Last  Place,3.0,Fuck Salt,67.78,87.06,True,False,False,False,False
+2014,2,3,Fuck Salt,7.0,Last  Place,87.06,67.78,False,True,False,False,False
+2014,2,10,Rectum Wreckers,12.0,NCS Champion,84.04,89.0,True,False,False,False,False
+2014,2,12,NCS Champion,10.0,Rectum Wreckers,89.0,84.04,False,True,False,False,False
+2014,3,8,ALL GORDON'S GO!,1.0,Off In Church,85.22,111.94,True,False,False,False,False
+2014,3,1,Off In Church,8.0,ALL GORDON'S GO!,111.94,85.22,False,True,False,False,False
+2014,3,6,I hope we Win,9.0,ODELL BECKHAM,103.8,71.86,True,True,False,False,False
+2014,3,9,ODELL BECKHAM,6.0,I hope we Win,71.86,103.8,False,False,False,False,False
+2014,3,5,Sanders could  save the 97%,11.0,WE R MARSHALL,83.44,109.12,True,False,False,False,False
+2014,3,11,WE R MARSHALL,5.0,Sanders could  save the 97%,109.12,83.44,False,True,False,False,False
+2014,3,7,Last  Place,2.0,Tulane !,57.5,101.32,True,False,False,False,False
+2014,3,2,Tulane !,7.0,Last  Place,101.32,57.5,False,True,False,False,False
+2014,3,4,SHOW ME THE MONEY ,10.0,Rectum Wreckers,84.3,77.1,True,True,False,False,False
+2014,3,10,Rectum Wreckers,4.0,SHOW ME THE MONEY ,77.1,84.3,False,False,False,False,False
+2014,3,3,Fuck Salt,12.0,NCS Champion,77.38,65.48,True,True,False,False,False
+2014,3,12,NCS Champion,3.0,Fuck Salt,65.48,77.38,False,False,False,False,False
+2014,4,1,Off In Church,9.0,ODELL BECKHAM,102.92,103.56,True,False,False,False,False
+2014,4,9,ODELL BECKHAM,1.0,Off In Church,103.56,102.92,False,True,False,False,False
+2014,4,11,WE R MARSHALL,8.0,ALL GORDON'S GO!,24.5,57.68,True,False,False,False,False
+2014,4,8,ALL GORDON'S GO!,11.0,WE R MARSHALL,57.68,24.5,False,True,False,False,False
+2014,4,5,Sanders could  save the 97%,6.0,I hope we Win,103.28,87.82,True,True,False,False,False
+2014,4,6,I hope we Win,5.0,Sanders could  save the 97%,87.82,103.28,False,False,False,False,False
+2014,4,2,Tulane !,10.0,Rectum Wreckers,94.1,93.68,True,True,False,False,False
+2014,4,10,Rectum Wreckers,2.0,Tulane !,93.68,94.1,False,False,False,False,False
+2014,4,12,NCS Champion,7.0,Last  Place,141.7,98.02,True,True,False,False,False
+2014,4,7,Last  Place,12.0,NCS Champion,98.02,141.7,False,False,False,False,False
+2014,4,3,Fuck Salt,4.0,SHOW ME THE MONEY ,142.32,92.82,True,True,False,False,False
+2014,4,4,SHOW ME THE MONEY ,3.0,Fuck Salt,92.82,142.32,False,False,False,False,False
+2014,5,11,WE R MARSHALL,1.0,Off In Church,151.8,75.32,True,True,False,False,False
+2014,5,1,Off In Church,11.0,WE R MARSHALL,75.32,151.8,False,False,False,False,False
+2014,5,9,ODELL BECKHAM,5.0,Sanders could  save the 97%,67.04,78.42,True,False,False,False,False
+2014,5,5,Sanders could  save the 97%,9.0,ODELL BECKHAM,78.42,67.04,False,True,False,False,False
+2014,5,8,ALL GORDON'S GO!,6.0,I hope we Win,109.64,103.18,True,True,False,False,False
+2014,5,6,I hope we Win,8.0,ALL GORDON'S GO!,103.18,109.64,False,False,False,False,False
+2014,5,12,NCS Champion,2.0,Tulane !,83.44,105.94,True,False,False,False,False
+2014,5,2,Tulane !,12.0,NCS Champion,105.94,83.44,False,True,False,False,False
+2014,5,10,Rectum Wreckers,3.0,Fuck Salt,91.2,79.28,True,True,False,False,False
+2014,5,3,Fuck Salt,10.0,Rectum Wreckers,79.28,91.2,False,False,False,False,False
+2014,5,7,Last  Place,4.0,SHOW ME THE MONEY ,100.76,66.54,True,True,False,False,False
+2014,5,4,SHOW ME THE MONEY ,7.0,Last  Place,66.54,100.76,False,False,False,False,False
+2014,6,1,Off In Church,2.0,Tulane !,91.2,79.34,True,True,False,False,False
+2014,6,2,Tulane !,1.0,Off In Church,79.34,91.2,False,False,False,False,False
+2014,6,5,Sanders could  save the 97%,3.0,Fuck Salt,95.52,99.84,True,False,False,False,False
+2014,6,3,Fuck Salt,5.0,Sanders could  save the 97%,99.84,95.52,False,True,False,False,False
+2014,6,6,I hope we Win,4.0,SHOW ME THE MONEY ,116.4,107.12,True,True,False,False,False
+2014,6,4,SHOW ME THE MONEY ,6.0,I hope we Win,107.12,116.4,False,False,False,False,False
+2014,6,8,ALL GORDON'S GO!,7.0,Last  Place,117.44,88.52,True,True,False,False,False
+2014,6,7,Last  Place,8.0,ALL GORDON'S GO!,88.52,117.44,False,False,False,False,False
+2014,6,9,ODELL BECKHAM,10.0,Rectum Wreckers,91.78,124.26,True,False,False,False,False
+2014,6,10,Rectum Wreckers,9.0,ODELL BECKHAM,124.26,91.78,False,True,False,False,False
+2014,6,11,WE R MARSHALL,12.0,NCS Champion,85.88,94.24,True,False,False,False,False
+2014,6,12,NCS Champion,11.0,WE R MARSHALL,94.24,85.88,False,True,False,False,False
+2014,7,2,Tulane !,5.0,Sanders could  save the 97%,100.88,87.3,True,True,False,False,False
+2014,7,5,Sanders could  save the 97%,2.0,Tulane !,87.3,100.88,False,False,False,False,False
+2014,7,3,Fuck Salt,6.0,I hope we Win,81.42,104.36,True,False,False,False,False
+2014,7,6,I hope we Win,3.0,Fuck Salt,104.36,81.42,False,True,False,False,False
+2014,7,4,SHOW ME THE MONEY ,8.0,ALL GORDON'S GO!,81.92,88.62,True,False,False,False,False
+2014,7,8,ALL GORDON'S GO!,4.0,SHOW ME THE MONEY ,88.62,81.92,False,True,False,False,False
+2014,7,7,Last  Place,9.0,ODELL BECKHAM,58.48,112.98,True,False,False,False,False
+2014,7,9,ODELL BECKHAM,7.0,Last  Place,112.98,58.48,False,True,False,False,False
+2014,7,10,Rectum Wreckers,11.0,WE R MARSHALL,70.3,82.82,True,False,False,False,False
+2014,7,11,WE R MARSHALL,10.0,Rectum Wreckers,82.82,70.3,False,True,False,False,False
+2014,7,12,NCS Champion,1.0,Off In Church,90.0,81.04,True,True,False,False,False
+2014,7,1,Off In Church,12.0,NCS Champion,81.04,90.0,False,False,False,False,False
+2014,8,6,I hope we Win,2.0,Tulane !,117.0,180.14,True,False,False,False,False
+2014,8,2,Tulane !,6.0,I hope we Win,180.14,117.0,False,True,False,False,False
+2014,8,8,ALL GORDON'S GO!,3.0,Fuck Salt,107.36,65.74,True,True,False,False,False
+2014,8,3,Fuck Salt,8.0,ALL GORDON'S GO!,65.74,107.36,False,False,False,False,False
+2014,8,9,ODELL BECKHAM,4.0,SHOW ME THE MONEY ,114.66,98.5,True,True,False,False,False
+2014,8,4,SHOW ME THE MONEY ,9.0,ODELL BECKHAM,98.5,114.66,False,False,False,False,False
+2014,8,11,WE R MARSHALL,7.0,Last  Place,91.04,85.04,True,True,False,False,False
+2014,8,7,Last  Place,11.0,WE R MARSHALL,85.04,91.04,False,False,False,False,False
+2014,8,1,Off In Church,10.0,Rectum Wreckers,131.18,104.24,True,True,False,False,False
+2014,8,10,Rectum Wreckers,1.0,Off In Church,104.24,131.18,False,False,False,False,False
+2014,8,5,Sanders could  save the 97%,12.0,NCS Champion,119.38,89.72,True,True,False,False,False
+2014,8,12,NCS Champion,5.0,Sanders could  save the 97%,89.72,119.38,False,False,False,False,False
+2014,9,2,Tulane !,8.0,ALL GORDON'S GO!,87.08,104.36,True,False,False,False,False
+2014,9,8,ALL GORDON'S GO!,2.0,Tulane !,104.36,87.08,False,True,False,False,False
+2014,9,3,Fuck Salt,9.0,ODELL BECKHAM,92.88,99.2,True,False,False,False,False
+2014,9,9,ODELL BECKHAM,3.0,Fuck Salt,99.2,92.88,False,True,False,False,False
+2014,9,4,SHOW ME THE MONEY ,11.0,WE R MARSHALL,77.08,123.16,True,False,False,False,False
+2014,9,11,WE R MARSHALL,4.0,SHOW ME THE MONEY ,123.16,77.08,False,True,False,False,False
+2014,9,7,Last  Place,1.0,Off In Church,62.92,118.12,True,False,False,False,False
+2014,9,1,Off In Church,7.0,Last  Place,118.12,62.92,False,True,False,False,False
+2014,9,10,Rectum Wreckers,5.0,Sanders could  save the 97%,100.64,101.08,True,False,False,False,False
+2014,9,5,Sanders could  save the 97%,10.0,Rectum Wreckers,101.08,100.64,False,True,False,False,False
+2014,9,12,NCS Champion,6.0,I hope we Win,75.7,120.66,True,False,False,False,False
+2014,9,6,I hope we Win,12.0,NCS Champion,120.66,75.7,False,True,False,False,False
+2014,10,9,ODELL BECKHAM,2.0,Tulane !,136.86,65.02,True,True,False,False,False
+2014,10,2,Tulane !,9.0,ODELL BECKHAM,65.02,136.86,False,False,False,False,False
+2014,10,11,WE R MARSHALL,3.0,Fuck Salt,135.6,92.8,True,True,False,False,False
+2014,10,3,Fuck Salt,11.0,WE R MARSHALL,92.8,135.6,False,False,False,False,False
+2014,10,1,Off In Church,4.0,SHOW ME THE MONEY ,86.52,85.16,True,True,False,False,False
+2014,10,4,SHOW ME THE MONEY ,1.0,Off In Church,85.16,86.52,False,False,False,False,False
+2014,10,5,Sanders could  save the 97%,7.0,Last  Place,117.58,68.58,True,True,False,False,False
+2014,10,7,Last  Place,5.0,Sanders could  save the 97%,68.58,117.58,False,False,False,False,False
+2014,10,6,I hope we Win,10.0,Rectum Wreckers,71.48,42.26,True,True,False,False,False
+2014,10,10,Rectum Wreckers,6.0,I hope we Win,42.26,71.48,False,False,False,False,False
+2014,10,8,ALL GORDON'S GO!,12.0,NCS Champion,168.48,81.72,True,True,False,False,False
+2014,10,12,NCS Champion,8.0,ALL GORDON'S GO!,81.72,168.48,False,False,False,False,False
+2014,11,2,Tulane !,11.0,WE R MARSHALL,79.6,69.34,True,True,False,False,False
+2014,11,11,WE R MARSHALL,2.0,Tulane !,69.34,79.6,False,False,False,False,False
+2014,11,3,Fuck Salt,1.0,Off In Church,70.66,94.58,True,False,False,False,False
+2014,11,1,Off In Church,3.0,Fuck Salt,94.58,70.66,False,True,False,False,False
+2014,11,4,SHOW ME THE MONEY ,5.0,Sanders could  save the 97%,75.92,89.42,True,False,False,False,False
+2014,11,5,Sanders could  save the 97%,4.0,SHOW ME THE MONEY ,89.42,75.92,False,True,False,False,False
+2014,11,7,Last  Place,6.0,I hope we Win,58.24,87.52,True,False,False,False,False
+2014,11,6,I hope we Win,7.0,Last  Place,87.52,58.24,False,True,False,False,False
+2014,11,10,Rectum Wreckers,8.0,ALL GORDON'S GO!,117.58,78.32,True,True,False,False,False
+2014,11,8,ALL GORDON'S GO!,10.0,Rectum Wreckers,78.32,117.58,False,False,False,False,False
+2014,11,12,NCS Champion,9.0,ODELL BECKHAM,70.54,78.9,True,False,False,False,False
+2014,11,9,ODELL BECKHAM,12.0,NCS Champion,78.9,70.54,False,True,False,False,False
+2014,12,2,Tulane !,1.0,Off In Church,118.2,102.1,True,True,False,False,False
+2014,12,1,Off In Church,2.0,Tulane !,102.1,118.2,False,False,False,False,False
+2014,12,3,Fuck Salt,5.0,Sanders could  save the 97%,68.48,99.24,True,False,False,False,False
+2014,12,5,Sanders could  save the 97%,3.0,Fuck Salt,99.24,68.48,False,True,False,False,False
+2014,12,4,SHOW ME THE MONEY ,6.0,I hope we Win,77.74,112.02,True,False,False,False,False
+2014,12,6,I hope we Win,4.0,SHOW ME THE MONEY ,112.02,77.74,False,True,False,False,False
+2014,12,7,Last  Place,8.0,ALL GORDON'S GO!,74.32,118.98,True,False,False,False,False
+2014,12,8,ALL GORDON'S GO!,7.0,Last  Place,118.98,74.32,False,True,False,False,False
+2014,12,10,Rectum Wreckers,9.0,ODELL BECKHAM,82.4,112.0,True,False,False,False,False
+2014,12,9,ODELL BECKHAM,10.0,Rectum Wreckers,112.0,82.4,False,True,False,False,False
+2014,12,12,NCS Champion,11.0,WE R MARSHALL,67.86,145.84,True,False,False,False,False
+2014,12,11,WE R MARSHALL,12.0,NCS Champion,145.84,67.86,False,True,False,False,False
+2014,13,5,Sanders could  save the 97%,2.0,Tulane !,93.92,113.78,True,False,False,False,False
+2014,13,2,Tulane !,5.0,Sanders could  save the 97%,113.78,93.92,False,True,False,False,False
+2014,13,6,I hope we Win,3.0,Fuck Salt,150.5,73.2,True,True,False,False,False
+2014,13,3,Fuck Salt,6.0,I hope we Win,73.2,150.5,False,False,False,False,False
+2014,13,8,ALL GORDON'S GO!,4.0,SHOW ME THE MONEY ,89.04,111.14,True,False,False,False,False
+2014,13,4,SHOW ME THE MONEY ,8.0,ALL GORDON'S GO!,111.14,89.04,False,True,False,False,False
+2014,13,9,ODELL BECKHAM,7.0,Last  Place,90.26,94.62,True,False,False,False,False
+2014,13,7,Last  Place,9.0,ODELL BECKHAM,94.62,90.26,False,True,False,False,False
+2014,13,11,WE R MARSHALL,10.0,Rectum Wreckers,99.56,59.76,True,True,False,False,False
+2014,13,10,Rectum Wreckers,11.0,WE R MARSHALL,59.76,99.56,False,False,False,False,False
+2014,13,1,Off In Church,12.0,NCS Champion,135.44,98.42,True,True,False,False,False
+2014,13,12,NCS Champion,1.0,Off In Church,98.42,135.44,False,False,False,False,False
+2014,14,8,ALL GORDON'S GO!,,BYE,117.28,,True,,False,False,True
+2014,14,1,Off In Church,11.0,WE R MARSHALL,117.66,67.92,True,True,False,False,False
+2014,14,11,WE R MARSHALL,1.0,Off In Church,67.92,117.66,False,False,False,False,False
+2014,14,6,I hope we Win,9.0,ODELL BECKHAM,92.46,106.38,True,False,False,False,False
+2014,14,9,ODELL BECKHAM,6.0,I hope we Win,106.38,92.46,False,True,False,False,False
+2014,14,2,Tulane !,,BYE,72.7,,True,,False,False,True
+2014,14,5,Sanders could  save the 97%,12.0,NCS Champion,90.96,102.22,True,False,False,False,False
+2014,14,12,NCS Champion,5.0,Sanders could  save the 97%,102.22,90.96,False,True,False,False,False
+2014,14,3,Fuck Salt,10.0,Rectum Wreckers,121.64,102.6,True,True,False,False,False
+2014,14,10,Rectum Wreckers,3.0,Fuck Salt,102.6,121.64,False,False,False,False,False
+2014,14,4,SHOW ME THE MONEY ,7.0,Last  Place,111.76,78.68,True,True,False,False,False
+2014,14,7,Last  Place,4.0,SHOW ME THE MONEY ,78.68,111.76,False,False,False,False,False
+2014,15,8,ALL GORDON'S GO!,1.0,Off In Church,76.62,72.76,True,True,False,False,False
+2014,15,1,Off In Church,8.0,ALL GORDON'S GO!,72.76,76.62,False,False,False,False,False
+2014,15,2,Tulane !,9.0,ODELL BECKHAM,97.2,156.28,True,False,False,False,False
+2014,15,9,ODELL BECKHAM,2.0,Tulane !,156.28,97.2,False,True,False,False,False
+2014,15,6,I hope we Win,11.0,WE R MARSHALL,102.08,74.62,True,True,False,False,False
+2014,15,11,WE R MARSHALL,6.0,I hope we Win,74.62,102.08,False,False,False,False,False
+2014,15,12,NCS Champion,3.0,Fuck Salt,87.56,77.36,True,True,False,False,False
+2014,15,3,Fuck Salt,12.0,NCS Champion,77.36,87.56,False,False,False,False,False
+2014,15,5,Sanders could  save the 97%,4.0,SHOW ME THE MONEY ,53.1,67.0,True,False,False,False,False
+2014,15,4,SHOW ME THE MONEY ,5.0,Sanders could  save the 97%,67.0,53.1,False,True,False,False,False
+2014,15,10,Rectum Wreckers,7.0,Last  Place,70.2,55.54,True,True,False,False,False
+2014,15,7,Last  Place,10.0,Rectum Wreckers,55.54,70.2,False,False,False,False,False
+2014,16,8,ALL GORDON'S GO!,9.0,ODELL BECKHAM,121.76,133.88,True,False,False,False,False
+2014,16,9,ODELL BECKHAM,8.0,ALL GORDON'S GO!,133.88,121.76,False,True,False,False,False
+2014,16,2,Tulane !,1.0,Off In Church,67.32,57.98,True,True,False,False,False
+2014,16,1,Off In Church,2.0,Tulane !,57.98,67.32,False,False,False,False,False
+2014,16,6,I hope we Win,11.0,WE R MARSHALL,64.16,93.58,True,False,False,False,False
+2014,16,11,WE R MARSHALL,6.0,I hope we Win,93.58,64.16,False,True,False,False,False
+2014,16,12,NCS Champion,4.0,SHOW ME THE MONEY ,70.62,96.5,True,False,False,False,False
+2014,16,4,SHOW ME THE MONEY ,12.0,NCS Champion,96.5,70.62,False,True,False,False,False
+2014,16,3,Fuck Salt,10.0,Rectum Wreckers,75.12,82.64,True,False,False,False,False
+2014,16,10,Rectum Wreckers,3.0,Fuck Salt,82.64,75.12,False,True,False,False,False
+2014,16,5,Sanders could  save the 97%,7.0,Last  Place,100.32,44.04,True,True,False,False,False
+2014,16,7,Last  Place,5.0,Sanders could  save the 97%,44.04,100.32,False,False,False,False,False

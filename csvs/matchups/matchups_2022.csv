@@ -1,0 +1,205 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2022,1,8,Mixen Penny's All-en,7.0,Them Dawgs Be Barklin',98.28,129.9,True,False,False,False,False
+2022,1,7,Them Dawgs Be Barklin',8.0,Mixen Penny's All-en,129.9,98.28,False,True,False,False,False
+2022,1,2,Dabolls of Steel ,12.0,Its literally  too easy,62.9,71.38,True,False,False,False,False
+2022,1,12,Its literally  too easy,2.0,Dabolls of Steel ,71.38,62.9,False,True,False,False,False
+2022,1,9,It  Hurts,3.0,Win Out,86.82,94.46,True,False,False,False,False
+2022,1,3,Win Out,9.0,It  Hurts,94.46,86.82,False,True,False,False,False
+2022,1,5,Toney 2012:  SnowPiercer,10.0,Rectum Wrecker$$$,104.4,91.02,True,True,False,False,False
+2022,1,10,Rectum Wrecker$$$,5.0,Toney 2012:  SnowPiercer,91.02,104.4,False,False,False,False,False
+2022,1,4,Jet LifeNado,1.0,Mr. Commish Sir,96.96,100.98,True,False,False,False,False
+2022,1,1,Mr. Commish Sir,4.0,Jet LifeNado,100.98,96.96,False,True,False,False,False
+2022,1,6,Andrew Luck Memorial Squad,11.0,Back 2 Bustin,98.46,106.02,True,False,False,False,False
+2022,1,11,Back 2 Bustin,6.0,Andrew Luck Memorial Squad,106.02,98.46,False,True,False,False,False
+2022,2,7,Them Dawgs Be Barklin',12.0,Its literally  too easy,84.7,88.1,True,False,False,False,False
+2022,2,12,Its literally  too easy,7.0,Them Dawgs Be Barklin',88.1,84.7,False,True,False,False,False
+2022,2,3,Win Out,8.0,Mixen Penny's All-en,93.04,86.48,True,True,False,False,False
+2022,2,8,Mixen Penny's All-en,3.0,Win Out,86.48,93.04,False,False,False,False,False
+2022,2,10,Rectum Wrecker$$$,2.0,Dabolls of Steel ,114.68,115.06,True,False,False,False,False
+2022,2,2,Dabolls of Steel ,10.0,Rectum Wrecker$$$,115.06,114.68,False,True,False,False,False
+2022,2,1,Mr. Commish Sir,9.0,It  Hurts,92.44,89.72,True,True,False,False,False
+2022,2,9,It  Hurts,1.0,Mr. Commish Sir,89.72,92.44,False,False,False,False,False
+2022,2,11,Back 2 Bustin,5.0,Toney 2012:  SnowPiercer,88.92,88.26,True,True,False,False,False
+2022,2,5,Toney 2012:  SnowPiercer,11.0,Back 2 Bustin,88.26,88.92,False,False,False,False,False
+2022,2,6,Andrew Luck Memorial Squad,4.0,Jet LifeNado,123.46,113.28,True,True,False,False,False
+2022,2,4,Jet LifeNado,6.0,Andrew Luck Memorial Squad,113.28,123.46,False,False,False,False,False
+2022,3,3,Win Out,7.0,Them Dawgs Be Barklin',95.36,68.88,True,True,False,False,False
+2022,3,7,Them Dawgs Be Barklin',3.0,Win Out,68.88,95.36,False,False,False,False,False
+2022,3,12,Its literally  too easy,10.0,Rectum Wrecker$$$,66.84,81.66,True,False,False,False,False
+2022,3,10,Rectum Wrecker$$$,12.0,Its literally  too easy,81.66,66.84,False,True,False,False,False
+2022,3,8,Mixen Penny's All-en,1.0,Mr. Commish Sir,81.5,94.68,True,False,False,False,False
+2022,3,1,Mr. Commish Sir,8.0,Mixen Penny's All-en,94.68,81.5,False,True,False,False,False
+2022,3,2,Dabolls of Steel ,11.0,Back 2 Bustin,95.3,105.72,True,False,False,False,False
+2022,3,11,Back 2 Bustin,2.0,Dabolls of Steel ,105.72,95.3,False,True,False,False,False
+2022,3,9,It  Hurts,6.0,Andrew Luck Memorial Squad,97.3,75.68,True,True,False,False,False
+2022,3,6,Andrew Luck Memorial Squad,9.0,It  Hurts,75.68,97.3,False,False,False,False,False
+2022,3,5,Toney 2012:  SnowPiercer,4.0,Jet LifeNado,78.86,58.64,True,True,False,False,False
+2022,3,4,Jet LifeNado,5.0,Toney 2012:  SnowPiercer,58.64,78.86,False,False,False,False,False
+2022,4,7,Them Dawgs Be Barklin',10.0,Rectum Wrecker$$$,75.96,118.18,True,False,False,False,False
+2022,4,10,Rectum Wrecker$$$,7.0,Them Dawgs Be Barklin',118.18,75.96,False,True,False,False,False
+2022,4,1,Mr. Commish Sir,3.0,Win Out,77.42,81.26,True,False,False,False,False
+2022,4,3,Win Out,1.0,Mr. Commish Sir,81.26,77.42,False,True,False,False,False
+2022,4,11,Back 2 Bustin,12.0,Its literally  too easy,90.26,101.7,True,False,False,False,False
+2022,4,12,Its literally  too easy,11.0,Back 2 Bustin,101.7,90.26,False,True,False,False,False
+2022,4,6,Andrew Luck Memorial Squad,8.0,Mixen Penny's All-en,120.9,104.22,True,True,False,False,False
+2022,4,8,Mixen Penny's All-en,6.0,Andrew Luck Memorial Squad,104.22,120.9,False,False,False,False,False
+2022,4,4,Jet LifeNado,2.0,Dabolls of Steel ,81.08,110.78,True,False,False,False,False
+2022,4,2,Dabolls of Steel ,4.0,Jet LifeNado,110.78,81.08,False,True,False,False,False
+2022,4,5,Toney 2012:  SnowPiercer,9.0,It  Hurts,111.78,82.36,True,True,False,False,False
+2022,4,9,It  Hurts,5.0,Toney 2012:  SnowPiercer,82.36,111.78,False,False,False,False,False
+2022,5,1,Mr. Commish Sir,7.0,Them Dawgs Be Barklin',111.56,89.58,True,True,False,False,False
+2022,5,7,Them Dawgs Be Barklin',1.0,Mr. Commish Sir,89.58,111.56,False,False,False,False,False
+2022,5,10,Rectum Wrecker$$$,11.0,Back 2 Bustin,111.2,71.46,True,True,False,False,False
+2022,5,11,Back 2 Bustin,10.0,Rectum Wrecker$$$,71.46,111.2,False,False,False,False,False
+2022,5,3,Win Out,6.0,Andrew Luck Memorial Squad,113.34,85.32,True,True,False,False,False
+2022,5,6,Andrew Luck Memorial Squad,3.0,Win Out,85.32,113.34,False,False,False,False,False
+2022,5,12,Its literally  too easy,4.0,Jet LifeNado,79.74,93.4,True,False,False,False,False
+2022,5,4,Jet LifeNado,12.0,Its literally  too easy,93.4,79.74,False,True,False,False,False
+2022,5,8,Mixen Penny's All-en,5.0,Toney 2012:  SnowPiercer,109.06,85.76,True,True,False,False,False
+2022,5,5,Toney 2012:  SnowPiercer,8.0,Mixen Penny's All-en,85.76,109.06,False,False,False,False,False
+2022,5,2,Dabolls of Steel ,9.0,It  Hurts,94.24,99.66,True,False,False,False,False
+2022,5,9,It  Hurts,2.0,Dabolls of Steel ,99.66,94.24,False,True,False,False,False
+2022,6,7,Them Dawgs Be Barklin',11.0,Back 2 Bustin,84.62,59.1,True,True,False,False,False
+2022,6,11,Back 2 Bustin,7.0,Them Dawgs Be Barklin',59.1,84.62,False,False,False,False,False
+2022,6,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,68.42,106.52,True,False,False,False,False
+2022,6,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,106.52,68.42,False,True,False,False,False
+2022,6,4,Jet LifeNado,10.0,Rectum Wrecker$$$,81.0,78.68,True,True,False,False,False
+2022,6,10,Rectum Wrecker$$$,4.0,Jet LifeNado,78.68,81.0,False,False,False,False,False
+2022,6,5,Toney 2012:  SnowPiercer,3.0,Win Out,73.92,70.48,True,True,False,False,False
+2022,6,3,Win Out,5.0,Toney 2012:  SnowPiercer,70.48,73.92,False,False,False,False,False
+2022,6,9,It  Hurts,12.0,Its literally  too easy,65.5,67.56,True,False,False,False,False
+2022,6,12,Its literally  too easy,9.0,It  Hurts,67.56,65.5,False,True,False,False,False
+2022,6,2,Dabolls of Steel ,8.0,Mixen Penny's All-en,99.96,104.26,True,False,False,False,False
+2022,6,8,Mixen Penny's All-en,2.0,Dabolls of Steel ,104.26,99.96,False,True,False,False,False
+2022,7,6,Andrew Luck Memorial Squad,7.0,Them Dawgs Be Barklin',100.52,116.42,True,False,False,False,False
+2022,7,7,Them Dawgs Be Barklin',6.0,Andrew Luck Memorial Squad,116.42,100.52,False,True,False,False,False
+2022,7,11,Back 2 Bustin,4.0,Jet LifeNado,56.9,68.28,True,False,False,False,False
+2022,7,4,Jet LifeNado,11.0,Back 2 Bustin,68.28,56.9,False,True,False,False,False
+2022,7,1,Mr. Commish Sir,5.0,Toney 2012:  SnowPiercer,70.46,51.72,True,True,False,False,False
+2022,7,5,Toney 2012:  SnowPiercer,1.0,Mr. Commish Sir,51.72,70.46,False,False,False,False,False
+2022,7,10,Rectum Wrecker$$$,9.0,It  Hurts,95.26,76.12,True,True,False,False,False
+2022,7,9,It  Hurts,10.0,Rectum Wrecker$$$,76.12,95.26,False,False,False,False,False
+2022,7,3,Win Out,2.0,Dabolls of Steel ,74.2,128.6,True,False,False,False,False
+2022,7,2,Dabolls of Steel ,3.0,Win Out,128.6,74.2,False,True,False,False,False
+2022,7,12,Its literally  too easy,8.0,Mixen Penny's All-en,82.0,105.78,True,False,False,False,False
+2022,7,8,Mixen Penny's All-en,12.0,Its literally  too easy,105.78,82.0,False,True,False,False,False
+2022,8,7,Them Dawgs Be Barklin',4.0,Jet LifeNado,116.78,85.46,True,True,False,False,False
+2022,8,4,Jet LifeNado,7.0,Them Dawgs Be Barklin',85.46,116.78,False,False,False,False,False
+2022,8,5,Toney 2012:  SnowPiercer,6.0,Andrew Luck Memorial Squad,75.64,107.52,True,False,False,False,False
+2022,8,6,Andrew Luck Memorial Squad,5.0,Toney 2012:  SnowPiercer,107.52,75.64,False,True,False,False,False
+2022,8,9,It  Hurts,11.0,Back 2 Bustin,96.2,110.72,True,False,False,False,False
+2022,8,11,Back 2 Bustin,9.0,It  Hurts,110.72,96.2,False,True,False,False,False
+2022,8,2,Dabolls of Steel ,1.0,Mr. Commish Sir,101.24,110.1,True,False,False,False,False
+2022,8,1,Mr. Commish Sir,2.0,Dabolls of Steel ,110.1,101.24,False,True,False,False,False
+2022,8,8,Mixen Penny's All-en,10.0,Rectum Wrecker$$$,55.62,130.94,True,False,False,False,False
+2022,8,10,Rectum Wrecker$$$,8.0,Mixen Penny's All-en,130.94,55.62,False,True,False,False,False
+2022,8,12,Its literally  too easy,3.0,Win Out,137.1,120.12,True,True,False,False,False
+2022,8,3,Win Out,12.0,Its literally  too easy,120.12,137.1,False,False,False,False,False
+2022,9,5,Toney 2012:  SnowPiercer,7.0,Them Dawgs Be Barklin',132.62,72.32,True,True,False,False,False
+2022,9,7,Them Dawgs Be Barklin',5.0,Toney 2012:  SnowPiercer,72.32,132.62,False,False,False,False,False
+2022,9,4,Jet LifeNado,9.0,It  Hurts,78.7,57.32,True,True,False,False,False
+2022,9,9,It  Hurts,4.0,Jet LifeNado,57.32,78.7,False,False,False,False,False
+2022,9,6,Andrew Luck Memorial Squad,2.0,Dabolls of Steel ,92.5,99.86,True,False,False,False,False
+2022,9,2,Dabolls of Steel ,6.0,Andrew Luck Memorial Squad,99.86,92.5,False,True,False,False,False
+2022,9,11,Back 2 Bustin,8.0,Mixen Penny's All-en,62.22,176.5,True,False,False,False,False
+2022,9,8,Mixen Penny's All-en,11.0,Back 2 Bustin,176.5,62.22,False,True,False,False,False
+2022,9,1,Mr. Commish Sir,12.0,Its literally  too easy,78.82,76.16,True,True,False,False,False
+2022,9,12,Its literally  too easy,1.0,Mr. Commish Sir,76.16,78.82,False,False,False,False,False
+2022,9,10,Rectum Wrecker$$$,3.0,Win Out,97.4,85.1,True,True,False,False,False
+2022,9,3,Win Out,10.0,Rectum Wrecker$$$,85.1,97.4,False,False,False,False,False
+2022,10,7,Them Dawgs Be Barklin',9.0,It  Hurts,112.74,103.1,True,True,False,False,False
+2022,10,9,It  Hurts,7.0,Them Dawgs Be Barklin',103.1,112.74,False,False,False,False,False
+2022,10,2,Dabolls of Steel ,5.0,Toney 2012:  SnowPiercer,97.86,121.28,True,False,False,False,False
+2022,10,5,Toney 2012:  SnowPiercer,2.0,Dabolls of Steel ,121.28,97.86,False,True,False,False,False
+2022,10,8,Mixen Penny's All-en,4.0,Jet LifeNado,72.3,70.1,True,True,False,False,False
+2022,10,4,Jet LifeNado,8.0,Mixen Penny's All-en,70.1,72.3,False,False,False,False,False
+2022,10,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,78.32,71.88,True,True,False,False,False
+2022,10,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,71.88,78.32,False,False,False,False,False
+2022,10,3,Win Out,11.0,Back 2 Bustin,92.9,108.5,True,False,False,False,False
+2022,10,11,Back 2 Bustin,3.0,Win Out,108.5,92.9,False,True,False,False,False
+2022,10,10,Rectum Wrecker$$$,1.0,Mr. Commish Sir,56.94,97.3,True,False,False,False,False
+2022,10,1,Mr. Commish Sir,10.0,Rectum Wrecker$$$,97.3,56.94,False,True,False,False,False
+2022,11,2,Dabolls of Steel ,7.0,Them Dawgs Be Barklin',127.46,89.46,True,True,False,False,False
+2022,11,7,Them Dawgs Be Barklin',2.0,Dabolls of Steel ,89.46,127.46,False,False,False,False,False
+2022,11,9,It  Hurts,8.0,Mixen Penny's All-en,99.6,78.58,True,True,False,False,False
+2022,11,8,Mixen Penny's All-en,9.0,It  Hurts,78.58,99.6,False,False,False,False,False
+2022,11,5,Toney 2012:  SnowPiercer,12.0,Its literally  too easy,96.12,57.34,True,True,False,False,False
+2022,11,12,Its literally  too easy,5.0,Toney 2012:  SnowPiercer,57.34,96.12,False,False,False,False,False
+2022,11,4,Jet LifeNado,3.0,Win Out,109.44,108.28,True,True,False,False,False
+2022,11,3,Win Out,4.0,Jet LifeNado,108.28,109.44,False,False,False,False,False
+2022,11,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,87.2,87.88,True,False,False,False,False
+2022,11,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,87.88,87.2,False,True,False,False,False
+2022,11,11,Back 2 Bustin,1.0,Mr. Commish Sir,76.06,66.4,True,True,False,False,False
+2022,11,1,Mr. Commish Sir,11.0,Back 2 Bustin,66.4,76.06,False,False,False,False,False
+2022,12,7,Them Dawgs Be Barklin',8.0,Mixen Penny's All-en,115.3,96.82,True,True,False,False,False
+2022,12,8,Mixen Penny's All-en,7.0,Them Dawgs Be Barklin',96.82,115.3,False,False,False,False,False
+2022,12,12,Its literally  too easy,2.0,Dabolls of Steel ,59.14,101.52,True,False,False,False,False
+2022,12,2,Dabolls of Steel ,12.0,Its literally  too easy,101.52,59.14,False,True,False,False,False
+2022,12,3,Win Out,9.0,It  Hurts,94.92,134.62,True,False,False,False,False
+2022,12,9,It  Hurts,3.0,Win Out,134.62,94.92,False,True,False,False,False
+2022,12,10,Rectum Wrecker$$$,5.0,Toney 2012:  SnowPiercer,93.04,74.0,True,True,False,False,False
+2022,12,5,Toney 2012:  SnowPiercer,10.0,Rectum Wrecker$$$,74.0,93.04,False,False,False,False,False
+2022,12,1,Mr. Commish Sir,4.0,Jet LifeNado,108.3,69.54,True,True,False,False,False
+2022,12,4,Jet LifeNado,1.0,Mr. Commish Sir,69.54,108.3,False,False,False,False,False
+2022,12,11,Back 2 Bustin,6.0,Andrew Luck Memorial Squad,127.26,95.96,True,True,False,False,False
+2022,12,6,Andrew Luck Memorial Squad,11.0,Back 2 Bustin,95.96,127.26,False,False,False,False,False
+2022,13,12,Its literally  too easy,7.0,Them Dawgs Be Barklin',60.74,122.52,True,False,False,False,False
+2022,13,7,Them Dawgs Be Barklin',12.0,Its literally  too easy,122.52,60.74,False,True,False,False,False
+2022,13,8,Mixen Penny's All-en,3.0,Win Out,84.82,111.26,True,False,False,False,False
+2022,13,3,Win Out,8.0,Mixen Penny's All-en,111.26,84.82,False,True,False,False,False
+2022,13,2,Dabolls of Steel ,10.0,Rectum Wrecker$$$,112.2,52.5,True,True,False,False,False
+2022,13,10,Rectum Wrecker$$$,2.0,Dabolls of Steel ,52.5,112.2,False,False,False,False,False
+2022,13,9,It  Hurts,1.0,Mr. Commish Sir,101.9,114.0,True,False,False,False,False
+2022,13,1,Mr. Commish Sir,9.0,It  Hurts,114.0,101.9,False,True,False,False,False
+2022,13,5,Toney 2012:  SnowPiercer,11.0,Back 2 Bustin,98.36,91.04,True,True,False,False,False
+2022,13,11,Back 2 Bustin,5.0,Toney 2012:  SnowPiercer,91.04,98.36,False,False,False,False,False
+2022,13,4,Jet LifeNado,6.0,Andrew Luck Memorial Squad,72.2,88.0,True,False,False,False,False
+2022,13,6,Andrew Luck Memorial Squad,4.0,Jet LifeNado,88.0,72.2,False,True,False,False,False
+2022,14,7,Them Dawgs Be Barklin',3.0,Win Out,95.48,106.36,True,False,False,False,False
+2022,14,3,Win Out,7.0,Them Dawgs Be Barklin',106.36,95.48,False,True,False,False,False
+2022,14,10,Rectum Wrecker$$$,12.0,Its literally  too easy,88.66,60.82,True,True,False,False,False
+2022,14,12,Its literally  too easy,10.0,Rectum Wrecker$$$,60.82,88.66,False,False,False,False,False
+2022,14,1,Mr. Commish Sir,8.0,Mixen Penny's All-en,93.7,82.48,True,True,False,False,False
+2022,14,8,Mixen Penny's All-en,1.0,Mr. Commish Sir,82.48,93.7,False,False,False,False,False
+2022,14,11,Back 2 Bustin,2.0,Dabolls of Steel ,73.92,87.76,True,False,False,False,False
+2022,14,2,Dabolls of Steel ,11.0,Back 2 Bustin,87.76,73.92,False,True,False,False,False
+2022,14,6,Andrew Luck Memorial Squad,9.0,It  Hurts,53.08,98.68,True,False,False,False,False
+2022,14,9,It  Hurts,6.0,Andrew Luck Memorial Squad,98.68,53.08,False,True,False,False,False
+2022,14,4,Jet LifeNado,5.0,Toney 2012:  SnowPiercer,59.56,62.2,True,False,False,False,False
+2022,14,5,Toney 2012:  SnowPiercer,4.0,Jet LifeNado,62.2,59.56,False,True,False,False,False
+2022,15,1,Mr. Commish Sir,,BYE,111.26,,True,,False,False,True
+2022,15,2,Dabolls of Steel ,7.0,Them Dawgs Be Barklin',115.04,115.34,True,False,False,False,False
+2022,15,7,Them Dawgs Be Barklin',2.0,Dabolls of Steel ,115.34,115.04,False,True,False,False,False
+2022,15,5,Toney 2012:  SnowPiercer,3.0,Win Out,82.38,93.32,True,False,False,False,False
+2022,15,3,Win Out,5.0,Toney 2012:  SnowPiercer,93.32,82.38,False,True,False,False,False
+2022,15,10,Rectum Wrecker$$$,,BYE,83.2,,True,,False,False,True
+2022,15,11,Back 2 Bustin,12.0,Its literally  too easy,75.92,88.78,True,False,False,False,False
+2022,15,12,Its literally  too easy,11.0,Back 2 Bustin,88.78,75.92,False,True,False,False,False
+2022,15,8,Mixen Penny's All-en,9.0,It  Hurts,80.66,123.1,True,False,False,False,False
+2022,15,9,It  Hurts,8.0,Mixen Penny's All-en,123.1,80.66,False,True,False,False,False
+2022,15,4,Jet LifeNado,6.0,Andrew Luck Memorial Squad,82.34,75.72,True,True,False,False,False
+2022,15,6,Andrew Luck Memorial Squad,4.0,Jet LifeNado,75.72,82.34,False,False,False,False,False
+2022,16,1,Mr. Commish Sir,7.0,Them Dawgs Be Barklin',81.7,117.06,True,False,False,False,False
+2022,16,7,Them Dawgs Be Barklin',1.0,Mr. Commish Sir,117.06,81.7,False,True,False,False,False
+2022,16,10,Rectum Wrecker$$$,3.0,Win Out,85.76,103.3,True,False,False,False,False
+2022,16,3,Win Out,10.0,Rectum Wrecker$$$,103.3,85.76,False,True,False,False,False
+2022,16,5,Toney 2012:  SnowPiercer,2.0,Dabolls of Steel ,37.46,121.28,True,False,False,False,False
+2022,16,2,Dabolls of Steel ,5.0,Toney 2012:  SnowPiercer,121.28,37.46,False,True,False,False,False
+2022,16,12,Its literally  too easy,9.0,It  Hurts,87.84,63.9,True,True,False,False,False
+2022,16,9,It  Hurts,12.0,Its literally  too easy,63.9,87.84,False,False,False,False,False
+2022,16,11,Back 2 Bustin,4.0,Jet LifeNado,57.4,79.28,True,False,False,False,False
+2022,16,4,Jet LifeNado,11.0,Back 2 Bustin,79.28,57.4,False,True,False,False,False
+2022,16,8,Mixen Penny's All-en,6.0,Andrew Luck Memorial Squad,70.28,85.0,True,False,False,False,False
+2022,16,6,Andrew Luck Memorial Squad,8.0,Mixen Penny's All-en,85.0,70.28,False,True,False,False,False
+2022,17,7,Them Dawgs Be Barklin',3.0,Win Out,91.22,90.6,True,True,False,False,False
+2022,17,3,Win Out,7.0,Them Dawgs Be Barklin',90.6,91.22,False,False,False,False,False
+2022,17,1,Mr. Commish Sir,10.0,Rectum Wrecker$$$,101.0,66.38,True,True,False,False,False
+2022,17,10,Rectum Wrecker$$$,1.0,Mr. Commish Sir,66.38,101.0,False,False,False,False,False
+2022,17,5,Toney 2012:  SnowPiercer,2.0,Dabolls of Steel ,97.4,72.8,True,True,False,False,False
+2022,17,2,Dabolls of Steel ,5.0,Toney 2012:  SnowPiercer,72.8,97.4,False,False,False,False,False
+2022,17,12,Its literally  too easy,4.0,Jet LifeNado,135.48,51.08,True,True,False,False,False
+2022,17,4,Jet LifeNado,12.0,Its literally  too easy,51.08,135.48,False,False,False,False,False
+2022,17,9,It  Hurts,6.0,Andrew Luck Memorial Squad,70.5,80.98,True,False,False,False,False
+2022,17,6,Andrew Luck Memorial Squad,9.0,It  Hurts,80.98,70.5,False,True,False,False,False
+2022,17,11,Back 2 Bustin,8.0,Mixen Penny's All-en,52.9,65.1,True,False,False,False,False
+2022,17,8,Mixen Penny's All-en,11.0,Back 2 Bustin,65.1,52.9,False,True,False,False,False

@@ -1,0 +1,151 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2013,1,1,Off In Church,9,Make It Rainey,72.62,120.26,True,False,False,False,False
+2013,1,9,Make It Rainey,1,Off In Church,120.26,72.62,False,True,False,False,False
+2013,1,5,La Migra,2,The Dawgs,109.92,110.1,True,False,False,False,False
+2013,1,2,The Dawgs,5,La Migra,110.1,109.92,False,True,False,False,False
+2013,1,10,Rectum Wreckers,6,The Final SKEET,140.12,87.82,True,True,False,False,False
+2013,1,6,The Final SKEET,10,Rectum Wreckers,87.82,140.12,False,False,False,False,False
+2013,1,8,The Return of Lynch Mob,7,Team HOONT,90.8,132.5,True,False,False,False,False
+2013,1,7,Team HOONT,8,The Return of Lynch Mob,132.5,90.8,False,True,False,False,False
+2013,1,3,Fuck Salt,4,THE KRAKEN AND THE KUCH ,118.48,89.58,True,True,False,False,False
+2013,1,4,THE KRAKEN AND THE KUCH ,3,Fuck Salt,89.58,118.48,False,False,False,False,False
+2013,2,2,The Dawgs,6,The Final SKEET,116.42,132.54,True,False,False,False,False
+2013,2,6,The Final SKEET,2,The Dawgs,132.54,116.42,False,True,False,False,False
+2013,2,7,Team HOONT,1,Off In Church,61.06,83.34,True,False,False,False,False
+2013,2,1,Off In Church,7,Team HOONT,83.34,61.06,False,True,False,False,False
+2013,2,4,THE KRAKEN AND THE KUCH ,9,Make It Rainey,87.2,89.18,True,False,False,False,False
+2013,2,9,Make It Rainey,4,THE KRAKEN AND THE KUCH ,89.18,87.2,False,True,False,False,False
+2013,2,8,The Return of Lynch Mob,5,La Migra,127.54,106.7,True,True,False,False,False
+2013,2,5,La Migra,8,The Return of Lynch Mob,106.7,127.54,False,False,False,False,False
+2013,2,3,Fuck Salt,10,Rectum Wreckers,94.48,102.28,True,False,False,False,False
+2013,2,10,Rectum Wreckers,3,Fuck Salt,102.28,94.48,False,True,False,False,False
+2013,3,7,Team HOONT,4,THE KRAKEN AND THE KUCH ,69.22,126.76,True,False,False,False,False
+2013,3,4,THE KRAKEN AND THE KUCH ,7,Team HOONT,126.76,69.22,False,True,False,False,False
+2013,3,2,The Dawgs,8,The Return of Lynch Mob,89.9,107.3,True,False,False,False,False
+2013,3,8,The Return of Lynch Mob,2,The Dawgs,107.3,89.9,False,True,False,False,False
+2013,3,6,The Final SKEET,3,Fuck Salt,83.06,59.14,True,True,False,False,False
+2013,3,3,Fuck Salt,6,The Final SKEET,59.14,83.06,False,False,False,False,False
+2013,3,1,Off In Church,5,La Migra,75.98,89.16,True,False,False,False,False
+2013,3,5,La Migra,1,Off In Church,89.16,75.98,False,True,False,False,False
+2013,3,9,Make It Rainey,10,Rectum Wreckers,87.0,98.86,True,False,False,False,False
+2013,3,10,Rectum Wreckers,9,Make It Rainey,98.86,87.0,False,True,False,False,False
+2013,4,8,The Return of Lynch Mob,3,Fuck Salt,111.3,126.76,True,False,False,False,False
+2013,4,3,Fuck Salt,8,The Return of Lynch Mob,126.76,111.3,False,True,False,False,False
+2013,4,5,La Migra,7,Team HOONT,117.64,85.18,True,True,False,False,False
+2013,4,7,Team HOONT,5,La Migra,85.18,117.64,False,False,False,False,False
+2013,4,10,Rectum Wreckers,4,THE KRAKEN AND THE KUCH ,131.84,132.84,True,False,False,False,False
+2013,4,4,THE KRAKEN AND THE KUCH ,10,Rectum Wreckers,132.84,131.84,False,True,False,False,False
+2013,4,1,Off In Church,2,The Dawgs,82.94,85.78,True,False,False,False,False
+2013,4,2,The Dawgs,1,Off In Church,85.78,82.94,False,True,False,False,False
+2013,4,9,Make It Rainey,6,The Final SKEET,121.74,76.88,True,True,False,False,False
+2013,4,6,The Final SKEET,9,Make It Rainey,76.88,121.74,False,False,False,False,False
+2013,5,5,La Migra,10,Rectum Wreckers,77.46,135.86,True,False,False,False,False
+2013,5,10,Rectum Wreckers,5,La Migra,135.86,77.46,False,True,False,False,False
+2013,5,8,The Return of Lynch Mob,1,Off In Church,89.44,84.64,True,True,False,False,False
+2013,5,1,Off In Church,8,The Return of Lynch Mob,84.64,89.44,False,False,False,False,False
+2013,5,3,Fuck Salt,9,Make It Rainey,108.28,83.26,True,True,False,False,False
+2013,5,9,Make It Rainey,3,Fuck Salt,83.26,108.28,False,False,False,False,False
+2013,5,7,Team HOONT,2,The Dawgs,75.34,133.84,True,False,False,False,False
+2013,5,2,The Dawgs,7,Team HOONT,133.84,75.34,False,True,False,False,False
+2013,5,4,THE KRAKEN AND THE KUCH ,6,The Final SKEET,84.14,108.14,True,False,False,False,False
+2013,5,6,The Final SKEET,4,THE KRAKEN AND THE KUCH ,108.14,84.14,False,True,False,False,False
+2013,6,9,Make It Rainey,2,The Dawgs,102.98,111.52,True,False,False,False,False
+2013,6,2,The Dawgs,9,Make It Rainey,111.52,102.98,False,True,False,False,False
+2013,6,6,The Final SKEET,7,Team HOONT,88.68,90.38,True,False,False,False,False
+2013,6,7,Team HOONT,6,The Final SKEET,90.38,88.68,False,True,False,False,False
+2013,6,4,THE KRAKEN AND THE KUCH ,8,The Return of Lynch Mob,70.24,127.98,True,False,False,False,False
+2013,6,8,The Return of Lynch Mob,4,THE KRAKEN AND THE KUCH ,127.98,70.24,False,True,False,False,False
+2013,6,3,Fuck Salt,5,La Migra,80.74,99.5,True,False,False,False,False
+2013,6,5,La Migra,3,Fuck Salt,99.5,80.74,False,True,False,False,False
+2013,6,10,Rectum Wreckers,1,Off In Church,81.52,66.56,True,True,False,False,False
+2013,6,1,Off In Church,10,Rectum Wreckers,66.56,81.52,False,False,False,False,False
+2013,7,7,Team HOONT,9,Make It Rainey,82.46,97.88,True,False,False,False,False
+2013,7,9,Make It Rainey,7,Team HOONT,97.88,82.46,False,True,False,False,False
+2013,7,8,The Return of Lynch Mob,6,The Final SKEET,113.2,144.62,True,False,False,False,False
+2013,7,6,The Final SKEET,8,The Return of Lynch Mob,144.62,113.2,False,True,False,False,False
+2013,7,5,La Migra,4,THE KRAKEN AND THE KUCH ,71.08,67.7,True,True,False,False,False
+2013,7,4,THE KRAKEN AND THE KUCH ,5,La Migra,67.7,71.08,False,False,False,False,False
+2013,7,1,Off In Church,3,Fuck Salt,72.82,77.92,True,False,False,False,False
+2013,7,3,Fuck Salt,1,Off In Church,77.92,72.82,False,True,False,False,False
+2013,7,2,The Dawgs,10,Rectum Wreckers,100.32,100.1,True,True,False,False,False
+2013,7,10,Rectum Wreckers,2,The Dawgs,100.1,100.32,False,False,False,False,False
+2013,8,9,Make It Rainey,8,The Return of Lynch Mob,80.84,94.36,True,False,False,False,False
+2013,8,8,The Return of Lynch Mob,9,Make It Rainey,94.36,80.84,False,True,False,False,False
+2013,8,6,The Final SKEET,5,La Migra,117.4,102.92,True,True,False,False,False
+2013,8,5,La Migra,6,The Final SKEET,102.92,117.4,False,False,False,False,False
+2013,8,4,THE KRAKEN AND THE KUCH ,1,Off In Church,97.08,72.32,True,True,False,False,False
+2013,8,1,Off In Church,4,THE KRAKEN AND THE KUCH ,72.32,97.08,False,False,False,False,False
+2013,8,3,Fuck Salt,2,The Dawgs,126.86,81.92,True,True,False,False,False
+2013,8,2,The Dawgs,3,Fuck Salt,81.92,126.86,False,False,False,False,False
+2013,8,10,Rectum Wreckers,7,Team HOONT,86.4,103.52,True,False,False,False,False
+2013,8,7,Team HOONT,10,Rectum Wreckers,103.52,86.4,False,True,False,False,False
+2013,9,9,Make It Rainey,3,Fuck Salt,83.88,73.62,True,True,False,False,False
+2013,9,3,Fuck Salt,9,Make It Rainey,73.62,83.88,False,False,False,False,False
+2013,9,1,Off In Church,8,The Return of Lynch Mob,78.26,117.98,True,False,False,False,False
+2013,9,8,The Return of Lynch Mob,1,Off In Church,117.98,78.26,False,True,False,False,False
+2013,9,6,The Final SKEET,10,Rectum Wreckers,117.54,105.8,True,True,False,False,False
+2013,9,10,Rectum Wreckers,6,The Final SKEET,105.8,117.54,False,False,False,False,False
+2013,9,2,The Dawgs,7,Team HOONT,84.08,81.6,True,True,False,False,False
+2013,9,7,Team HOONT,2,The Dawgs,81.6,84.08,False,False,False,False,False
+2013,9,4,THE KRAKEN AND THE KUCH ,5,La Migra,78.88,116.1,True,False,False,False,False
+2013,9,5,La Migra,4,THE KRAKEN AND THE KUCH ,116.1,78.88,False,True,False,False,False
+2013,10,1,Off In Church,6,The Final SKEET,56.2,89.32,True,False,False,False,False
+2013,10,6,The Final SKEET,1,Off In Church,89.32,56.2,False,True,False,False,False
+2013,10,2,The Dawgs,5,La Migra,102.5,79.26,True,True,False,False,False
+2013,10,5,La Migra,2,The Dawgs,79.26,102.5,False,False,False,False,False
+2013,10,7,Team HOONT,4,THE KRAKEN AND THE KUCH ,107.78,76.66,True,True,False,False,False
+2013,10,4,THE KRAKEN AND THE KUCH ,7,Team HOONT,76.66,107.78,False,False,False,False,False
+2013,10,9,Make It Rainey,8,The Return of Lynch Mob,76.62,136.48,True,False,False,False,False
+2013,10,8,The Return of Lynch Mob,9,Make It Rainey,136.48,76.62,False,True,False,False,False
+2013,10,10,Rectum Wreckers,3,Fuck Salt,107.38,84.74,True,True,False,False,False
+2013,10,3,Fuck Salt,10,Rectum Wreckers,84.74,107.38,False,False,False,False,False
+2013,11,2,The Dawgs,4,THE KRAKEN AND THE KUCH ,97.2,100.06,True,False,False,False,False
+2013,11,4,THE KRAKEN AND THE KUCH ,2,The Dawgs,100.06,97.2,False,True,False,False,False
+2013,11,1,Off In Church,6,The Final SKEET,76.28,133.78,True,False,False,False,False
+2013,11,6,The Final SKEET,1,Off In Church,133.78,76.28,False,True,False,False,False
+2013,11,10,Rectum Wreckers,7,Team HOONT,140.88,79.96,True,True,False,False,False
+2013,11,7,Team HOONT,10,Rectum Wreckers,79.96,140.88,False,False,False,False,False
+2013,11,3,Fuck Salt,8,The Return of Lynch Mob,50.08,113.6,True,False,False,False,False
+2013,11,8,The Return of Lynch Mob,3,Fuck Salt,113.6,50.08,False,True,False,False,False
+2013,11,5,La Migra,9,Make It Rainey,95.18,81.22,True,True,False,False,False
+2013,11,9,Make It Rainey,5,La Migra,81.22,95.18,False,False,False,False,False
+2013,12,5,La Migra,10,Rectum Wreckers,95.38,60.68,True,True,False,False,False
+2013,12,10,Rectum Wreckers,5,La Migra,60.68,95.38,False,False,False,False,False
+2013,12,2,The Dawgs,8,The Return of Lynch Mob,71.26,102.88,True,False,False,False,False
+2013,12,8,The Return of Lynch Mob,2,The Dawgs,102.88,71.26,False,True,False,False,False
+2013,12,4,THE KRAKEN AND THE KUCH ,7,Team HOONT,69.02,131.86,True,False,False,False,False
+2013,12,7,Team HOONT,4,THE KRAKEN AND THE KUCH ,131.86,69.02,False,True,False,False,False
+2013,12,3,Fuck Salt,1,Off In Church,141.5,103.68,True,True,False,False,False
+2013,12,1,Off In Church,3,Fuck Salt,103.68,141.5,False,False,False,False,False
+2013,12,6,The Final SKEET,9,Make It Rainey,85.12,81.46,True,True,False,False,False
+2013,12,9,Make It Rainey,6,The Final SKEET,81.46,85.12,False,False,False,False,False
+2013,13,8,The Return of Lynch Mob,10,Rectum Wreckers,112.32,96.74,True,True,False,False,False
+2013,13,10,Rectum Wreckers,8,The Return of Lynch Mob,96.74,112.32,False,False,False,False,False
+2013,13,7,Team HOONT,5,La Migra,67.7,99.0,True,False,False,False,False
+2013,13,5,La Migra,7,Team HOONT,99.0,67.7,False,True,False,False,False
+2013,13,9,Make It Rainey,3,Fuck Salt,129.3,111.2,True,True,False,False,False
+2013,13,3,Fuck Salt,9,Make It Rainey,111.2,129.3,False,False,False,False,False
+2013,13,2,The Dawgs,1,Off In Church,111.3,112.3,True,False,False,False,False
+2013,13,1,Off In Church,2,The Dawgs,112.3,111.3,False,True,False,False,False
+2013,13,6,The Final SKEET,4,THE KRAKEN AND THE KUCH ,102.3,137.02,True,False,False,False,False
+2013,13,4,THE KRAKEN AND THE KUCH ,6,The Final SKEET,137.02,102.3,False,True,False,False,False
+2013,14,8,The Return of Lynch Mob,5,La Migra,220.16,160.64,True,True,False,False,False
+2013,14,5,La Migra,8,The Return of Lynch Mob,160.64,220.16,False,False,False,False,False
+2013,14,10,Rectum Wreckers,6,The Final SKEET,212.96,153.16,True,True,False,False,False
+2013,14,6,The Final SKEET,10,Rectum Wreckers,153.16,212.96,False,False,False,False,False
+2013,14,2,The Dawgs,3,Fuck Salt,270.22,219.28,True,True,False,False,False
+2013,14,3,Fuck Salt,2,The Dawgs,219.28,270.22,False,False,False,False,False
+2013,14,9,Make It Rainey,4,THE KRAKEN AND THE KUCH ,285.88,175.06,True,True,False,False,False
+2013,14,4,THE KRAKEN AND THE KUCH ,9,Make It Rainey,175.06,285.88,False,False,False,False,False
+2013,14,7,Team HOONT,1,Off In Church,175.5,177.48,True,False,False,False,False
+2013,14,1,Off In Church,7,Team HOONT,177.48,175.5,False,True,False,False,False
+2013,15,8,The Return of Lynch Mob,10,Rectum Wreckers,199.57999999999998,239.64,True,False,False,False,False
+2013,15,10,Rectum Wreckers,8,The Return of Lynch Mob,239.64,199.57999999999998,False,True,False,False,False
+2013,15,6,The Final SKEET,5,La Migra,97.6,70.14,True,True,False,False,False
+2013,15,5,La Migra,6,The Final SKEET,70.14,97.6,False,False,False,False,False
+2013,15,2,The Dawgs,9,Make It Rainey,226.92000000000002,149.04000000000002,True,True,False,False,False
+2013,15,9,Make It Rainey,2,The Dawgs,149.04000000000002,226.92000000000002,False,False,False,False,False
+2013,15,3,Fuck Salt,1,Off In Church,161.42,178.10000000000002,True,False,False,False,False
+2013,15,1,Off In Church,3,Fuck Salt,178.10000000000002,161.42,False,True,False,False,False
+2013,15,4,THE KRAKEN AND THE KUCH ,7,Team HOONT,227.0,201.62,True,True,False,False,False
+2013,15,7,Team HOONT,4,THE KRAKEN AND THE KUCH ,201.62,227.0,False,False,False,False,False

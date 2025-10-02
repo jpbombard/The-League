@@ -1,0 +1,193 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2016,1,8,Restart the Rawles Royce,5.0,Can you Hear it?,101.0,91.16,True,True,False,False,False
+2016,1,5,Can you Hear it?,8.0,Restart the Rawles Royce,91.16,101.0,False,False,False,False,False
+2016,1,9,Lacy the  Blount,1.0,Brady is Coming,115.02,67.54,True,True,False,False,False
+2016,1,1,Brady is Coming,9.0,Lacy the  Blount,67.54,115.02,False,False,False,False,False
+2016,1,6,Luck Me Long Time,11.0,Gonna Stick to Von song only,97.3,94.1,True,True,False,False,False
+2016,1,11,Gonna Stick to Von song only,6.0,Luck Me Long Time,94.1,97.3,False,False,False,False,False
+2016,1,4,Dakquiri Thanksgiving ,10.0,Rectum Wrecker$$$,94.14,86.98,True,True,False,False,False
+2016,1,10,Rectum Wrecker$$$,4.0,Dakquiri Thanksgiving ,86.98,94.14,False,False,False,False,False
+2016,1,7,Last  Place,3.0,Not Enough  Cooks ,119.24,103.52,True,True,False,False,False
+2016,1,3,Not Enough  Cooks ,7.0,Last  Place,103.52,119.24,False,False,False,False,False
+2016,1,2,The  Gurley Show,12.0,Freek-A- Zeek,122.96,110.96,True,True,False,False,False
+2016,1,12,Freek-A- Zeek,2.0,The  Gurley Show,110.96,122.96,False,False,False,False,False
+2016,2,5,Can you Hear it?,1.0,Brady is Coming,92.46,98.14,True,False,False,False,False
+2016,2,1,Brady is Coming,5.0,Can you Hear it?,98.14,92.46,False,True,False,False,False
+2016,2,11,Gonna Stick to Von song only,8.0,Restart the Rawles Royce,112.26,97.1,True,True,False,False,False
+2016,2,8,Restart the Rawles Royce,11.0,Gonna Stick to Von song only,97.1,112.26,False,False,False,False,False
+2016,2,6,Luck Me Long Time,9.0,Lacy the  Blount,81.12,116.62,True,False,False,False,False
+2016,2,9,Lacy the  Blount,6.0,Luck Me Long Time,116.62,81.12,False,True,False,False,False
+2016,2,10,Rectum Wrecker$$$,3.0,Not Enough  Cooks ,105.34,93.16,True,True,False,False,False
+2016,2,3,Not Enough  Cooks ,10.0,Rectum Wrecker$$$,93.16,105.34,False,False,False,False,False
+2016,2,12,Freek-A- Zeek,4.0,Dakquiri Thanksgiving ,94.82,59.98,True,True,False,False,False
+2016,2,4,Dakquiri Thanksgiving ,12.0,Freek-A- Zeek,59.98,94.82,False,False,False,False,False
+2016,2,2,The  Gurley Show,7.0,Last  Place,89.92,93.56,True,False,False,False,False
+2016,2,7,Last  Place,2.0,The  Gurley Show,93.56,89.92,False,True,False,False,False
+2016,3,11,Gonna Stick to Von song only,5.0,Can you Hear it?,81.08,76.76,True,True,False,False,False
+2016,3,5,Can you Hear it?,11.0,Gonna Stick to Von song only,76.76,81.08,False,False,False,False,False
+2016,3,1,Brady is Coming,6.0,Luck Me Long Time,104.12,117.04,True,False,False,False,False
+2016,3,6,Luck Me Long Time,1.0,Brady is Coming,117.04,104.12,False,True,False,False,False
+2016,3,8,Restart the Rawles Royce,9.0,Lacy the  Blount,87.4,107.44,True,False,False,False,False
+2016,3,9,Lacy the  Blount,8.0,Restart the Rawles Royce,107.44,87.4,False,True,False,False,False
+2016,3,12,Freek-A- Zeek,10.0,Rectum Wrecker$$$,95.18,130.76,True,False,False,False,False
+2016,3,10,Rectum Wrecker$$$,12.0,Freek-A- Zeek,130.76,95.18,False,True,False,False,False
+2016,3,3,Not Enough  Cooks ,2.0,The  Gurley Show,62.82,61.8,True,True,False,False,False
+2016,3,2,The  Gurley Show,3.0,Not Enough  Cooks ,61.8,62.82,False,False,False,False,False
+2016,3,4,Dakquiri Thanksgiving ,7.0,Last  Place,109.6,84.48,True,True,False,False,False
+2016,3,7,Last  Place,4.0,Dakquiri Thanksgiving ,84.48,109.6,False,False,False,False,False
+2016,4,5,Can you Hear it?,6.0,Luck Me Long Time,77.64,81.26,True,False,False,False,False
+2016,4,6,Luck Me Long Time,5.0,Can you Hear it?,81.26,77.64,False,True,False,False,False
+2016,4,9,Lacy the  Blount,11.0,Gonna Stick to Von song only,81.58,108.2,True,False,False,False,False
+2016,4,11,Gonna Stick to Von song only,9.0,Lacy the  Blount,108.2,81.58,False,True,False,False,False
+2016,4,8,Restart the Rawles Royce,1.0,Brady is Coming,58.22,88.54,True,False,False,False,False
+2016,4,1,Brady is Coming,8.0,Restart the Rawles Royce,88.54,58.22,False,True,False,False,False
+2016,4,10,Rectum Wrecker$$$,2.0,The  Gurley Show,105.92,88.42,True,True,False,False,False
+2016,4,2,The  Gurley Show,10.0,Rectum Wrecker$$$,88.42,105.92,False,False,False,False,False
+2016,4,7,Last  Place,12.0,Freek-A- Zeek,124.92,93.4,True,True,False,False,False
+2016,4,12,Freek-A- Zeek,7.0,Last  Place,93.4,124.92,False,False,False,False,False
+2016,4,4,Dakquiri Thanksgiving ,3.0,Not Enough  Cooks ,85.14,86.46,True,False,False,False,False
+2016,4,3,Not Enough  Cooks ,4.0,Dakquiri Thanksgiving ,86.46,85.14,False,True,False,False,False
+2016,5,9,Lacy the  Blount,5.0,Can you Hear it?,85.1,104.6,True,False,False,False,False
+2016,5,5,Can you Hear it?,9.0,Lacy the  Blount,104.6,85.1,False,True,False,False,False
+2016,5,6,Luck Me Long Time,8.0,Restart the Rawles Royce,103.98,102.3,True,True,False,False,False
+2016,5,8,Restart the Rawles Royce,6.0,Luck Me Long Time,102.3,103.98,False,False,False,False,False
+2016,5,11,Gonna Stick to Von song only,1.0,Brady is Coming,102.58,130.76,True,False,False,False,False
+2016,5,1,Brady is Coming,11.0,Gonna Stick to Von song only,130.76,102.58,False,True,False,False,False
+2016,5,7,Last  Place,10.0,Rectum Wrecker$$$,112.32,70.62,True,True,False,False,False
+2016,5,10,Rectum Wrecker$$$,7.0,Last  Place,70.62,112.32,False,False,False,False,False
+2016,5,2,The  Gurley Show,4.0,Dakquiri Thanksgiving ,123.76,106.06,True,True,False,False,False
+2016,5,4,Dakquiri Thanksgiving ,2.0,The  Gurley Show,106.06,123.76,False,False,False,False,False
+2016,5,12,Freek-A- Zeek,3.0,Not Enough  Cooks ,100.18,61.86,True,True,False,False,False
+2016,5,3,Not Enough  Cooks ,12.0,Freek-A- Zeek,61.86,100.18,False,False,False,False,False
+2016,6,5,Can you Hear it?,10.0,Rectum Wrecker$$$,80.4,123.32,True,False,False,False,False
+2016,6,10,Rectum Wrecker$$$,5.0,Can you Hear it?,123.32,80.4,False,True,False,False,False
+2016,6,8,Restart the Rawles Royce,4.0,Dakquiri Thanksgiving ,96.34,90.78,True,True,False,False,False
+2016,6,4,Dakquiri Thanksgiving ,8.0,Restart the Rawles Royce,90.78,96.34,False,False,False,False,False
+2016,6,1,Brady is Coming,3.0,Not Enough  Cooks ,119.82,103.3,True,True,False,False,False
+2016,6,3,Not Enough  Cooks ,1.0,Brady is Coming,103.3,119.82,False,False,False,False,False
+2016,6,11,Gonna Stick to Von song only,12.0,Freek-A- Zeek,89.76,82.38,True,True,False,False,False
+2016,6,12,Freek-A- Zeek,11.0,Gonna Stick to Von song only,82.38,89.76,False,False,False,False,False
+2016,6,6,Luck Me Long Time,2.0,The  Gurley Show,67.14,76.36,True,False,False,False,False
+2016,6,2,The  Gurley Show,6.0,Luck Me Long Time,76.36,67.14,False,True,False,False,False
+2016,6,9,Lacy the  Blount,7.0,Last  Place,88.5,80.26,True,True,False,False,False
+2016,6,7,Last  Place,9.0,Lacy the  Blount,80.26,88.5,False,False,False,False,False
+2016,7,10,Rectum Wrecker$$$,8.0,Restart the Rawles Royce,92.26,87.94,True,True,False,False,False
+2016,7,8,Restart the Rawles Royce,10.0,Rectum Wrecker$$$,87.94,92.26,False,False,False,False,False
+2016,7,4,Dakquiri Thanksgiving ,1.0,Brady is Coming,75.94,74.52,True,True,False,False,False
+2016,7,1,Brady is Coming,4.0,Dakquiri Thanksgiving ,74.52,75.94,False,False,False,False,False
+2016,7,3,Not Enough  Cooks ,11.0,Gonna Stick to Von song only,67.96,74.62,True,False,False,False,False
+2016,7,11,Gonna Stick to Von song only,3.0,Not Enough  Cooks ,74.62,67.96,False,True,False,False,False
+2016,7,12,Freek-A- Zeek,6.0,Luck Me Long Time,103.44,114.62,True,False,False,False,False
+2016,7,6,Luck Me Long Time,12.0,Freek-A- Zeek,114.62,103.44,False,True,False,False,False
+2016,7,2,The  Gurley Show,9.0,Lacy the  Blount,88.04,138.34,True,False,False,False,False
+2016,7,9,Lacy the  Blount,2.0,The  Gurley Show,138.34,88.04,False,True,False,False,False
+2016,7,7,Last  Place,5.0,Can you Hear it?,134.66,104.9,True,True,False,False,False
+2016,7,5,Can you Hear it?,7.0,Last  Place,104.9,134.66,False,False,False,False,False
+2016,8,1,Brady is Coming,10.0,Rectum Wrecker$$$,82.2,99.32,True,False,False,False,False
+2016,8,10,Rectum Wrecker$$$,1.0,Brady is Coming,99.32,82.2,False,True,False,False,False
+2016,8,11,Gonna Stick to Von song only,4.0,Dakquiri Thanksgiving ,108.64,109.68,True,False,False,False,False
+2016,8,4,Dakquiri Thanksgiving ,11.0,Gonna Stick to Von song only,109.68,108.64,False,True,False,False,False
+2016,8,6,Luck Me Long Time,3.0,Not Enough  Cooks ,78.2,92.26,True,False,False,False,False
+2016,8,3,Not Enough  Cooks ,6.0,Luck Me Long Time,92.26,78.2,False,True,False,False,False
+2016,8,9,Lacy the  Blount,12.0,Freek-A- Zeek,96.4,74.98,True,True,False,False,False
+2016,8,12,Freek-A- Zeek,9.0,Lacy the  Blount,74.98,96.4,False,False,False,False,False
+2016,8,5,Can you Hear it?,2.0,The  Gurley Show,91.88,114.84,True,False,False,False,False
+2016,8,2,The  Gurley Show,5.0,Can you Hear it?,114.84,91.88,False,True,False,False,False
+2016,8,8,Restart the Rawles Royce,7.0,Last  Place,94.0,81.78,True,True,False,False,False
+2016,8,7,Last  Place,8.0,Restart the Rawles Royce,81.78,94.0,False,False,False,False,False
+2016,9,10,Rectum Wrecker$$$,11.0,Gonna Stick to Von song only,113.64,109.64,True,True,False,False,False
+2016,9,11,Gonna Stick to Von song only,10.0,Rectum Wrecker$$$,109.64,113.64,False,False,False,False,False
+2016,9,4,Dakquiri Thanksgiving ,6.0,Luck Me Long Time,83.28,113.14,True,False,False,False,False
+2016,9,6,Luck Me Long Time,4.0,Dakquiri Thanksgiving ,113.14,83.28,False,True,False,False,False
+2016,9,3,Not Enough  Cooks ,9.0,Lacy the  Blount,66.54,103.82,True,False,False,False,False
+2016,9,9,Lacy the  Blount,3.0,Not Enough  Cooks ,103.82,66.54,False,True,False,False,False
+2016,9,12,Freek-A- Zeek,5.0,Can you Hear it?,125.5,71.36,True,True,False,False,False
+2016,9,5,Can you Hear it?,12.0,Freek-A- Zeek,71.36,125.5,False,False,False,False,False
+2016,9,2,The  Gurley Show,8.0,Restart the Rawles Royce,109.28,87.2,True,True,False,False,False
+2016,9,8,Restart the Rawles Royce,2.0,The  Gurley Show,87.2,109.28,False,False,False,False,False
+2016,9,7,Last  Place,1.0,Brady is Coming,91.38,97.76,True,False,False,False,False
+2016,9,1,Brady is Coming,7.0,Last  Place,97.76,91.38,False,True,False,False,False
+2016,10,6,Luck Me Long Time,10.0,Rectum Wrecker$$$,90.26,96.48,True,False,False,False,False
+2016,10,10,Rectum Wrecker$$$,6.0,Luck Me Long Time,96.48,90.26,False,True,False,False,False
+2016,10,9,Lacy the  Blount,4.0,Dakquiri Thanksgiving ,112.72,117.36,True,False,False,False,False
+2016,10,4,Dakquiri Thanksgiving ,9.0,Lacy the  Blount,117.36,112.72,False,True,False,False,False
+2016,10,5,Can you Hear it?,3.0,Not Enough  Cooks ,60.94,73.28,True,False,False,False,False
+2016,10,3,Not Enough  Cooks ,5.0,Can you Hear it?,73.28,60.94,False,True,False,False,False
+2016,10,8,Restart the Rawles Royce,12.0,Freek-A- Zeek,102.3,128.98,True,False,False,False,False
+2016,10,12,Freek-A- Zeek,8.0,Restart the Rawles Royce,128.98,102.3,False,True,False,False,False
+2016,10,1,Brady is Coming,2.0,The  Gurley Show,63.94,112.68,True,False,False,False,False
+2016,10,2,The  Gurley Show,1.0,Brady is Coming,112.68,63.94,False,True,False,False,False
+2016,10,11,Gonna Stick to Von song only,7.0,Last  Place,116.06,73.44,True,True,False,False,False
+2016,10,7,Last  Place,11.0,Gonna Stick to Von song only,73.44,116.06,False,False,False,False,False
+2016,11,10,Rectum Wrecker$$$,9.0,Lacy the  Blount,88.56,82.1,True,True,False,False,False
+2016,11,9,Lacy the  Blount,10.0,Rectum Wrecker$$$,82.1,88.56,False,False,False,False,False
+2016,11,4,Dakquiri Thanksgiving ,5.0,Can you Hear it?,102.54,91.6,True,True,False,False,False
+2016,11,5,Can you Hear it?,4.0,Dakquiri Thanksgiving ,91.6,102.54,False,False,False,False,False
+2016,11,3,Not Enough  Cooks ,8.0,Restart the Rawles Royce,113.44,94.72,True,True,False,False,False
+2016,11,8,Restart the Rawles Royce,3.0,Not Enough  Cooks ,94.72,113.44,False,False,False,False,False
+2016,11,12,Freek-A- Zeek,1.0,Brady is Coming,72.9,103.0,True,False,False,False,False
+2016,11,1,Brady is Coming,12.0,Freek-A- Zeek,103.0,72.9,False,True,False,False,False
+2016,11,2,The  Gurley Show,11.0,Gonna Stick to Von song only,78.04,99.94,True,False,False,False,False
+2016,11,11,Gonna Stick to Von song only,2.0,The  Gurley Show,99.94,78.04,False,True,False,False,False
+2016,11,7,Last  Place,6.0,Luck Me Long Time,58.08,82.18,True,False,False,False,False
+2016,11,6,Luck Me Long Time,7.0,Last  Place,82.18,58.08,False,True,False,False,False
+2016,12,10,Rectum Wrecker$$$,5.0,Can you Hear it?,89.6,78.2,True,True,False,False,False
+2016,12,5,Can you Hear it?,10.0,Rectum Wrecker$$$,78.2,89.6,False,False,False,False,False
+2016,12,4,Dakquiri Thanksgiving ,8.0,Restart the Rawles Royce,123.2,66.88,True,True,False,False,False
+2016,12,8,Restart the Rawles Royce,4.0,Dakquiri Thanksgiving ,66.88,123.2,False,False,False,False,False
+2016,12,3,Not Enough  Cooks ,1.0,Brady is Coming,53.04,103.24,True,False,False,False,False
+2016,12,1,Brady is Coming,3.0,Not Enough  Cooks ,103.24,53.04,False,True,False,False,False
+2016,12,12,Freek-A- Zeek,11.0,Gonna Stick to Von song only,111.94,128.14,True,False,False,False,False
+2016,12,11,Gonna Stick to Von song only,12.0,Freek-A- Zeek,128.14,111.94,False,True,False,False,False
+2016,12,2,The  Gurley Show,6.0,Luck Me Long Time,81.12,109.26,True,False,False,False,False
+2016,12,6,Luck Me Long Time,2.0,The  Gurley Show,109.26,81.12,False,True,False,False,False
+2016,12,7,Last  Place,9.0,Lacy the  Blount,80.66,101.2,True,False,False,False,False
+2016,12,9,Lacy the  Blount,7.0,Last  Place,101.2,80.66,False,True,False,False,False
+2016,13,8,Restart the Rawles Royce,10.0,Rectum Wrecker$$$,118.94,74.8,True,True,False,False,False
+2016,13,10,Rectum Wrecker$$$,8.0,Restart the Rawles Royce,74.8,118.94,False,False,False,False,False
+2016,13,1,Brady is Coming,4.0,Dakquiri Thanksgiving ,109.16,70.72,True,True,False,False,False
+2016,13,4,Dakquiri Thanksgiving ,1.0,Brady is Coming,70.72,109.16,False,False,False,False,False
+2016,13,11,Gonna Stick to Von song only,3.0,Not Enough  Cooks ,95.02,66.42,True,True,False,False,False
+2016,13,3,Not Enough  Cooks ,11.0,Gonna Stick to Von song only,66.42,95.02,False,False,False,False,False
+2016,13,6,Luck Me Long Time,12.0,Freek-A- Zeek,123.02,59.76,True,True,False,False,False
+2016,13,12,Freek-A- Zeek,6.0,Luck Me Long Time,59.76,123.02,False,False,False,False,False
+2016,13,9,Lacy the  Blount,2.0,The  Gurley Show,87.24,106.46,True,False,False,False,False
+2016,13,2,The  Gurley Show,9.0,Lacy the  Blount,106.46,87.24,False,True,False,False,False
+2016,13,5,Can you Hear it?,7.0,Last  Place,74.58,105.94,True,False,False,False,False
+2016,13,7,Last  Place,5.0,Can you Hear it?,105.94,74.58,False,True,False,False,False
+2016,14,10,Rectum Wrecker$$$,,BYE,106.96,,True,,False,False,True
+2016,14,9,Lacy the  Blount,1.0,Brady is Coming,75.38,93.72,True,False,False,False,False
+2016,14,1,Brady is Coming,9.0,Lacy the  Blount,93.72,75.38,False,True,False,False,False
+2016,14,6,Luck Me Long Time,2.0,The  Gurley Show,90.24,94.84,True,False,False,False,False
+2016,14,2,The  Gurley Show,6.0,Luck Me Long Time,94.84,90.24,False,True,False,False,False
+2016,14,11,Gonna Stick to Von song only,,BYE,67.76,,True,,False,False,True
+2016,14,4,Dakquiri Thanksgiving ,7.0,Last  Place,125.04,78.0,True,True,False,False,False
+2016,14,7,Last  Place,4.0,Dakquiri Thanksgiving ,78.0,125.04,False,False,False,False,False
+2016,14,3,Not Enough  Cooks ,12.0,Freek-A- Zeek,57.76,89.78,True,False,False,False,False
+2016,14,12,Freek-A- Zeek,3.0,Not Enough  Cooks ,89.78,57.76,False,True,False,False,False
+2016,14,8,Restart the Rawles Royce,5.0,Can you Hear it?,62.82,68.68,True,False,False,False,False
+2016,14,5,Can you Hear it?,8.0,Restart the Rawles Royce,68.68,62.82,False,True,False,False,False
+2016,15,10,Rectum Wrecker$$$,1.0,Brady is Coming,90.82,67.12,True,True,False,False,False
+2016,15,1,Brady is Coming,10.0,Rectum Wrecker$$$,67.12,90.82,False,False,False,False,False
+2016,15,11,Gonna Stick to Von song only,2.0,The  Gurley Show,67.34,97.18,True,False,False,False,False
+2016,15,2,The  Gurley Show,11.0,Gonna Stick to Von song only,97.18,67.34,False,True,False,False,False
+2016,15,6,Luck Me Long Time,9.0,Lacy the  Blount,87.3,68.26,True,True,False,False,False
+2016,15,9,Lacy the  Blount,6.0,Luck Me Long Time,68.26,87.3,False,False,False,False,False
+2016,15,4,Dakquiri Thanksgiving ,12.0,Freek-A- Zeek,103.96,112.26,True,False,False,False,False
+2016,15,12,Freek-A- Zeek,4.0,Dakquiri Thanksgiving ,112.26,103.96,False,True,False,False,False
+2016,15,7,Last  Place,5.0,Can you Hear it?,80.62,62.92,True,True,False,False,False
+2016,15,5,Can you Hear it?,7.0,Last  Place,62.92,80.62,False,False,False,False,False
+2016,15,3,Not Enough  Cooks ,8.0,Restart the Rawles Royce,87.84,79.72,True,True,False,False,False
+2016,15,8,Restart the Rawles Royce,3.0,Not Enough  Cooks ,79.72,87.84,False,False,False,False,False
+2016,16,10,Rectum Wrecker$$$,2.0,The  Gurley Show,87.38,123.28,True,False,False,False,False
+2016,16,2,The  Gurley Show,10.0,Rectum Wrecker$$$,123.28,87.38,False,True,False,False,False
+2016,16,11,Gonna Stick to Von song only,1.0,Brady is Coming,101.36,98.64,True,True,False,False,False
+2016,16,1,Brady is Coming,11.0,Gonna Stick to Von song only,98.64,101.36,False,False,False,False,False
+2016,16,6,Luck Me Long Time,9.0,Lacy the  Blount,94.92,64.86,True,True,False,False,False
+2016,16,9,Lacy the  Blount,6.0,Luck Me Long Time,64.86,94.92,False,False,False,False,False
+2016,16,7,Last  Place,12.0,Freek-A- Zeek,77.76,123.18,True,False,False,False,False
+2016,16,12,Freek-A- Zeek,7.0,Last  Place,123.18,77.76,False,True,False,False,False
+2016,16,4,Dakquiri Thanksgiving ,3.0,Not Enough  Cooks ,106.78,80.2,True,True,False,False,False
+2016,16,3,Not Enough  Cooks ,4.0,Dakquiri Thanksgiving ,80.2,106.78,False,False,False,False,False
+2016,16,8,Restart the Rawles Royce,5.0,Can you Hear it?,91.04,83.18,True,True,False,False,False
+2016,16,5,Can you Hear it?,8.0,Restart the Rawles Royce,83.18,91.04,False,False,False,False,False

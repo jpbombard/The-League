@@ -1,0 +1,193 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2020,1,8,Thielen under  The weather ,9.0,DK Summit,113.48,94.58,True,True,False,False,False
+2020,1,9,DK Summit,8.0,Thielen under  The weather ,94.58,113.48,False,False,False,False,False
+2020,1,11,Attack of Clawmar Jackson,1.0,Mr. Commish Sir,108.4,93.48,True,True,False,False,False
+2020,1,1,Mr. Commish Sir,11.0,Attack of Clawmar Jackson,93.48,108.4,False,False,False,False,False
+2020,1,5,The Chark Knight Rises,6.0,Andrew Luck Memorial Squad,77.26,107.4,True,False,False,False,False
+2020,1,6,Andrew Luck Memorial Squad,5.0,The Chark Knight Rises,107.4,77.26,False,True,False,False,False
+2020,1,12,Its literally  too easy,2.0,West Oakland  Raiders,75.46,103.76,True,False,False,False,False
+2020,1,2,West Oakland  Raiders,12.0,Its literally  too easy,103.76,75.46,False,True,False,False,False
+2020,1,4,?NADO ?,3.0,Jack Goff to a sLutz Landry ,117.04,94.94,True,True,False,False,False
+2020,1,3,Jack Goff to a sLutz Landry ,4.0,?NADO ?,94.94,117.04,False,False,False,False,False
+2020,1,7,CeeDeez Nutz And Succ On Em,10.0,Rectum Wrecker$$$,87.22,104.2,True,False,False,False,False
+2020,1,10,Rectum Wrecker$$$,7.0,CeeDeez Nutz And Succ On Em,104.2,87.22,False,True,False,False,False
+2020,2,9,DK Summit,1.0,Mr. Commish Sir,101.02,67.66,True,True,False,False,False
+2020,2,1,Mr. Commish Sir,9.0,DK Summit,67.66,101.02,False,False,False,False,False
+2020,2,6,Andrew Luck Memorial Squad,8.0,Thielen under  The weather ,89.3,132.6,True,False,False,False,False
+2020,2,8,Thielen under  The weather ,6.0,Andrew Luck Memorial Squad,132.6,89.3,False,True,False,False,False
+2020,2,5,The Chark Knight Rises,11.0,Attack of Clawmar Jackson,134.92,88.46,True,True,False,False,False
+2020,2,11,Attack of Clawmar Jackson,5.0,The Chark Knight Rises,88.46,134.92,False,False,False,False,False
+2020,2,2,West Oakland  Raiders,3.0,Jack Goff to a sLutz Landry ,87.36,125.4,True,False,False,False,False
+2020,2,3,Jack Goff to a sLutz Landry ,2.0,West Oakland  Raiders,125.4,87.36,False,True,False,False,False
+2020,2,10,Rectum Wrecker$$$,12.0,Its literally  too easy,122.22,107.94,True,True,False,False,False
+2020,2,12,Its literally  too easy,10.0,Rectum Wrecker$$$,107.94,122.22,False,False,False,False,False
+2020,2,7,CeeDeez Nutz And Succ On Em,4.0,?NADO ?,115.18,142.98,True,False,False,False,False
+2020,2,4,?NADO ?,7.0,CeeDeez Nutz And Succ On Em,142.98,115.18,False,True,False,False,False
+2020,3,6,Andrew Luck Memorial Squad,9.0,DK Summit,99.3,134.6,True,False,False,False,False
+2020,3,9,DK Summit,6.0,Andrew Luck Memorial Squad,134.6,99.3,False,True,False,False,False
+2020,3,1,Mr. Commish Sir,5.0,The Chark Knight Rises,112.8,99.7,True,True,False,False,False
+2020,3,5,The Chark Knight Rises,1.0,Mr. Commish Sir,99.7,112.8,False,False,False,False,False
+2020,3,8,Thielen under  The weather ,11.0,Attack of Clawmar Jackson,77.64,94.68,True,False,False,False,False
+2020,3,11,Attack of Clawmar Jackson,8.0,Thielen under  The weather ,94.68,77.64,False,True,False,False,False
+2020,3,10,Rectum Wrecker$$$,2.0,West Oakland  Raiders,79.82,148.22,True,False,False,False,False
+2020,3,2,West Oakland  Raiders,10.0,Rectum Wrecker$$$,148.22,79.82,False,True,False,False,False
+2020,3,3,Jack Goff to a sLutz Landry ,7.0,CeeDeez Nutz And Succ On Em,86.38,70.62,True,True,False,False,False
+2020,3,7,CeeDeez Nutz And Succ On Em,3.0,Jack Goff to a sLutz Landry ,70.62,86.38,False,False,False,False,False
+2020,3,12,Its literally  too easy,4.0,?NADO ?,100.86,129.6,True,False,False,False,False
+2020,3,4,?NADO ?,12.0,Its literally  too easy,129.6,100.86,False,True,False,False,False
+2020,4,9,DK Summit,5.0,The Chark Knight Rises,100.5,110.12,True,False,False,False,False
+2020,4,5,The Chark Knight Rises,9.0,DK Summit,110.12,100.5,False,True,False,False,False
+2020,4,11,Attack of Clawmar Jackson,6.0,Andrew Luck Memorial Squad,143.52,90.76,True,True,False,False,False
+2020,4,6,Andrew Luck Memorial Squad,11.0,Attack of Clawmar Jackson,90.76,143.52,False,False,False,False,False
+2020,4,8,Thielen under  The weather ,1.0,Mr. Commish Sir,88.82,92.86,True,False,False,False,False
+2020,4,1,Mr. Commish Sir,8.0,Thielen under  The weather ,92.86,88.82,False,True,False,False,False
+2020,4,2,West Oakland  Raiders,7.0,CeeDeez Nutz And Succ On Em,111.06,101.7,True,True,False,False,False
+2020,4,7,CeeDeez Nutz And Succ On Em,2.0,West Oakland  Raiders,101.7,111.06,False,False,False,False,False
+2020,4,4,?NADO ?,10.0,Rectum Wrecker$$$,96.94,63.5,True,True,False,False,False
+2020,4,10,Rectum Wrecker$$$,4.0,?NADO ?,63.5,96.94,False,False,False,False,False
+2020,4,12,Its literally  too easy,3.0,Jack Goff to a sLutz Landry ,95.7,94.48,True,True,False,False,False
+2020,4,3,Jack Goff to a sLutz Landry ,12.0,Its literally  too easy,94.48,95.7,False,False,False,False,False
+2020,5,11,Attack of Clawmar Jackson,9.0,DK Summit,94.7,87.48,True,True,False,False,False
+2020,5,9,DK Summit,11.0,Attack of Clawmar Jackson,87.48,94.7,False,False,False,False,False
+2020,5,5,The Chark Knight Rises,8.0,Thielen under  The weather ,75.54,81.32,True,False,False,False,False
+2020,5,8,Thielen under  The weather ,5.0,The Chark Knight Rises,81.32,75.54,False,True,False,False,False
+2020,5,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,118.96,85.96,True,True,False,False,False
+2020,5,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,85.96,118.96,False,False,False,False,False
+2020,5,4,?NADO ?,2.0,West Oakland  Raiders,107.7,73.14,True,True,False,False,False
+2020,5,2,West Oakland  Raiders,4.0,?NADO ?,73.14,107.7,False,False,False,False,False
+2020,5,7,CeeDeez Nutz And Succ On Em,12.0,Its literally  too easy,137.14,103.76,True,True,False,False,False
+2020,5,12,Its literally  too easy,7.0,CeeDeez Nutz And Succ On Em,103.76,137.14,False,False,False,False,False
+2020,5,10,Rectum Wrecker$$$,3.0,Jack Goff to a sLutz Landry ,82.84,89.34,True,False,False,False,False
+2020,5,3,Jack Goff to a sLutz Landry ,10.0,Rectum Wrecker$$$,89.34,82.84,False,True,False,False,False
+2020,6,9,DK Summit,2.0,West Oakland  Raiders,70.82,81.7,True,False,False,False,False
+2020,6,2,West Oakland  Raiders,9.0,DK Summit,81.7,70.82,False,True,False,False,False
+2020,6,8,Thielen under  The weather ,12.0,Its literally  too easy,91.38,91.98,True,False,False,False,False
+2020,6,12,Its literally  too easy,8.0,Thielen under  The weather ,91.98,91.38,False,True,False,False,False
+2020,6,1,Mr. Commish Sir,3.0,Jack Goff to a sLutz Landry ,56.22,103.74,True,False,False,False,False
+2020,6,3,Jack Goff to a sLutz Landry ,1.0,Mr. Commish Sir,103.74,56.22,False,True,False,False,False
+2020,6,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,155.5,78.34,True,True,False,False,False
+2020,6,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,78.34,155.5,False,False,False,False,False
+2020,6,5,The Chark Knight Rises,7.0,CeeDeez Nutz And Succ On Em,118.82,92.92,True,True,False,False,False
+2020,6,7,CeeDeez Nutz And Succ On Em,5.0,The Chark Knight Rises,92.92,118.82,False,False,False,False,False
+2020,6,11,Attack of Clawmar Jackson,4.0,?NADO ?,92.24,84.2,True,True,False,False,False
+2020,6,4,?NADO ?,11.0,Attack of Clawmar Jackson,84.2,92.24,False,False,False,False,False
+2020,7,2,West Oakland  Raiders,8.0,Thielen under  The weather ,104.12,109.08,True,False,False,False,False
+2020,7,8,Thielen under  The weather ,2.0,West Oakland  Raiders,109.08,104.12,False,True,False,False,False
+2020,7,12,Its literally  too easy,1.0,Mr. Commish Sir,77.42,74.1,True,True,False,False,False
+2020,7,1,Mr. Commish Sir,12.0,Its literally  too easy,74.1,77.42,False,False,False,False,False
+2020,7,3,Jack Goff to a sLutz Landry ,6.0,Andrew Luck Memorial Squad,116.28,94.68,True,True,False,False,False
+2020,7,6,Andrew Luck Memorial Squad,3.0,Jack Goff to a sLutz Landry ,94.68,116.28,False,False,False,False,False
+2020,7,10,Rectum Wrecker$$$,5.0,The Chark Knight Rises,94.86,130.5,True,False,False,False,False
+2020,7,5,The Chark Knight Rises,10.0,Rectum Wrecker$$$,130.5,94.86,False,True,False,False,False
+2020,7,7,CeeDeez Nutz And Succ On Em,11.0,Attack of Clawmar Jackson,106.46,80.66,True,True,False,False,False
+2020,7,11,Attack of Clawmar Jackson,7.0,CeeDeez Nutz And Succ On Em,80.66,106.46,False,False,False,False,False
+2020,7,4,?NADO ?,9.0,DK Summit,82.4,132.98,True,False,False,False,False
+2020,7,9,DK Summit,4.0,?NADO ?,132.98,82.4,False,True,False,False,False
+2020,8,1,Mr. Commish Sir,2.0,West Oakland  Raiders,87.6,112.04,True,False,False,False,False
+2020,8,2,West Oakland  Raiders,1.0,Mr. Commish Sir,112.04,87.6,False,True,False,False,False
+2020,8,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,83.22,75.54,True,True,False,False,False
+2020,8,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,75.54,83.22,False,False,False,False,False
+2020,8,5,The Chark Knight Rises,3.0,Jack Goff to a sLutz Landry ,53.94,90.36,True,False,False,False,False
+2020,8,3,Jack Goff to a sLutz Landry ,5.0,The Chark Knight Rises,90.36,53.94,False,True,False,False,False
+2020,8,11,Attack of Clawmar Jackson,10.0,Rectum Wrecker$$$,91.32,84.36,True,True,False,False,False
+2020,8,10,Rectum Wrecker$$$,11.0,Attack of Clawmar Jackson,84.36,91.32,False,False,False,False,False
+2020,8,9,DK Summit,7.0,CeeDeez Nutz And Succ On Em,114.96,71.66,True,True,False,False,False
+2020,8,7,CeeDeez Nutz And Succ On Em,9.0,DK Summit,71.66,114.96,False,False,False,False,False
+2020,8,8,Thielen under  The weather ,4.0,?NADO ?,45.06,140.54,True,False,False,False,False
+2020,8,4,?NADO ?,8.0,Thielen under  The weather ,140.54,45.06,False,True,False,False,False
+2020,9,2,West Oakland  Raiders,6.0,Andrew Luck Memorial Squad,105.6,83.64,True,True,False,False,False
+2020,9,6,Andrew Luck Memorial Squad,2.0,West Oakland  Raiders,83.64,105.6,False,False,False,False,False
+2020,9,12,Its literally  too easy,5.0,The Chark Knight Rises,75.04,106.48,True,False,False,False,False
+2020,9,5,The Chark Knight Rises,12.0,Its literally  too easy,106.48,75.04,False,True,False,False,False
+2020,9,3,Jack Goff to a sLutz Landry ,11.0,Attack of Clawmar Jackson,112.28,94.6,True,True,False,False,False
+2020,9,11,Attack of Clawmar Jackson,3.0,Jack Goff to a sLutz Landry ,94.6,112.28,False,False,False,False,False
+2020,9,10,Rectum Wrecker$$$,9.0,DK Summit,91.68,68.42,True,True,False,False,False
+2020,9,9,DK Summit,10.0,Rectum Wrecker$$$,68.42,91.68,False,False,False,False,False
+2020,9,7,CeeDeez Nutz And Succ On Em,8.0,Thielen under  The weather ,94.96,90.6,True,True,False,False,False
+2020,9,8,Thielen under  The weather ,7.0,CeeDeez Nutz And Succ On Em,90.6,94.96,False,False,False,False,False
+2020,9,4,?NADO ?,1.0,Mr. Commish Sir,131.48,61.84,True,True,False,False,False
+2020,9,1,Mr. Commish Sir,4.0,?NADO ?,61.84,131.48,False,False,False,False,False
+2020,10,5,The Chark Knight Rises,2.0,West Oakland  Raiders,100.9,90.3,True,True,False,False,False
+2020,10,2,West Oakland  Raiders,5.0,The Chark Knight Rises,90.3,100.9,False,False,False,False,False
+2020,10,11,Attack of Clawmar Jackson,12.0,Its literally  too easy,90.34,115.12,True,False,False,False,False
+2020,10,12,Its literally  too easy,11.0,Attack of Clawmar Jackson,115.12,90.34,False,True,False,False,False
+2020,10,9,DK Summit,3.0,Jack Goff to a sLutz Landry ,71.42,57.22,True,True,False,False,False
+2020,10,3,Jack Goff to a sLutz Landry ,9.0,DK Summit,57.22,71.42,False,False,False,False,False
+2020,10,8,Thielen under  The weather ,10.0,Rectum Wrecker$$$,108.66,121.44,True,False,False,False,False
+2020,10,10,Rectum Wrecker$$$,8.0,Thielen under  The weather ,121.44,108.66,False,True,False,False,False
+2020,10,1,Mr. Commish Sir,7.0,CeeDeez Nutz And Succ On Em,65.28,88.02,True,False,False,False,False
+2020,10,7,CeeDeez Nutz And Succ On Em,1.0,Mr. Commish Sir,88.02,65.28,False,True,False,False,False
+2020,10,6,Andrew Luck Memorial Squad,4.0,?NADO ?,100.88,52.28,True,True,False,False,False
+2020,10,4,?NADO ?,6.0,Andrew Luck Memorial Squad,52.28,100.88,False,False,False,False,False
+2020,11,2,West Oakland  Raiders,11.0,Attack of Clawmar Jackson,107.44,89.34,True,True,False,False,False
+2020,11,11,Attack of Clawmar Jackson,2.0,West Oakland  Raiders,89.34,107.44,False,False,False,False,False
+2020,11,12,Its literally  too easy,9.0,DK Summit,97.18,88.08,True,True,False,False,False
+2020,11,9,DK Summit,12.0,Its literally  too easy,88.08,97.18,False,False,False,False,False
+2020,11,3,Jack Goff to a sLutz Landry ,8.0,Thielen under  The weather ,79.58,104.82,True,False,False,False,False
+2020,11,8,Thielen under  The weather ,3.0,Jack Goff to a sLutz Landry ,104.82,79.58,False,True,False,False,False
+2020,11,10,Rectum Wrecker$$$,1.0,Mr. Commish Sir,76.82,41.92,True,True,False,False,False
+2020,11,1,Mr. Commish Sir,10.0,Rectum Wrecker$$$,41.92,76.82,False,False,False,False,False
+2020,11,7,CeeDeez Nutz And Succ On Em,6.0,Andrew Luck Memorial Squad,105.12,144.82,True,False,False,False,False
+2020,11,6,Andrew Luck Memorial Squad,7.0,CeeDeez Nutz And Succ On Em,144.82,105.12,False,True,False,False,False
+2020,11,4,?NADO ?,5.0,The Chark Knight Rises,101.62,79.36,True,True,False,False,False
+2020,11,5,The Chark Knight Rises,4.0,?NADO ?,79.36,101.62,False,False,False,False,False
+2020,12,2,West Oakland  Raiders,9.0,DK Summit,77.84,106.2,True,False,False,False,False
+2020,12,9,DK Summit,2.0,West Oakland  Raiders,106.2,77.84,False,True,False,False,False
+2020,12,12,Its literally  too easy,8.0,Thielen under  The weather ,78.4,47.34,True,True,False,False,False
+2020,12,8,Thielen under  The weather ,12.0,Its literally  too easy,47.34,78.4,False,False,False,False,False
+2020,12,3,Jack Goff to a sLutz Landry ,1.0,Mr. Commish Sir,109.28,98.2,True,True,False,False,False
+2020,12,1,Mr. Commish Sir,3.0,Jack Goff to a sLutz Landry ,98.2,109.28,False,False,False,False,False
+2020,12,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,103.74,121.54,True,False,False,False,False
+2020,12,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,121.54,103.74,False,True,False,False,False
+2020,12,7,CeeDeez Nutz And Succ On Em,5.0,The Chark Knight Rises,85.5,90.0,True,False,False,False,False
+2020,12,5,The Chark Knight Rises,7.0,CeeDeez Nutz And Succ On Em,90.0,85.5,False,True,False,False,False
+2020,12,4,?NADO ?,11.0,Attack of Clawmar Jackson,122.48,100.98,True,True,False,False,False
+2020,12,11,Attack of Clawmar Jackson,4.0,?NADO ?,100.98,122.48,False,False,False,False,False
+2020,13,8,Thielen under  The weather ,2.0,West Oakland  Raiders,133.74,90.12,True,True,False,False,False
+2020,13,2,West Oakland  Raiders,8.0,Thielen under  The weather ,90.12,133.74,False,False,False,False,False
+2020,13,1,Mr. Commish Sir,12.0,Its literally  too easy,89.04,80.46,True,True,False,False,False
+2020,13,12,Its literally  too easy,1.0,Mr. Commish Sir,80.46,89.04,False,False,False,False,False
+2020,13,6,Andrew Luck Memorial Squad,3.0,Jack Goff to a sLutz Landry ,54.26,109.58,True,False,False,False,False
+2020,13,3,Jack Goff to a sLutz Landry ,6.0,Andrew Luck Memorial Squad,109.58,54.26,False,True,False,False,False
+2020,13,5,The Chark Knight Rises,10.0,Rectum Wrecker$$$,81.42,79.92,True,True,False,False,False
+2020,13,10,Rectum Wrecker$$$,5.0,The Chark Knight Rises,79.92,81.42,False,False,False,False,False
+2020,13,11,Attack of Clawmar Jackson,7.0,CeeDeez Nutz And Succ On Em,95.68,75.14,True,True,False,False,False
+2020,13,7,CeeDeez Nutz And Succ On Em,11.0,Attack of Clawmar Jackson,75.14,95.68,False,False,False,False,False
+2020,13,9,DK Summit,4.0,?NADO ?,75.32,107.42,True,False,False,False,False
+2020,13,4,?NADO ?,9.0,DK Summit,107.42,75.32,False,True,False,False,False
+2020,14,4,?NADO ?,,BYE,141.32,,True,,False,False,True
+2020,14,6,Andrew Luck Memorial Squad,2.0,West Oakland  Raiders,124.82,96.24,True,True,False,False,False
+2020,14,2,West Oakland  Raiders,6.0,Andrew Luck Memorial Squad,96.24,124.82,False,False,False,False,False
+2020,14,5,The Chark Knight Rises,11.0,Attack of Clawmar Jackson,105.66,94.12,True,True,False,False,False
+2020,14,11,Attack of Clawmar Jackson,5.0,The Chark Knight Rises,94.12,105.66,False,False,False,False,False
+2020,14,3,Jack Goff to a sLutz Landry ,,BYE,104.46,,True,,False,False,True
+2020,14,9,DK Summit,8.0,Thielen under  The weather ,73.74,80.92,True,False,False,False,False
+2020,14,8,Thielen under  The weather ,9.0,DK Summit,80.92,73.74,False,True,False,False,False
+2020,14,12,Its literally  too easy,10.0,Rectum Wrecker$$$,71.68,79.94,True,False,False,False,False
+2020,14,10,Rectum Wrecker$$$,12.0,Its literally  too easy,79.94,71.68,False,True,False,False,False
+2020,14,7,CeeDeez Nutz And Succ On Em,1.0,Mr. Commish Sir,115.66,73.66,True,True,False,False,False
+2020,14,1,Mr. Commish Sir,7.0,CeeDeez Nutz And Succ On Em,73.66,115.66,False,False,False,False,False
+2020,15,4,?NADO ?,6.0,Andrew Luck Memorial Squad,136.16,98.06,True,True,False,False,False
+2020,15,6,Andrew Luck Memorial Squad,4.0,?NADO ?,98.06,136.16,False,False,False,False,False
+2020,15,3,Jack Goff to a sLutz Landry ,5.0,The Chark Knight Rises,88.06,85.74,True,True,False,False,False
+2020,15,5,The Chark Knight Rises,3.0,Jack Goff to a sLutz Landry ,85.74,88.06,False,False,False,False,False
+2020,15,2,West Oakland  Raiders,11.0,Attack of Clawmar Jackson,72.82,118.42,True,False,False,False,False
+2020,15,11,Attack of Clawmar Jackson,2.0,West Oakland  Raiders,118.42,72.82,False,True,False,False,False
+2020,15,8,Thielen under  The weather ,10.0,Rectum Wrecker$$$,161.96,86.1,True,True,False,False,False
+2020,15,10,Rectum Wrecker$$$,8.0,Thielen under  The weather ,86.1,161.96,False,False,False,False,False
+2020,15,9,DK Summit,7.0,CeeDeez Nutz And Succ On Em,107.04,97.38,True,True,False,False,False
+2020,15,7,CeeDeez Nutz And Succ On Em,9.0,DK Summit,97.38,107.04,False,False,False,False,False
+2020,15,12,Its literally  too easy,1.0,Mr. Commish Sir,50.2,35.62,True,True,False,False,False
+2020,15,1,Mr. Commish Sir,12.0,Its literally  too easy,35.62,50.2,False,False,False,False,False
+2020,16,4,?NADO ?,3.0,Jack Goff to a sLutz Landry ,93.02,83.7,True,True,False,False,False
+2020,16,3,Jack Goff to a sLutz Landry ,4.0,?NADO ?,83.7,93.02,False,False,False,False,False
+2020,16,5,The Chark Knight Rises,6.0,Andrew Luck Memorial Squad,93.34,76.02,True,True,False,False,False
+2020,16,6,Andrew Luck Memorial Squad,5.0,The Chark Knight Rises,76.02,93.34,False,False,False,False,False
+2020,16,2,West Oakland  Raiders,11.0,Attack of Clawmar Jackson,128.72,146.52,True,False,False,False,False
+2020,16,11,Attack of Clawmar Jackson,2.0,West Oakland  Raiders,146.52,128.72,False,True,False,False,False
+2020,16,9,DK Summit,8.0,Thielen under  The weather ,92.3,90.5,True,True,False,False,False
+2020,16,8,Thielen under  The weather ,9.0,DK Summit,90.5,92.3,False,False,False,False,False
+2020,16,12,Its literally  too easy,10.0,Rectum Wrecker$$$,98.26,63.12,True,True,False,False,False
+2020,16,10,Rectum Wrecker$$$,12.0,Its literally  too easy,63.12,98.26,False,False,False,False,False
+2020,16,7,CeeDeez Nutz And Succ On Em,1.0,Mr. Commish Sir,137.48,99.84,True,True,False,False,False
+2020,16,1,Mr. Commish Sir,7.0,CeeDeez Nutz And Succ On Em,99.84,137.48,False,False,False,False,False

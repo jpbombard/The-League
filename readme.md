@@ -1,45 +1,53 @@
 # ESPN Fantasy Football Data Pipeline
 
-This project builds a historical dataset from my ESPN Fantasy Football league (2012–2024) by scraping data using the `espn-api` Python package, exporting it to CSV, and preparing it for analysis in Jupyter and visualization in Tableau.
+This project builds a historical dataset from my ESPN Fantasy Football league (2012–2024) by scraping data using the `espn-api` Python package, exporting it to CSV, cleaning and normalizing in notebooks, and finally loading into a SQLite database for analysis and visualization.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fantasy-football-project/
 ├── data/
-│   └── analysis.ipynb            # Notebook for data exploration and visualization
+│   ├── analysis.ipynb             # Notebook for analysis and exploration
+│   ├── cleaning.ipynb             # Notebook for data cleaning
+│   └── export.ipynb               # Notebook for exporting cleaned data to database
 │
 ├── scripts/
-│   ├── get_matchups.py           # Scrapes weekly matchup data per season
-│   ├── get_standings.py          # Scrapes team-level standings per season
-│   └── get_season_summary.py     # Generates season summary metrics from CSVs
+│   ├── get_matchups.py            # Scrapes weekly matchup data per season
+│   ├── get_standings.py           # Scrapes team-level standings per season
+│   └── get_season_summary.py      # Generates season summary metrics from CSVs
 │
 ├── csvs/
-│   ├── matchups/                 # Contains one CSV per season of weekly matchups
-│   └── season/                   # Final standings + summary for each season
+│   ├── matchups/                  # Raw per-season matchup data
+│   └── season/                    # Raw per-season standings and summaries
 │
-├── .env                          # Stores ESPN S2 + SWID cookies (not tracked in Git)
-├── .gitignore                    # Ignores CSVs, secrets, and system files
+├── db/
+│   ├── League_DB                  # SQLite database file
+│   └── sql_scripts/               # SQL queries and scripts for analysis
+│
+├── .env                           # Stores ESPN S2 + SWID cookies (not tracked in Git)
+├── .gitignore                     # Ignores raw CSVs, secrets, and system files
 └── README.md
 ```
 
 ---
 
-## 🧠 Overview
+## Overview
 
-This repo automates the process of:
+This repo automates the end-to-end pipeline of fantasy football data:
 
-1. Scraping ESPN fantasy football data using `espn-api`
-2. Storing structured data as CSVs (matchups, standings, summaries)
-3. Preparing clean inputs for data analysis and visualization
+1. **Scraping** ESPN fantasy football data with `espn-api`.
+2. **Exporting raw CSVs** for matchups, standings, and summaries.
+3. **Cleaning** the raw CSVs using `cleaning.ipynb`.
+4. **Exporting** cleaned data from `export.ipynb` into a SQLite database.
+5. **Analyzing data** in `analysis.ipynb` or with SQL in DBeaver.
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
-1. **Run scraping scripts:**
+1. **Run scraping scripts** to fetch raw data and save to `csvs/`:
 
    ```bash
    python scripts/get_matchups.py
@@ -47,26 +55,25 @@ This repo automates the process of:
    python scripts/get_season_summary.py
    ```
 
-2. **Explore data in notebook:**
+2. **Clean raw data** in `cleaning.ipynb`.
 
-   ```python
-   # Load and analyze matchups or standings
-   pd.read_csv("csvs/matchups/matchups_2024.csv")
-   pd.read_csv("csvs/season/all_team_standings.csv")
-   ```
+   * Normalize owner names
+   * Fix playoff/consolation flags
+   * Generate cleaned CSVs (e.g., `matchups_all_cleaned.csv`)
 
-3. **Export cleaned and organized data to a SQL database.**
+3. **Export to database** in `export.ipynb`, loading the cleaned CSVs into `db/League_DB`.
 
-4. **Visualize insights in Jupyter or Tableau.**
+4. **Explore data** in `analysis.ipynb` or run SQL queries directly from `db/sql_scripts/` in DBeaver.
 
 ---
 
-## 💠 Dependencies
+## Dependencies
 
-- Python 3.9+
-- [`espn-api`](https://github.com/cwendt94/espn-api)
-- `pandas`
-- `python-dotenv`
+* Python 3.9+
+* [`espn-api`](https://github.com/cwendt94/espn-api)
+* `pandas`
+* `python-dotenv`
+* `sqlalchemy`
 
 Install requirements:
 
@@ -76,32 +83,16 @@ pip install -r requirements.txt
 
 ---
 
-## 🔒 Notes
+## Future Improvements
 
-- Requires a `.env` file with ESPN credentials:
-
-  ```
-  ESPN_S2=your_espn_s2_token
-  SWID=your_swid_token
-  ```
-
-- Matchup and standings data is not tracked in Git (`csvs/` is ignored)
+* Build Tableau dashboards for visualization of league trends, playoff outcomes, and historical team performance.
+* Perform statistical analyses such as regression, t-tests, or hypothesis testing on fantasy outcomes.
+* Expand the dataset to include player-level statistics and draft data.
+* Create advanced SQL views and analytical queries for richer insights.
 
 ---
 
-## 📊 Future Improvements
+## Author
 
-- Normalize team names and owners over time
-- Integrate player-level stats and draft data
-- Upload to SQL database for more advanced querying
-- Build Tableau dashboards or interactive dashboards in Python
-
----
-
-## ✍️ Author
-
-Julian Bombard\
+Julian Bombard
 @jpbombard
-
-
-

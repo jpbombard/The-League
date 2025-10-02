@@ -1,0 +1,205 @@
+Season,Week,Team ID,Team Name,Opponent ID,Opponent Name,Score,Opponent Score,Is Home,Is Winner,Is Playoff,Is Consolation,Is Bye Week
+2024,1,3,Fergayson or th0t daughter,9.0,Purdy Ladds,86.68,160.48,True,False,False,False,False
+2024,1,9,Purdy Ladds,3.0,Fergayson or th0t daughter,160.48,86.68,False,True,False,False,False
+2024,1,6,Andrew Luck Memorial Squad,11.0,rip god,74.66,94.22,True,False,False,False,False
+2024,1,11,rip god,6.0,Andrew Luck Memorial Squad,94.22,74.66,False,True,False,False,False
+2024,1,7,Kamara Harris ,8.0,The Healthy Colons,93.02,70.58,True,True,False,False,False
+2024,1,8,The Healthy Colons,7.0,Kamara Harris ,70.58,93.02,False,False,False,False,False
+2024,1,10,Rectum Wrecker$$$,4.0,ham in a tube,74.8,89.18,True,False,False,False,False
+2024,1,4,ham in a tube,10.0,Rectum Wrecker$$$,89.18,74.8,False,True,False,False,False
+2024,1,2,Boy With Apple,5.0,brb building rome,94.34,85.26,True,True,False,False,False
+2024,1,5,brb building rome,2.0,Boy With Apple,85.26,94.34,False,False,False,False,False
+2024,1,1,Mr. Commish Sir,12.0,Its literally  too easy,110.02,70.16,True,True,False,False,False
+2024,1,12,Its literally  too easy,1.0,Mr. Commish Sir,70.16,110.02,False,False,False,False,False
+2024,2,9,Purdy Ladds,11.0,rip god,95.38,119.52,True,False,False,False,False
+2024,2,11,rip god,9.0,Purdy Ladds,119.52,95.38,False,True,False,False,False
+2024,2,8,The Healthy Colons,3.0,Fergayson or th0t daughter,81.78,98.64,True,False,False,False,False
+2024,2,3,Fergayson or th0t daughter,8.0,The Healthy Colons,98.64,81.78,False,True,False,False,False
+2024,2,7,Kamara Harris ,6.0,Andrew Luck Memorial Squad,96.6,106.22,True,False,False,False,False
+2024,2,6,Andrew Luck Memorial Squad,7.0,Kamara Harris ,106.22,96.6,False,True,False,False,False
+2024,2,4,ham in a tube,5.0,brb building rome,71.9,80.4,True,False,False,False,False
+2024,2,5,brb building rome,4.0,ham in a tube,80.4,71.9,False,True,False,False,False
+2024,2,12,Its literally  too easy,10.0,Rectum Wrecker$$$,79.62,63.84,True,True,False,False,False
+2024,2,10,Rectum Wrecker$$$,12.0,Its literally  too easy,63.84,79.62,False,False,False,False,False
+2024,2,1,Mr. Commish Sir,2.0,Boy With Apple,135.78,104.64,True,True,False,False,False
+2024,2,2,Boy With Apple,1.0,Mr. Commish Sir,104.64,135.78,False,False,False,False,False
+2024,3,8,The Healthy Colons,9.0,Purdy Ladds,102.16,116.78,True,False,False,False,False
+2024,3,9,Purdy Ladds,8.0,The Healthy Colons,116.78,102.16,False,True,False,False,False
+2024,3,11,rip god,7.0,Kamara Harris ,91.24,78.24,True,True,False,False,False
+2024,3,7,Kamara Harris ,11.0,rip god,78.24,91.24,False,False,False,False,False
+2024,3,3,Fergayson or th0t daughter,6.0,Andrew Luck Memorial Squad,98.48,80.06,True,True,False,False,False
+2024,3,6,Andrew Luck Memorial Squad,3.0,Fergayson or th0t daughter,80.06,98.48,False,False,False,False,False
+2024,3,12,Its literally  too easy,4.0,ham in a tube,107.06,106.52,True,True,False,False,False
+2024,3,4,ham in a tube,12.0,Its literally  too easy,106.52,107.06,False,False,False,False,False
+2024,3,5,brb building rome,1.0,Mr. Commish Sir,75.6,112.18,True,False,False,False,False
+2024,3,1,Mr. Commish Sir,5.0,brb building rome,112.18,75.6,False,True,False,False,False
+2024,3,10,Rectum Wrecker$$$,2.0,Boy With Apple,59.94,79.62,True,False,False,False,False
+2024,3,2,Boy With Apple,10.0,Rectum Wrecker$$$,79.62,59.94,False,True,False,False,False
+2024,4,9,Purdy Ladds,7.0,Kamara Harris ,104.72,106.28,True,False,False,False,False
+2024,4,7,Kamara Harris ,9.0,Purdy Ladds,106.28,104.72,False,True,False,False,False
+2024,4,6,Andrew Luck Memorial Squad,8.0,The Healthy Colons,71.76,118.9,True,False,False,False,False
+2024,4,8,The Healthy Colons,6.0,Andrew Luck Memorial Squad,118.9,71.76,False,True,False,False,False
+2024,4,3,Fergayson or th0t daughter,11.0,rip god,125.18,92.32,True,True,False,False,False
+2024,4,11,rip god,3.0,Fergayson or th0t daughter,92.32,125.18,False,False,False,False,False
+2024,4,4,ham in a tube,1.0,Mr. Commish Sir,81.9,88.54,True,False,False,False,False
+2024,4,1,Mr. Commish Sir,4.0,ham in a tube,88.54,81.9,False,True,False,False,False
+2024,4,2,Boy With Apple,12.0,Its literally  too easy,59.1,81.34,True,False,False,False,False
+2024,4,12,Its literally  too easy,2.0,Boy With Apple,81.34,59.1,False,True,False,False,False
+2024,4,10,Rectum Wrecker$$$,5.0,brb building rome,84.9,88.7,True,False,False,False,False
+2024,4,5,brb building rome,10.0,Rectum Wrecker$$$,88.7,84.9,False,True,False,False,False
+2024,5,6,Andrew Luck Memorial Squad,9.0,Purdy Ladds,126.06,71.86,True,True,False,False,False
+2024,5,9,Purdy Ladds,6.0,Andrew Luck Memorial Squad,71.86,126.06,False,False,False,False,False
+2024,5,7,Kamara Harris ,3.0,Fergayson or th0t daughter,86.66,100.72,True,False,False,False,False
+2024,5,3,Fergayson or th0t daughter,7.0,Kamara Harris ,100.72,86.66,False,True,False,False,False
+2024,5,8,The Healthy Colons,11.0,rip god,78.36,109.24,True,False,False,False,False
+2024,5,11,rip god,8.0,The Healthy Colons,109.24,78.36,False,True,False,False,False
+2024,5,2,Boy With Apple,4.0,ham in a tube,80.84,121.24,True,False,False,False,False
+2024,5,4,ham in a tube,2.0,Boy With Apple,121.24,80.84,False,True,False,False,False
+2024,5,1,Mr. Commish Sir,10.0,Rectum Wrecker$$$,95.14,76.14,True,True,False,False,False
+2024,5,10,Rectum Wrecker$$$,1.0,Mr. Commish Sir,76.14,95.14,False,False,False,False,False
+2024,5,12,Its literally  too easy,5.0,brb building rome,86.16,101.64,True,False,False,False,False
+2024,5,5,brb building rome,12.0,Its literally  too easy,101.64,86.16,False,True,False,False,False
+2024,6,9,Purdy Ladds,4.0,ham in a tube,129.64,65.74,True,True,False,False,False
+2024,6,4,ham in a tube,9.0,Purdy Ladds,65.74,129.64,False,False,False,False,False
+2024,6,3,Fergayson or th0t daughter,10.0,Rectum Wrecker$$$,72.62,73.4,True,False,False,False,False
+2024,6,10,Rectum Wrecker$$$,3.0,Fergayson or th0t daughter,73.4,72.62,False,True,False,False,False
+2024,6,11,rip god,5.0,brb building rome,104.96,110.48,True,False,False,False,False
+2024,6,5,brb building rome,11.0,rip god,110.48,104.96,False,True,False,False,False
+2024,6,8,The Healthy Colons,12.0,Its literally  too easy,108.7,55.52,True,True,False,False,False
+2024,6,12,Its literally  too easy,8.0,The Healthy Colons,55.52,108.7,False,False,False,False,False
+2024,6,7,Kamara Harris ,1.0,Mr. Commish Sir,125.94,74.42,True,True,False,False,False
+2024,6,1,Mr. Commish Sir,7.0,Kamara Harris ,74.42,125.94,False,False,False,False,False
+2024,6,6,Andrew Luck Memorial Squad,2.0,Boy With Apple,116.14,82.6,True,True,False,False,False
+2024,6,2,Boy With Apple,6.0,Andrew Luck Memorial Squad,82.6,116.14,False,False,False,False,False
+2024,7,4,ham in a tube,3.0,Fergayson or th0t daughter,108.02,128.94,True,False,False,False,False
+2024,7,3,Fergayson or th0t daughter,4.0,ham in a tube,128.94,108.02,False,True,False,False,False
+2024,7,10,Rectum Wrecker$$$,11.0,rip god,31.18,100.06,True,False,False,False,False
+2024,7,11,rip god,10.0,Rectum Wrecker$$$,100.06,31.18,False,True,False,False,False
+2024,7,5,brb building rome,8.0,The Healthy Colons,86.52,113.06,True,False,False,False,False
+2024,7,8,The Healthy Colons,5.0,brb building rome,113.06,86.52,False,True,False,False,False
+2024,7,12,Its literally  too easy,7.0,Kamara Harris ,90.58,79.4,True,True,False,False,False
+2024,7,7,Kamara Harris ,12.0,Its literally  too easy,79.4,90.58,False,False,False,False,False
+2024,7,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,74.92,80.14,True,False,False,False,False
+2024,7,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,80.14,74.92,False,True,False,False,False
+2024,7,2,Boy With Apple,9.0,Purdy Ladds,78.56,102.78,True,False,False,False,False
+2024,7,9,Purdy Ladds,2.0,Boy With Apple,102.78,78.56,False,True,False,False,False
+2024,8,11,rip god,4.0,ham in a tube,124.54,87.82,True,True,False,False,False
+2024,8,4,ham in a tube,11.0,rip god,87.82,124.54,False,False,False,False,False
+2024,8,8,The Healthy Colons,10.0,Rectum Wrecker$$$,85.3,87.26,True,False,False,False,False
+2024,8,10,Rectum Wrecker$$$,8.0,The Healthy Colons,87.26,85.3,False,True,False,False,False
+2024,8,7,Kamara Harris ,5.0,brb building rome,93.64,111.04,True,False,False,False,False
+2024,8,5,brb building rome,7.0,Kamara Harris ,111.04,93.64,False,True,False,False,False
+2024,8,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,85.46,69.88,True,True,False,False,False
+2024,8,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,69.88,85.46,False,False,False,False,False
+2024,8,9,Purdy Ladds,1.0,Mr. Commish Sir,105.42,120.36,True,False,False,False,False
+2024,8,1,Mr. Commish Sir,9.0,Purdy Ladds,120.36,105.42,False,True,False,False,False
+2024,8,3,Fergayson or th0t daughter,2.0,Boy With Apple,101.24,118.78,True,False,False,False,False
+2024,8,2,Boy With Apple,3.0,Fergayson or th0t daughter,118.78,101.24,False,True,False,False,False
+2024,9,4,ham in a tube,8.0,The Healthy Colons,88.78,108.96,True,False,False,False,False
+2024,9,8,The Healthy Colons,4.0,ham in a tube,108.96,88.78,False,True,False,False,False
+2024,9,10,Rectum Wrecker$$$,7.0,Kamara Harris ,77.88,117.2,True,False,False,False,False
+2024,9,7,Kamara Harris ,10.0,Rectum Wrecker$$$,117.2,77.88,False,True,False,False,False
+2024,9,5,brb building rome,6.0,Andrew Luck Memorial Squad,107.42,95.98,True,True,False,False,False
+2024,9,6,Andrew Luck Memorial Squad,5.0,brb building rome,95.98,107.42,False,False,False,False,False
+2024,9,12,Its literally  too easy,9.0,Purdy Ladds,54.02,94.92,True,False,False,False,False
+2024,9,9,Purdy Ladds,12.0,Its literally  too easy,94.92,54.02,False,True,False,False,False
+2024,9,1,Mr. Commish Sir,3.0,Fergayson or th0t daughter,80.6,118.6,True,False,False,False,False
+2024,9,3,Fergayson or th0t daughter,1.0,Mr. Commish Sir,118.6,80.6,False,True,False,False,False
+2024,9,2,Boy With Apple,11.0,rip god,101.74,107.2,True,False,False,False,False
+2024,9,11,rip god,2.0,Boy With Apple,107.2,101.74,False,True,False,False,False
+2024,10,7,Kamara Harris ,4.0,ham in a tube,74.04,84.88,True,False,False,False,False
+2024,10,4,ham in a tube,7.0,Kamara Harris ,84.88,74.04,False,True,False,False,False
+2024,10,6,Andrew Luck Memorial Squad,10.0,Rectum Wrecker$$$,86.22,66.74,True,True,False,False,False
+2024,10,10,Rectum Wrecker$$$,6.0,Andrew Luck Memorial Squad,66.74,86.22,False,False,False,False,False
+2024,10,9,Purdy Ladds,5.0,brb building rome,106.32,91.0,True,True,False,False,False
+2024,10,5,brb building rome,9.0,Purdy Ladds,91.0,106.32,False,False,False,False,False
+2024,10,3,Fergayson or th0t daughter,12.0,Its literally  too easy,73.48,85.6,True,False,False,False,False
+2024,10,12,Its literally  too easy,3.0,Fergayson or th0t daughter,85.6,73.48,False,True,False,False,False
+2024,10,11,rip god,1.0,Mr. Commish Sir,96.18,109.1,True,False,False,False,False
+2024,10,1,Mr. Commish Sir,11.0,rip god,109.1,96.18,False,True,False,False,False
+2024,10,8,The Healthy Colons,2.0,Boy With Apple,64.64,121.24,True,False,False,False,False
+2024,10,2,Boy With Apple,8.0,The Healthy Colons,121.24,64.64,False,True,False,False,False
+2024,11,4,ham in a tube,6.0,Andrew Luck Memorial Squad,73.68,134.84,True,False,False,False,False
+2024,11,6,Andrew Luck Memorial Squad,4.0,ham in a tube,134.84,73.68,False,True,False,False,False
+2024,11,10,Rectum Wrecker$$$,9.0,Purdy Ladds,121.08,117.86,True,True,False,False,False
+2024,11,9,Purdy Ladds,10.0,Rectum Wrecker$$$,117.86,121.08,False,False,False,False,False
+2024,11,5,brb building rome,3.0,Fergayson or th0t daughter,90.98,85.46,True,True,False,False,False
+2024,11,3,Fergayson or th0t daughter,5.0,brb building rome,85.46,90.98,False,False,False,False,False
+2024,11,12,Its literally  too easy,11.0,rip god,83.0,94.14,True,False,False,False,False
+2024,11,11,rip god,12.0,Its literally  too easy,94.14,83.0,False,True,False,False,False
+2024,11,1,Mr. Commish Sir,8.0,The Healthy Colons,54.04,104.94,True,False,False,False,False
+2024,11,8,The Healthy Colons,1.0,Mr. Commish Sir,104.94,54.04,False,True,False,False,False
+2024,11,2,Boy With Apple,7.0,Kamara Harris ,118.24,99.12,True,True,False,False,False
+2024,11,7,Kamara Harris ,2.0,Boy With Apple,99.12,118.24,False,False,False,False,False
+2024,12,4,ham in a tube,9.0,Purdy Ladds,53.54,123.66,True,False,False,False,False
+2024,12,9,Purdy Ladds,4.0,ham in a tube,123.66,53.54,False,True,False,False,False
+2024,12,10,Rectum Wrecker$$$,3.0,Fergayson or th0t daughter,72.56,101.9,True,False,False,False,False
+2024,12,3,Fergayson or th0t daughter,10.0,Rectum Wrecker$$$,101.9,72.56,False,True,False,False,False
+2024,12,5,brb building rome,11.0,rip god,95.32,62.26,True,True,False,False,False
+2024,12,11,rip god,5.0,brb building rome,62.26,95.32,False,False,False,False,False
+2024,12,12,Its literally  too easy,8.0,The Healthy Colons,82.76,105.9,True,False,False,False,False
+2024,12,8,The Healthy Colons,12.0,Its literally  too easy,105.9,82.76,False,True,False,False,False
+2024,12,1,Mr. Commish Sir,7.0,Kamara Harris ,90.58,67.46,True,True,False,False,False
+2024,12,7,Kamara Harris ,1.0,Mr. Commish Sir,67.46,90.58,False,False,False,False,False
+2024,12,2,Boy With Apple,6.0,Andrew Luck Memorial Squad,144.96,92.36,True,True,False,False,False
+2024,12,6,Andrew Luck Memorial Squad,2.0,Boy With Apple,92.36,144.96,False,False,False,False,False
+2024,13,3,Fergayson or th0t daughter,4.0,ham in a tube,93.04,129.32,True,False,False,False,False
+2024,13,4,ham in a tube,3.0,Fergayson or th0t daughter,129.32,93.04,False,True,False,False,False
+2024,13,11,rip god,10.0,Rectum Wrecker$$$,68.12,93.34,True,False,False,False,False
+2024,13,10,Rectum Wrecker$$$,11.0,rip god,93.34,68.12,False,True,False,False,False
+2024,13,8,The Healthy Colons,5.0,brb building rome,96.1,95.58,True,True,False,False,False
+2024,13,5,brb building rome,8.0,The Healthy Colons,95.58,96.1,False,False,False,False,False
+2024,13,7,Kamara Harris ,12.0,Its literally  too easy,115.8,133.94,True,False,False,False,False
+2024,13,12,Its literally  too easy,7.0,Kamara Harris ,133.94,115.8,False,True,False,False,False
+2024,13,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,100.46,88.78,True,True,False,False,False
+2024,13,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,88.78,100.46,False,False,False,False,False
+2024,13,9,Purdy Ladds,2.0,Boy With Apple,93.12,87.24,True,True,False,False,False
+2024,13,2,Boy With Apple,9.0,Purdy Ladds,87.24,93.12,False,False,False,False,False
+2024,14,4,ham in a tube,11.0,rip god,114.08,82.02,True,True,False,False,False
+2024,14,11,rip god,4.0,ham in a tube,82.02,114.08,False,False,False,False,False
+2024,14,10,Rectum Wrecker$$$,8.0,The Healthy Colons,85.38,161.18,True,False,False,False,False
+2024,14,8,The Healthy Colons,10.0,Rectum Wrecker$$$,161.18,85.38,False,True,False,False,False
+2024,14,5,brb building rome,7.0,Kamara Harris ,83.16,87.2,True,False,False,False,False
+2024,14,7,Kamara Harris ,5.0,brb building rome,87.2,83.16,False,True,False,False,False
+2024,14,12,Its literally  too easy,6.0,Andrew Luck Memorial Squad,74.32,95.66,True,False,False,False,False
+2024,14,6,Andrew Luck Memorial Squad,12.0,Its literally  too easy,95.66,74.32,False,True,False,False,False
+2024,14,1,Mr. Commish Sir,9.0,Purdy Ladds,73.02,85.94,True,False,False,False,False
+2024,14,9,Purdy Ladds,1.0,Mr. Commish Sir,85.94,73.02,False,True,False,False,False
+2024,14,2,Boy With Apple,3.0,Fergayson or th0t daughter,134.7,125.16,True,True,False,False,False
+2024,14,3,Fergayson or th0t daughter,2.0,Boy With Apple,125.16,134.7,False,False,False,False,False
+2024,15,9,Purdy Ladds,,BYE,37.92,,True,,False,False,True
+2024,15,8,The Healthy Colons,11.0,rip god,84.34,101.9,True,False,False,False,False
+2024,15,11,rip god,8.0,The Healthy Colons,101.9,84.34,False,True,False,False,False
+2024,15,5,brb building rome,6.0,Andrew Luck Memorial Squad,80.0,109.44,True,False,False,False,False
+2024,15,6,Andrew Luck Memorial Squad,5.0,brb building rome,109.44,80.0,False,True,False,False,False
+2024,15,1,Mr. Commish Sir,,BYE,119.5,,True,,False,False,True
+2024,15,3,Fergayson or th0t daughter,2.0,Boy With Apple,139.14,96.86,True,True,False,False,False
+2024,15,2,Boy With Apple,3.0,Fergayson or th0t daughter,96.86,139.14,False,False,False,False,False
+2024,15,12,Its literally  too easy,7.0,Kamara Harris ,71.36,131.62,True,False,False,False,False
+2024,15,7,Kamara Harris ,12.0,Its literally  too easy,131.62,71.36,False,True,False,False,False
+2024,15,4,ham in a tube,10.0,Rectum Wrecker$$$,155.88,127.26,True,True,False,False,False
+2024,15,10,Rectum Wrecker$$$,4.0,ham in a tube,127.26,155.88,False,False,False,False,False
+2024,16,9,Purdy Ladds,11.0,rip god,112.42,55.76,True,True,False,False,False
+2024,16,11,rip god,9.0,Purdy Ladds,55.76,112.42,False,False,False,False,False
+2024,16,1,Mr. Commish Sir,6.0,Andrew Luck Memorial Squad,90.78,130.88,True,False,False,False,False
+2024,16,6,Andrew Luck Memorial Squad,1.0,Mr. Commish Sir,130.88,90.78,False,True,False,False,False
+2024,16,8,The Healthy Colons,5.0,brb building rome,118.04,111.12,True,True,False,False,False
+2024,16,5,brb building rome,8.0,The Healthy Colons,111.12,118.04,False,False,False,False,False
+2024,16,3,Fergayson or th0t daughter,7.0,Kamara Harris ,128.92,87.42,True,True,False,False,False
+2024,16,7,Kamara Harris ,3.0,Fergayson or th0t daughter,87.42,128.92,False,False,False,False,False
+2024,16,2,Boy With Apple,4.0,ham in a tube,125.4,95.76,True,True,False,False,False
+2024,16,4,ham in a tube,2.0,Boy With Apple,95.76,125.4,False,False,False,False,False
+2024,16,12,Its literally  too easy,10.0,Rectum Wrecker$$$,96.64,109.22,True,False,False,False,False
+2024,16,10,Rectum Wrecker$$$,12.0,Its literally  too easy,109.22,96.64,False,True,False,False,False
+2024,17,9,Purdy Ladds,6.0,Andrew Luck Memorial Squad,121.54,160.58,True,False,False,False,False
+2024,17,6,Andrew Luck Memorial Squad,9.0,Purdy Ladds,160.58,121.54,False,True,False,False,False
+2024,17,1,Mr. Commish Sir,11.0,rip god,83.82,110.28,True,False,False,False,False
+2024,17,11,rip god,1.0,Mr. Commish Sir,110.28,83.82,False,True,False,False,False
+2024,17,8,The Healthy Colons,5.0,brb building rome,120.18,81.86,True,True,False,False,False
+2024,17,5,brb building rome,8.0,The Healthy Colons,81.86,120.18,False,False,False,False,False
+2024,17,3,Fergayson or th0t daughter,2.0,Boy With Apple,94.88,107.1,True,False,False,False,False
+2024,17,2,Boy With Apple,3.0,Fergayson or th0t daughter,107.1,94.88,False,True,False,False,False
+2024,17,7,Kamara Harris ,10.0,Rectum Wrecker$$$,69.96,87.08,True,False,False,False,False
+2024,17,10,Rectum Wrecker$$$,7.0,Kamara Harris ,87.08,69.96,False,True,False,False,False
+2024,17,12,Its literally  too easy,4.0,ham in a tube,71.68,99.78,True,False,False,False,False
+2024,17,4,ham in a tube,12.0,Its literally  too easy,99.78,71.68,False,True,False,False,False
